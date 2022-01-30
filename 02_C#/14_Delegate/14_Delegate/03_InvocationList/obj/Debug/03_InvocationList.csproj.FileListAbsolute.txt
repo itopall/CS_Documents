@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\03_InvocationList\bin\Debug\03_InvocationList.exe.config
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\03_InvocationList\bin\Debug\03_InvocationList.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\03_InvocationList\bin\Debug\03_InvocationList.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\03_InvocationList\obj\Debug\03_InvocationList.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\03_InvocationList\obj\Debug\03_InvocationList.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\03_InvocationList\obj\Debug\03_InvocationList.pdb

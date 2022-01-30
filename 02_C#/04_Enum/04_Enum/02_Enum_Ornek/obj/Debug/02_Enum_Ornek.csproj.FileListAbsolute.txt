@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\02_Enum_Ornek\bin\Debug\02_Enum_Ornek.exe.config
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\02_Enum_Ornek\bin\Debug\02_Enum_Ornek.exe
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\02_Enum_Ornek\bin\Debug\02_Enum_Ornek.pdb
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\02_Enum_Ornek\obj\Debug\02_Enum_Ornek.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\02_Enum_Ornek\obj\Debug\02_Enum_Ornek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\02_Enum_Ornek\obj\Debug\02_Enum_Ornek.exe
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\02_Enum_Ornek\obj\Debug\02_Enum_Ornek.pdb

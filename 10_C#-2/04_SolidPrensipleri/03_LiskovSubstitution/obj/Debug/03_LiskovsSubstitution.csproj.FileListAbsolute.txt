@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\03_LiskovSubstitution\bin\Debug\03_LiskovSubstitution.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\03_LiskovSubstitution\bin\Debug\03_LiskovSubstitution.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\03_LiskovSubstitution\bin\Debug\03_LiskovSubstitution.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\03_LiskovSubstitution\obj\Debug\03_LiskovsSubstitution.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\03_LiskovSubstitution\obj\Debug\03_LiskovsSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\03_LiskovSubstitution\obj\Debug\03_LiskovSubstitution.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\03_LiskovSubstitution\obj\Debug\03_LiskovSubstitution.pdb

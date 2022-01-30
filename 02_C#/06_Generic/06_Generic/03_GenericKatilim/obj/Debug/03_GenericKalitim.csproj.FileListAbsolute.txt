@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\03_GenericKatilim\bin\Debug\03_GenericKatilim.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\03_GenericKatilim\bin\Debug\03_GenericKatilim.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\03_GenericKatilim\bin\Debug\03_GenericKatilim.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\03_GenericKatilim\obj\Debug\03_GenericKalitim.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\03_GenericKatilim\obj\Debug\03_GenericKatilim.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\03_GenericKatilim\obj\Debug\03_GenericKatilim.pdb

@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\01_VarsayılanKullanim\bin\Debug\01_VarsayılanKullanim.exe.config
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\01_VarsayılanKullanim\bin\Debug\01_VarsayılanKullanim.exe
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\01_VarsayılanKullanim\bin\Debug\01_VarsayılanKullanim.pdb
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\01_VarsayılanKullanim\obj\Debug\01_VarsayılanKullanim.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\01_VarsayılanKullanim\obj\Debug\01_VarsayılanKullanim.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\01_VarsayılanKullanim\obj\Debug\01_VarsayılanKullanim.exe
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\01_VarsayılanKullanim\obj\Debug\01_VarsayılanKullanim.pdb

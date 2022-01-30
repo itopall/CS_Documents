@@ -1,0 +1,10 @@
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\bin\Debug\WindowsFormEventKullanımı.exe.config
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\bin\Debug\WindowsFormEventKullanımı.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\bin\Debug\WindowsFormEventKullanımı.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\obj\Debug\WindowsFormEventKullanımı.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\obj\Debug\WindowsFormEventKullanımı.Form1.resources
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\obj\Debug\WindowsFormEventKullanımı.Properties.Resources.resources
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\obj\Debug\WindowsFormEventKullanımı.csproj.GenerateResource.cache
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\obj\Debug\WindowsFormEventKullanımı.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\obj\Debug\WindowsFormEventKullanımı.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\WindowsFormEventKullanımı\obj\Debug\WindowsFormEventKullanımı.Form2.resources

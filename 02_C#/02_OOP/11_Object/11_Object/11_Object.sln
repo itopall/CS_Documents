@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_VarsayılanKullanim", "01_VarsayılanKullanim\01_VarsayılanKullanim.csproj", "{DE4D1F3A-F865-4DDF-8860-751E7162F44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_EzilmisDavranis", "02_EzilmisDavranis\02_EzilmisDavranis.csproj", "{B7DAC9E3-F17C-4D93-88FD-87234A5BBC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4D1F3A-F865-4DDF-8860-751E7162F44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4D1F3A-F865-4DDF-8860-751E7162F44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4D1F3A-F865-4DDF-8860-751E7162F44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4D1F3A-F865-4DDF-8860-751E7162F44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DAC9E3-F17C-4D93-88FD-87234A5BBC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DAC9E3-F17C-4D93-88FD-87234A5BBC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DAC9E3-F17C-4D93-88FD-87234A5BBC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DAC9E3-F17C-4D93-88FD-87234A5BBC25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDD3172-DD43-4C99-9479-75DEF9C060E1}
+	EndGlobalSection
+EndGlobal

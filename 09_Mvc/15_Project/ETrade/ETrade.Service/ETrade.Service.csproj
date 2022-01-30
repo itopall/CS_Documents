@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E74DA45F-125E-4E50-8CDB-3EC5AB5E9A73}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ETrade.Service</RootNamespace>
+    <AssemblyName>ETrade.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.10.1.1\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enum\PurchaseOrderStatusEnum.cs" />
+    <Compile Include="Enum\PaymentTypeEnum.cs" />
+    <Compile Include="Enum\EmployeeTypeEnum.cs" />
+    <Compile Include="Mapper\MapperFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\BasketService.cs" />
+    <Compile Include="Service\BasketDetailService.cs" />
+    <Compile Include="Service\ProductImageService.cs" />
+    <Compile Include="Service\PurchaseOrderService.cs" />
+    <Compile Include="Service\SupplierService.cs" />
+    <Compile Include="Service\ProductService.cs" />
+    <Compile Include="Service\EmployeeTypeService.cs" />
+    <Compile Include="Service\EmployeeService.cs" />
+    <Compile Include="Service\CategoryService.cs" />
+    <Compile Include="Service\MemberService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ETrade.Common\ETrade.Common.csproj">
+      <Project>{b24c29c6-4743-4ba9-a97e-91477f8d183a}</Project>
+      <Name>ETrade.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ETrade.Data\ETrade.Data.csproj">
+      <Project>{7fa1b65c-8c7b-4979-a70d-86b7eb3cee7f}</Project>
+      <Name>ETrade.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ETrade.Dto\ETrade.Dto.csproj">
+      <Project>{66fd78c8-fe89-4293-9068-c4cc419165d3}</Project>
+      <Name>ETrade.Dto</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

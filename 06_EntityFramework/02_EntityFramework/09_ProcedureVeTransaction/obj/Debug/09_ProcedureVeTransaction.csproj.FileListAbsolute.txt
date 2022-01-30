@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\09_ProcedureVeTransaction\bin\Debug\09_ProcedureVeTransaction.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\09_ProcedureVeTransaction\bin\Debug\09_ProcedureVeTransaction.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\09_ProcedureVeTransaction\bin\Debug\09_ProcedureVeTransaction.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\09_ProcedureVeTransaction\bin\Debug\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\09_ProcedureVeTransaction\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\09_ProcedureVeTransaction\bin\Debug\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\09_ProcedureVeTransaction\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\09_ProcedureVeTransaction\obj\Debug\09_ProcedureVeTransaction.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\09_ProcedureVeTransaction\obj\Debug\09_ProcedureVeTransaction.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\bin\Debug\02_VisualInheritance.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\bin\Debug\02_VisualInheritance.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\bin\Debug\02_VisualInheritance.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\obj\Debug\_02_VisualInheritance.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\obj\Debug\02_VisualInheritance.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\obj\Debug\02_VisualInheritance.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\obj\Debug\02_VisualInheritance.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\obj\Debug\_02_VisualInheritance.BaseForm.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\obj\Debug\_02_VisualInheritance.Iletisim.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\02_VisualInheritance\obj\Debug\_02_VisualInheritance.Urun.resources

@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\04_Struct_ornek\bin\Debug\04_Struct_ornek.exe.config
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\04_Struct_ornek\bin\Debug\04_Struct_ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\04_Struct_ornek\bin\Debug\04_Struct_ornek.pdb
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\04_Struct_ornek\obj\Debug\04_Struct_ornek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\04_Struct_ornek\obj\Debug\04_Struct_ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\04_Struct_ornek\obj\Debug\04_Struct_ornek.pdb

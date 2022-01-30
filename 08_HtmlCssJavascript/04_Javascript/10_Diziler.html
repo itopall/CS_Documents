@@ -1,0 +1,85 @@
+<html>
+
+<head>
+    <title>Diziler</title>
+
+    <script>
+        //Dört elemanlı bir dizi oluşturma
+        var sayilar = new Array("sifir", "bir", "iki", "üç");
+        document.write(sayilar); document.write("<br>");
+
+        var sayilar2 = ["sifir", "bir", "iki", "üç", "dört"];
+        document.write(sayilar2); document.write("<br>");
+
+        //Boş bir dizi oluşturup değerlerini sonradan atama
+        var sayilar3 = new Array();
+        sayilar3[0] = "sıfır";
+        sayilar3[1] = "bir";
+        sayilar3[2] = "iki";
+        sayilar3[3] = "üç";
+        document.write(sayilar3); document.write("<br>");
+
+        //Dizinin içindeki bir elemana erişmek
+        document.write(sayilar3[2]); document.write("<br>");
+
+        //Dizinin içindeki bir elemanı değiştirmek
+        sayilar3[2] = "yüz bin";
+        document.write(sayilar3); document.write("<br>");
+
+        //Dizinin uzunluğunu almak
+        document.write(sayilar3.length); document.write("<br>");
+
+        //Dizinin başına yeni eleman ekleme
+        sayilar.unshift("eksi bir", "eksi iki");
+        document.write(sayilar); document.write("<br>");
+
+        //Diziye eleman ekleme
+        sayilar.push("dört", "beş");
+        document.write(sayilar); document.write("<br>");
+
+        //Diziden eleman silmek
+        sayilar.splice(0, 3);
+        document.write(sayilar); document.write("<br>");
+
+        //Dizinin sadece başındaki ya da sadece sonundaki elemanı silmek
+        //Baştaki için shift sondaki için pop kullanılır.
+        sayilar.shift();
+        sayilar.pop();
+        document.write(sayilar); document.write("<br>");
+
+        //Dizinin bir karakterinin içini temizlemek
+        delete sayilar[1];
+        document.write(sayilar); document.write("<br>");
+
+        //Eş zamanlı olarak diziden silinen elemanların yerine yenilerini eklemek.
+        sayilar.splice(0, 1, "test1", "test2", "test3");
+        document.write(sayilar); document.write("<br>");
+
+        //İki farklı diziyi birleştirip yeni bir dizi oluşturmak
+        var sayilar4 = sayilar.concat(sayilar2);
+        document.write(sayilar4); document.write("<br>");
+
+        //Dizilerde sıralama
+        document.write(sayilar4.sort()); document.write("<br>");
+
+        //Dizinin içerisinde bir değer aratıp sonuç olarak index numarasını dönen method
+        document.write(sayilar4.indexOf("test1")); document.write("<br>");
+
+        //Birden fazla tipe ait değerlerin olduğu bir dizide, dizi elemanlarının tipini öğrenebilmek için typeof kullanılır.
+        var sayilar5 = ["sıfır", "bir", "iki", 1,2,3];
+        document.write(typeof (sayilar5[1])); document.write("<br>");
+        document.write(typeof (sayilar5[4])); document.write("<br>");
+
+        //Dizi içindeki tüm elemanları string'e çevirmek.
+        document.write(sayilar5.toString()); document.write("<br>");
+
+        //Dizinin elemanlarını belirtilen bir karakter ile ekrana yazdırmak
+        document.write(sayilar5.join("---")); document.write("<br>");
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

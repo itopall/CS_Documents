@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\04_OutputParameters\bin\Debug\04_OutputParameters.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\04_OutputParameters\bin\Debug\04_OutputParameters.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\04_OutputParameters\bin\Debug\04_OutputParameters.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\04_OutputParameters\obj\Debug\04_OutputParameters.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\04_OutputParameters\obj\Debug\04_OutputParameters.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\04_OutputParameters\obj\Debug\04_OutputParameters.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\04_OutputParameters\obj\Debug\04_OutputParameters.pdb

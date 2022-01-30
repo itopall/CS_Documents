@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\bin\Debug\10_EFSqlQuery.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\bin\Debug\10_EFSqlQuery.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\bin\Debug\10_EFSqlQuery.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\bin\Debug\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\bin\Debug\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\obj\Debug\10_EFSqlQuery.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\obj\Debug\10_EFSqlQuery.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\10_EFSqlQuery\obj\Debug\10_EFSqlQuery.pdb

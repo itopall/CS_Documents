@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\02_DinamikNesneUretmek\bin\Debug\02_DinamikNesneUretmek.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\02_DinamikNesneUretmek\bin\Debug\02_DinamikNesneUretmek.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\02_DinamikNesneUretmek\bin\Debug\02_DinamikNesneUretmek.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\02_DinamikNesneUretmek\obj\Debug\02_DinamikNesneUretmek.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\02_DinamikNesneUretmek\obj\Debug\02_DinamikNesneUretmek.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\02_DinamikNesneUretmek\obj\Debug\02_DinamikNesneUretmek.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\02_DinamikNesneUretmek\obj\Debug\02_DinamikNesneUretmek.csprojAssemblyReference.cache

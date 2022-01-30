@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\05_DoWhileDongusu\bin\Debug\05_DoWhileDongusu.exe.config
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\05_DoWhileDongusu\bin\Debug\05_DoWhileDongusu.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\05_DoWhileDongusu\bin\Debug\05_DoWhileDongusu.pdb
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\05_DoWhileDongusu\obj\Debug\05_DoWhileDongusu.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\05_DoWhileDongusu\obj\Debug\05_DoWhileDongusu.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\05_DoWhileDongusu\obj\Debug\05_DoWhileDongusu.pdb
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\05_DoWhileDongusu\obj\Debug\05_DoWhileDongusu.csprojAssemblyReference.cache

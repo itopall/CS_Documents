@@ -1,0 +1,5 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\09_Delegate\bin\Debug\09_Delegate.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\09_Delegate\bin\Debug\09_Delegate.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\09_Delegate\bin\Debug\09_Delegate.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\09_Delegate\obj\Debug\09_Delegate.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\09_Delegate\obj\Debug\09_Delegate.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Dto\bin\Debug\Northwnd.Dto.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Dto\bin\Debug\Northwnd.Dto.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Dto\obj\Debug\Northwnd.Dto.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Dto\obj\Debug\Northwnd.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Dto\obj\Debug\Northwnd.Dto.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Dto\obj\Debug\Northwnd.Dto.pdb

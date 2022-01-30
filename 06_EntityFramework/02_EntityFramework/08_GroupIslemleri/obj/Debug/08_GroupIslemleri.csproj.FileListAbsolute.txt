@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\08_GroupIslemleri\bin\Debug\08_GroupIslemleri.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\08_GroupIslemleri\bin\Debug\08_GroupIslemleri.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\08_GroupIslemleri\bin\Debug\08_GroupIslemleri.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\08_GroupIslemleri\bin\Debug\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\08_GroupIslemleri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\08_GroupIslemleri\bin\Debug\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\08_GroupIslemleri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\08_GroupIslemleri\obj\Debug\08_GroupIslemleri.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\08_GroupIslemleri\obj\Debug\08_GroupIslemleri.pdb

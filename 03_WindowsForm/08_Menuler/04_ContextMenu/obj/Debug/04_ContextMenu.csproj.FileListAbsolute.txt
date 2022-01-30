@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\04_ContextMenu\bin\Debug\04_ContextMenu.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\04_ContextMenu\bin\Debug\04_ContextMenu.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\04_ContextMenu\bin\Debug\04_ContextMenu.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\04_ContextMenu\obj\Debug\_04_ContextMenu.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\04_ContextMenu\obj\Debug\_04_ContextMenu.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\04_ContextMenu\obj\Debug\04_ContextMenu.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\04_ContextMenu\obj\Debug\04_ContextMenu.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\04_ContextMenu\obj\Debug\04_ContextMenu.pdb

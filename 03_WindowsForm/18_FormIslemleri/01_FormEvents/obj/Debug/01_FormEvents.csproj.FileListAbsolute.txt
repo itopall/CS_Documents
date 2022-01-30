@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\01_FormEvents\bin\Debug\01_FormEvents.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\01_FormEvents\bin\Debug\01_FormEvents.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\01_FormEvents\bin\Debug\01_FormEvents.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\01_FormEvents\obj\Debug\01_FormEvents.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\01_FormEvents\obj\Debug\_01_FormEvents.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\01_FormEvents\obj\Debug\_01_FormEvents.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\01_FormEvents\obj\Debug\01_FormEvents.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\01_FormEvents\obj\Debug\01_FormEvents.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\01_FormEvents\obj\Debug\01_FormEvents.pdb

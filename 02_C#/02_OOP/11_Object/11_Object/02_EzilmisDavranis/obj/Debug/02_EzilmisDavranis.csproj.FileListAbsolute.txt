@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\02_EzilmisDavranis\bin\Debug\02_EzilmisDavranis.exe.config
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\02_EzilmisDavranis\bin\Debug\02_EzilmisDavranis.exe
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\02_EzilmisDavranis\bin\Debug\02_EzilmisDavranis.pdb
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\02_EzilmisDavranis\obj\Debug\02_EzilmisDavranis.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\02_EzilmisDavranis\obj\Debug\02_EzilmisDavranis.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\02_EzilmisDavranis\obj\Debug\02_EzilmisDavranis.exe
+E:\MCSD_280919\02_C#\02_OOP\11_Object\11_Object\02_EzilmisDavranis\obj\Debug\02_EzilmisDavranis.pdb

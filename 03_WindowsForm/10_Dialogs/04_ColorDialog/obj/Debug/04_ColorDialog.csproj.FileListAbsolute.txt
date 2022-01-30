@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\04_ColorDialog\bin\Debug\04_ColorDialog.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\04_ColorDialog\bin\Debug\04_ColorDialog.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\04_ColorDialog\bin\Debug\04_ColorDialog.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\04_ColorDialog\obj\Debug\04_ColorDialog.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\04_ColorDialog\obj\Debug\_04_ColorDialog.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\04_ColorDialog\obj\Debug\_04_ColorDialog.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\04_ColorDialog\obj\Debug\04_ColorDialog.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\04_ColorDialog\obj\Debug\04_ColorDialog.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\04_ColorDialog\obj\Debug\04_ColorDialog.pdb

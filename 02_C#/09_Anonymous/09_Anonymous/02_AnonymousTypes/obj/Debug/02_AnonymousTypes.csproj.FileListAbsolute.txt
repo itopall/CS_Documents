@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\02_AnonymousTypes\bin\Debug\02_AnonymousTypes.exe.config
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\02_AnonymousTypes\bin\Debug\02_AnonymousTypes.exe
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\02_AnonymousTypes\bin\Debug\02_AnonymousTypes.pdb
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\02_AnonymousTypes\obj\Debug\02_AnonymousTypes.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\02_AnonymousTypes\obj\Debug\02_AnonymousTypes.exe
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\02_AnonymousTypes\obj\Debug\02_AnonymousTypes.pdb

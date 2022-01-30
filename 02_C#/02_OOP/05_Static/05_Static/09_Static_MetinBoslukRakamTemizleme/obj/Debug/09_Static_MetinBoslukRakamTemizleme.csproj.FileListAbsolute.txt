@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\09_Static_MetinBoslukRakamTemizleme\bin\Debug\09_Static_MetinBoslukRakamTemizleme.exe.config
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\09_Static_MetinBoslukRakamTemizleme\bin\Debug\09_Static_MetinBoslukRakamTemizleme.exe
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\09_Static_MetinBoslukRakamTemizleme\bin\Debug\09_Static_MetinBoslukRakamTemizleme.pdb
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\09_Static_MetinBoslukRakamTemizleme\obj\Debug\09_Static_MetinBoslukRakamTemizleme.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\09_Static_MetinBoslukRakamTemizleme\obj\Debug\09_Static_MetinBoslukRakamTemizleme.exe
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\09_Static_MetinBoslukRakamTemizleme\obj\Debug\09_Static_MetinBoslukRakamTemizleme.pdb

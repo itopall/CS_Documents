@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\01_Thread\bin\Debug\01_Thread.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\01_Thread\bin\Debug\01_Thread.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\01_Thread\bin\Debug\01_Thread.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\01_Thread\obj\Debug\01_Thread.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\01_Thread\obj\Debug\01_Thread.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\01_Thread\obj\Debug\01_Thread.pdb

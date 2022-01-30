@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\09_EventTabanlıProgramlama\bin\Debug\09_EventTabanlıProgramlama.exe.config
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\09_EventTabanlıProgramlama\bin\Debug\09_EventTabanlıProgramlama.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\09_EventTabanlıProgramlama\bin\Debug\09_EventTabanlıProgramlama.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\09_EventTabanlıProgramlama\obj\Debug\09_EventTabanlıProgramlama.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\09_EventTabanlıProgramlama\obj\Debug\09_EventTabanlıProgramlama.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\09_EventTabanlıProgramlama\obj\Debug\09_EventTabanlıProgramlama.pdb

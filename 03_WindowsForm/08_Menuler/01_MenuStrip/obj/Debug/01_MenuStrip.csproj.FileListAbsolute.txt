@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\01_MenuStrip\bin\Debug\01_MenuStrip.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\01_MenuStrip\bin\Debug\01_MenuStrip.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\01_MenuStrip\bin\Debug\01_MenuStrip.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\01_MenuStrip\obj\Debug\_01_MenuStrip.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\01_MenuStrip\obj\Debug\_01_MenuStrip.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\01_MenuStrip\obj\Debug\01_MenuStrip.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\01_MenuStrip\obj\Debug\01_MenuStrip.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\01_MenuStrip\obj\Debug\01_MenuStrip.pdb

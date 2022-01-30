@@ -1,0 +1,65 @@
+﻿@model _01_JQueryVeAjaxKullanimi.Models.PersonelSearchModel
+@{
+    ViewBag.Title = "PersonelSearch";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .request-overlay {
+        z-index: 9999;
+        position: fixed; /*Important to cover the screen in case of scolling content*/
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        text-align: center;
+        background: rgba(200,200,200,0.5) url('/Content/loader.gif') no-repeat center; /*.gif file or just div with message etc. however you like*/
+    }
+</style>
+
+<h2>PersonelSearch</h2>
+
+@using (Html.BeginForm("PersonelAra", "Personel", FormMethod.Get, new { @id = "frmPersonelSearch" }))
+{
+    @Html.LabelFor(p => p.NameSurname) <text> : </text> @Html.TextBoxFor(p => p.NameSurname)
+
+    <input type="button" id="btnSearch" value="Ara" onclick="Search();" />
+}
+
+<br />
+<br />
+
+<div id="divList">
+    @Html.Partial("_PersonelSearchList", Model.PersonelList)
+</div>
+
+
+<script>
+    function Search() {
+        var frm = $("#frmPersonelSearch").serialize();
+
+        $.ajax({
+            type: 'post',
+            url: '@Url.Action("PersonelAra", "Personel")',
+            data: frm,
+            beforeSend: function () {
+                $("body").append('<div id="requestOverlay" class="request-overlay"></div>');
+            },
+            complete: function () {
+                $("#requestOverlay").remove();
+            },
+            success: function (result) {
+                if (result.status === true) {
+                    var divList = $("#divList");
+                    divList.html(result.list)
+                } else {
+                    alert("Hata oluştu! Hata mesajı: " + result.message);
+                }
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+
+            }
+        });
+    }
+</script>

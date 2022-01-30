@@ -1,0 +1,54 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Service.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Service.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Common.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Data.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Dto.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Common.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Data.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Dto.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.csproj.CopyComplete
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Data.dll.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\AutoMapper.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\AutoMapper.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Service.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Service.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\AutoMapper.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Common.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Data.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Dto.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Common.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Data.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Data.dll.config
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Dto.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\AutoMapper.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.csproj.CopyComplete
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Service.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Service.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\AutoMapper.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Common.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Data.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Dto.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\EntityFramework.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Common.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Data.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Data.dll.config
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\ETrade.Dto.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\AutoMapper.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\bin\Debug\EntityFramework.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Service\obj\Debug\ETrade.Service.pdb

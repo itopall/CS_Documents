@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\01_Introduction\bin\Debug\01_Introduction.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\01_Introduction\bin\Debug\01_Introduction.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\01_Introduction\bin\Debug\01_Introduction.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\01_Introduction\obj\Debug\01_Introduction.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\01_Introduction\obj\Debug\01_Introduction.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\01_Introduction\obj\Debug\01_Introduction.pdb

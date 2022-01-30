@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\05_Transaction\01_Transaction\bin\Debug\01_Transaction.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\05_Transaction\01_Transaction\bin\Debug\01_Transaction.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\05_Transaction\01_Transaction\bin\Debug\01_Transaction.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\05_Transaction\01_Transaction\obj\Debug\01_Transaction.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\05_Transaction\01_Transaction\obj\Debug\01_Transaction.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\05_Transaction\01_Transaction\obj\Debug\01_Transaction.pdb

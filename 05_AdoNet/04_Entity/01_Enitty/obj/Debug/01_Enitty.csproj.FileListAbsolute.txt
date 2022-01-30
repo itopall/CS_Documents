@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\bin\Debug\01_Enitty.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\bin\Debug\01_Enitty.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\bin\Debug\01_Enitty.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\obj\Debug\01_Enitty.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\obj\Debug\_01_Enitty.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\obj\Debug\_01_Enitty.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\obj\Debug\01_Enitty.csproj.GenerateResource.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\obj\Debug\01_Enitty.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\obj\Debug\01_Enitty.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\04_Entity\01_Enitty\obj\Debug\01_Enitty.pdb

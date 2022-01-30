@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\05_TableLayoutPanel\bin\Debug\05_TableLayoutPanel.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\05_TableLayoutPanel\bin\Debug\05_TableLayoutPanel.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\05_TableLayoutPanel\bin\Debug\05_TableLayoutPanel.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\05_TableLayoutPanel\obj\Debug\05_TableLayoutPanel.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\05_TableLayoutPanel\obj\Debug\_05_TableLayoutPanel.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\05_TableLayoutPanel\obj\Debug\_05_TableLayoutPanel.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\05_TableLayoutPanel\obj\Debug\05_TableLayoutPanel.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\05_TableLayoutPanel\obj\Debug\05_TableLayoutPanel.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\05_TableLayoutPanel\obj\Debug\05_TableLayoutPanel.pdb

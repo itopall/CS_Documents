@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+    <div style="padding:10%;">
+        <h3>Index Sayfası</h3>
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+        <br /><br />
+
+        <input type="button" onclick="showMessage();" value="Mesajı Görüntüle" />
+        <input type="button" onclick="test();" value="Test'i Çalıştır" />
+        <input type="button" onclick="MyScriptsTest();" value="MyScriptsTest'i tetikle" />
+    </div>
+
+
+@*Script'i burada tanımlarsak sadece bu sayfa içerisinde kullanılabilir. About ya da contact sayfasında kullanılamaz. *@
+@*<script>
+    function showMessage() {
+        alert("Merhaba Dünya");
+    }
+</script>*@
+
+
+@*Script'leri Layout'dan gelen RenderSection'un içerisine ekledik*@
+@section scripts{
+    <script>
+        function test() {
+            alert("test function'u tetiklendi.")
+        }
+    </script>
+
+    @*<script src="~/Scripts/menu.js"></script>*@
+}
+
+
+@*Style'ları Layout'dan gelen RenderSection'un içerisine ekledik*@
+@section styles{
+    <style></style>
+
+    @*<link href="~/Content/Site.css" rel="stylesheet" />*@
+}

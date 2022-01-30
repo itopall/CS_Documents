@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\02_Tag\bin\Debug\02_Tag.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\02_Tag\bin\Debug\02_Tag.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\02_Tag\bin\Debug\02_Tag.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\02_Tag\obj\Debug\_02_Tag.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\02_Tag\obj\Debug\_02_Tag.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\02_Tag\obj\Debug\02_Tag.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\02_Tag\obj\Debug\02_Tag.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\02_Tag\obj\Debug\02_Tag.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\02_Tag\obj\Debug\02_Tag.csprojResolveAssemblyReference.cache

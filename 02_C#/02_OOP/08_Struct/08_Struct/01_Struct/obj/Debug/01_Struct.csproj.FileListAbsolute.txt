@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\01_Struct\bin\Debug\01_Struct.exe.config
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\01_Struct\bin\Debug\01_Struct.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\01_Struct\bin\Debug\01_Struct.pdb
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\01_Struct\obj\Debug\01_Struct.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\01_Struct\obj\Debug\01_Struct.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\01_Struct\obj\Debug\01_Struct.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\01_Struct\obj\Debug\01_Struct.pdb

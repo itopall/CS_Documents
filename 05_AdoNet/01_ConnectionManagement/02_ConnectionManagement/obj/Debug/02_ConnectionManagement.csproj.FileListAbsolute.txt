@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\02_ConnectionManagement\bin\Debug\02_ConnectionManagement.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\02_ConnectionManagement\bin\Debug\02_ConnectionManagement.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\02_ConnectionManagement\bin\Debug\02_ConnectionManagement.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\02_ConnectionManagement\obj\Debug\02_ConnectionManagement.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\02_ConnectionManagement\obj\Debug\02_ConnectionManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\02_ConnectionManagement\obj\Debug\02_ConnectionManagement.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\02_ConnectionManagement\obj\Debug\02_ConnectionManagement.pdb

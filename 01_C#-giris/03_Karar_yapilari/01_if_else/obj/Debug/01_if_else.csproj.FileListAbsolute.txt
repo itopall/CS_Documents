@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\01_if_else\bin\Debug\01_if_else.exe.config
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\01_if_else\bin\Debug\01_if_else.exe
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\01_if_else\bin\Debug\01_if_else.pdb
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\01_if_else\obj\Debug\01_if_else.csprojAssemblyReference.cache
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\01_if_else\obj\Debug\01_if_else.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\01_if_else\obj\Debug\01_if_else.exe
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\01_if_else\obj\Debug\01_if_else.pdb

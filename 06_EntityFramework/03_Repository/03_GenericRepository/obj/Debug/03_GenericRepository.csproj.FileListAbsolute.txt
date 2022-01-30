@@ -1,0 +1,13 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\03_GenericRepository.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\03_GenericRepository.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\03_GenericRepository.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\01_Northwnd.Data.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\01_Northwnd.Data.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\01_Northwnd.Data.dll.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\obj\Debug\03_GenericRepository.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\obj\Debug\03_GenericRepository.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\obj\Debug\03_GenericRepository.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\03_Repository\03_GenericRepository\bin\Debug\EntityFramework.SqlServer.xml

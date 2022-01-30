@@ -1,0 +1,10 @@
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\bin\Debug\Odev.exe.config
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\bin\Debug\Odev.exe
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\bin\Debug\Odev.pdb
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\obj\Debug\Odev.csprojAssemblyReference.cache
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\obj\Debug\Odev.exe
+C:\Users\ilker\OneDrive\Masaüstü\MCSD_280919\05_AdoNet\02_CommandManagement\Odev\obj\Debug\Odev.pdb

@@ -1,0 +1,15 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\bin\Debug\ETrade.Dto.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\bin\Debug\ETrade.Dto.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\bin\Debug\ETrade.Dto.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\bin\Debug\ETrade.Dto.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Dto\obj\Debug\ETrade.Dto.pdb

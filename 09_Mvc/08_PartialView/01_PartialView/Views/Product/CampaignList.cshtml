@@ -1,0 +1,9 @@
+﻿    @model _01_PartialView.Models.ProductListModel
+@{
+    ViewBag.Title = "CampaignList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<b>CampaignList</b> <br /><br />
+
+@Html.Partial("_ProductList", Model)

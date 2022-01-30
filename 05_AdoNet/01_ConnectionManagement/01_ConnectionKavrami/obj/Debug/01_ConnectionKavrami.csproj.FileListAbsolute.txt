@@ -1,0 +1,5 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\01_ConnectionKavrami\bin\Debug\01_ConnectionKavrami.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\01_ConnectionKavrami\bin\Debug\01_ConnectionKavrami.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\01_ConnectionKavrami\bin\Debug\01_ConnectionKavrami.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\01_ConnectionKavrami\obj\Debug\01_ConnectionKavrami.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\01_ConnectionManagement\01_ConnectionKavrami\obj\Debug\01_ConnectionKavrami.pdb

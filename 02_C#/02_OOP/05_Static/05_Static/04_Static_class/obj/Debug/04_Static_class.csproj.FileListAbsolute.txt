@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\04_Static_class\bin\Debug\04_Static_class.exe.config
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\04_Static_class\bin\Debug\04_Static_class.exe
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\04_Static_class\bin\Debug\04_Static_class.pdb
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\04_Static_class\obj\Debug\04_Static_class.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\04_Static_class\obj\Debug\04_Static_class.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\04_Static_class\obj\Debug\04_Static_class.exe
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\04_Static_class\obj\Debug\04_Static_class.pdb

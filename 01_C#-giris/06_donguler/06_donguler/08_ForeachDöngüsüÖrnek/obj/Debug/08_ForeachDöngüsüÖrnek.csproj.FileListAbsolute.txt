@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\08_ForeachDöngüsüÖrnek\bin\Debug\08_ForeachDöngüsüÖrnek.exe.config
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\08_ForeachDöngüsüÖrnek\bin\Debug\08_ForeachDöngüsüÖrnek.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\08_ForeachDöngüsüÖrnek\bin\Debug\08_ForeachDöngüsüÖrnek.pdb
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\08_ForeachDöngüsüÖrnek\obj\Debug\08_ForeachDöngüsüÖrnek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\08_ForeachDöngüsüÖrnek\obj\Debug\08_ForeachDöngüsüÖrnek.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\08_ForeachDöngüsüÖrnek\obj\Debug\08_ForeachDöngüsüÖrnek.pdb
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\08_ForeachDöngüsüÖrnek\obj\Debug\08_ForeachDöngüsüÖrnek.csprojAssemblyReference.cache

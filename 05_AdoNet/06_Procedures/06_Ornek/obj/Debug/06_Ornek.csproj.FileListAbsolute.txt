@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\06_Ornek\bin\Debug\06_Ornek.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\06_Ornek\bin\Debug\06_Ornek.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\06_Ornek\bin\Debug\06_Ornek.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\06_Ornek\obj\Debug\06_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\06_Ornek\obj\Debug\06_Ornek.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\06_Ornek\obj\Debug\06_Ornek.pdb

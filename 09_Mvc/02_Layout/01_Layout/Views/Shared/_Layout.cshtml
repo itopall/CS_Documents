@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+
+    <!-- Eski tasarımdan aldığımız style ve scriptleri bu şekilde layout sayfasının içinde uygulayabiliriz.  -->
+    @*<link href="~/Content/menu.css" rel="stylesheet" />
+        <script src="~/Scripts/menu.js"></script>*@
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <!-- Kendi yazdığımız ve bundle'a eklediğimiz style dosyasını Layout'a yükledik. -->
+    @Styles.Render("~/Content/menu")
+
+</head>
+<body>
+    <div style="width: 80%; margin-left: 10%;">
+        <!-- Kırmızı Şerit -->
+        <div style="background-color: red; height: 5px;"></div>
+
+        <!-- HEADER -->
+        <div style="height: 84px; background-color: aqua;">
+            <div style="width: 50%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px;">
+                <img src="images/logo.png" width="64" height="64" style="margin-left: 10px;">
+                <b style="vertical-align: top;">MCSD 280919</b>
+            </div>
+
+            <div style="width: 50%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px; text-align: right;">
+                <b style="margin-right: 20px;">Telefon 0530 123 45 67</b>
+            </div>
+        </div>
+
+        <!-- MENU -->
+        <div style="background-color: darkkhaki;">
+            <div class="topnav" id="myTopnav">
+                @Html.ActionLink("Anasayfa", "Index", "Home")
+                @Html.ActionLink("Hakkımızda", "About", "Home")
+                @Html.ActionLink("İletişim", "Contact", "Home")
+                @Html.ActionLink("Personel Listesi", "PersonelList", "Personel")
+            </div>
+        </div>
+
+        <!-- CONTENT -->
+        <div style="height: 500px; background-color: gray;">
+            @RenderBody()
+        </div>
+
+        <!-- Kırmızı Şerit -->
+        <div style="background-color: red; height: 2px;"></div>
+
+        <!-- FOOTER -->
+        <div style="height: 100px; background-color: black; color: white;">
+            <div style="width: 25%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px;">
+                <div style="vertical-align: top; margin-left: 10px;">Copyright 2020 tüm hakları saklıdır.</div>
+            </div>
+
+            <div style="width: 50%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px; text-align: center;">
+                @Html.ActionLink("Anasayfa", "Index", "Home") |
+                @Html.ActionLink("Hakkımızda", "About", "Home") |
+                @Html.ActionLink("İletişim", "Contact", "Home")
+            </div>
+
+            <div style="width: 25%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px; text-align: right;">
+                <address>
+                    <div style="margin-right: 20px;">
+                        Telefon: 0530 123 45 67
+                    </div>
+                </address>
+            </div>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <!-- Kendi yazdığımız ve bundle'a eklediğimiz script dosyasını Layout'a yükledik. -->
+    @Scripts.Render("~/bundles/MyScripts")
+
+    <!-- Kendi yazdığımız ve bundle'a eklediğimiz script dosyasını Layout'a yükledik. -->
+    @Scripts.Render("~/bundles/menu")
+
+    @*Türeyen sayfalarda stiller ve scriptleri scripts ve styles tagleri içerisinde yazılarak tek bir yerde toplanabilirler.*@
+    @RenderSection("scripts", required: false)
+    @RenderSection("styles", required: false)
+
+    @*Scriptleri burada tanımlarsak _Layout'dan türeyen bütün sayfalarda kullanılabilir.
+        Kod tekrarı olmaması için ortak kullanılan script'leri burada yazabiliriz. *@
+    <script>
+        function showMessage() {
+            alert("Merhaba Dünya");
+        }
+    </script>
+
+
+
+</body>
+</html>

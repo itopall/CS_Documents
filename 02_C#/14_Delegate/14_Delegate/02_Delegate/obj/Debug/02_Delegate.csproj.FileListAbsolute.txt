@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\02_Delegate\bin\Debug\02_Delegate.exe.config
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\02_Delegate\bin\Debug\02_Delegate.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\02_Delegate\bin\Debug\02_Delegate.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\02_Delegate\obj\Debug\02_Delegate.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\02_Delegate\obj\Debug\02_Delegate.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\02_Delegate\obj\Debug\02_Delegate.pdb

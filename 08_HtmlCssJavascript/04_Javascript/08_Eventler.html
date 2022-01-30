@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <title>Eventler</title>
+
+    <script>
+        function gonder() {
+            // alert("Mesajınız başarıyla tarafımıza ulaştı.");
+
+            //javascript yöntemi ile formdaki textbox input'una eriştik
+            var txtNameSurname = document.getElementById('txtNameSurname');
+            txtNameSurname.style.color = "red"; //yazı rengini değiştirdik.
+
+            //jquery yöntemi
+            //var nameSurname = $("#txtNameSurname").val();
+
+            alert("nameSurname: " + txtNameSurname.value);
+        }
+
+        function temizle() {
+            alert("Kontroller temizlendi");
+        }
+
+        function hata() {
+            alert("Resim sayfaya yüklenemedi.");
+        }
+    </script>
+</head>
+
+<body>
+    <form>
+        <div>
+            İsim Soyisim: <input type="text" id="txtNameSurname"> <br><br>
+            Email: <input type="text" id="txtEmail"> <br><br>
+            Mesaj: <input type="text" id="txtMessage"> <br><br>
+
+            <input type="button" value="Gönder" id="btnGonder" onclick="gonder();">
+            <input type="button" value="Temizle" id="btnClear" onclick="temizle();">
+        </div>
+    </form>
+
+    <!-- <img src="sallamaPath/sallama.jpg" onerror="hata();"> -->
+</body>
+
+</html>

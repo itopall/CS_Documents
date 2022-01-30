@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\05_Ctor_This\bin\Debug\05_Ctor_This.exe.config
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\05_Ctor_This\bin\Debug\05_Ctor_This.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\05_Ctor_This\bin\Debug\05_Ctor_This.pdb
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\05_Ctor_This\obj\Debug\05_Ctor_This.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\05_Ctor_This\obj\Debug\05_Ctor_This.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\05_Ctor_This\obj\Debug\05_Ctor_This.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\05_Ctor_This\obj\Debug\05_Ctor_This.pdb

@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\05_Struct_InterfaceImplemente\bin\Debug\05_Struct_InterfaceImplemente.exe.config
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\05_Struct_InterfaceImplemente\bin\Debug\05_Struct_InterfaceImplemente.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\05_Struct_InterfaceImplemente\bin\Debug\05_Struct_InterfaceImplemente.pdb
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\05_Struct_InterfaceImplemente\obj\Debug\05_Struct_InterfaceImplemente.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\05_Struct_InterfaceImplemente\obj\Debug\05_Struct_InterfaceImplemente.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\05_Struct_InterfaceImplemente\obj\Debug\05_Struct_InterfaceImplemente.pdb
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\05_Struct_InterfaceImplemente\obj\Debug\05_Struct_InterfaceImplemente.csprojAssemblyReference.cache

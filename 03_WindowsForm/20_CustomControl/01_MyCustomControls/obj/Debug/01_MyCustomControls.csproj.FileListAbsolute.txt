@@ -1,0 +1,4 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\01_MyCustomControls\bin\Debug\01_MyCustomControls.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\01_MyCustomControls\bin\Debug\01_MyCustomControls.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\01_MyCustomControls\obj\Debug\01_MyCustomControls.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\01_MyCustomControls\obj\Debug\01_MyCustomControls.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\01_CultureInfo\bin\Debug\01_CultureInfo.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\01_CultureInfo\bin\Debug\01_CultureInfo.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\01_CultureInfo\bin\Debug\01_CultureInfo.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\01_CultureInfo\obj\Debug\01_CultureInfo.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\01_CultureInfo\obj\Debug\01_CultureInfo.pdb

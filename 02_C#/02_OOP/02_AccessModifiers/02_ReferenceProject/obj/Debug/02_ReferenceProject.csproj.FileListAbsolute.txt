@@ -1,0 +1,11 @@
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\bin\Debug\02_ReferenceProject.exe.config
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\bin\Debug\02_ReferenceProject.exe
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\bin\Debug\02_ReferenceProject.pdb
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\bin\Debug\01_AccessModifiers.exe
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\bin\Debug\01_AccessModifiers.pdb
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\bin\Debug\01_AccessModifiers.exe.config
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\obj\Debug\02_ReferenceProject.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\obj\Debug\02_ReferenceProject.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\obj\Debug\02_ReferenceProject.csproj.CopyComplete
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\obj\Debug\02_ReferenceProject.exe
+E:\MCSD_280919\02_C#\02_OOP\02_AccessModifiers\02_ReferenceProject\obj\Debug\02_ReferenceProject.pdb

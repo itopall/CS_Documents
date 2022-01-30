@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\02_TextControls\01_TextControls\bin\Debug\01_TextControls.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\02_TextControls\01_TextControls\bin\Debug\01_TextControls.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\02_TextControls\01_TextControls\bin\Debug\01_TextControls.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\02_TextControls\01_TextControls\obj\Debug\_01_TextControls.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\02_TextControls\01_TextControls\obj\Debug\_01_TextControls.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\02_TextControls\01_TextControls\obj\Debug\01_TextControls.csproj.GenerateResource.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\02_TextControls\01_TextControls\obj\Debug\01_TextControls.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\02_TextControls\01_TextControls\obj\Debug\01_TextControls.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\02_TextControls\01_TextControls\obj\Debug\01_TextControls.csprojResolveAssemblyReference.cache

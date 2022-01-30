@@ -1,0 +1,23 @@
+﻿@model _01_CRUDOperations.Models.OgrenciModel
+@{
+    ViewBag.Title = "OgrenciDetay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div><b>Ögrenci Detay Sayfası</b></div>
+<p>Öğrenci'ye ait detay bilgileri bu ekranda görebilirsiniz.</p>
+
+<table>
+    <tr>
+        <td>Öğrenci No:</td>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <td>Ad Soyad:</td>
+        <td>@Model.AdSoyad</td>
+    </tr>
+    <tr>
+        <td>Bölüm:</td>
+        <td>@Model.Bolum</td>
+    </tr>
+</table>

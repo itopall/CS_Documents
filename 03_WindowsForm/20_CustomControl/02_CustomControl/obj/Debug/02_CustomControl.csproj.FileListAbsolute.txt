@@ -1,0 +1,11 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\bin\Debug\02_CustomControl.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\bin\Debug\02_CustomControl.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\bin\Debug\02_CustomControl.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\bin\Debug\01_MyCustomControls.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\bin\Debug\01_MyCustomControls.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\obj\Debug\02_CustomControl.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\obj\Debug\_02_CustomControl.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\obj\Debug\_02_CustomControl.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\obj\Debug\02_CustomControl.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\obj\Debug\02_CustomControl.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\20_CustomControl\02_CustomControl\obj\Debug\02_CustomControl.pdb

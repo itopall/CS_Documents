@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\01_WcfService\bin\01_WcfService.dll.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\01_WcfService\bin\01_WcfService.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\01_WcfService\bin\01_WcfService.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\01_WcfService\obj\Release\01_WcfService.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\01_WcfService\obj\Release\01_WcfService.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\01_WcfService\obj\Release\01_WcfService.pdb

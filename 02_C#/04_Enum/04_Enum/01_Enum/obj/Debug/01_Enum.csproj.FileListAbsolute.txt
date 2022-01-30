@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\01_Enum\bin\Debug\01_Enum.exe.config
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\01_Enum\bin\Debug\01_Enum.exe
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\01_Enum\bin\Debug\01_Enum.pdb
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\01_Enum\obj\Debug\01_Enum.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\01_Enum\obj\Debug\01_Enum.exe
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\01_Enum\obj\Debug\01_Enum.pdb
+E:\MCSD_280919\02_C#\04_Enum\04_Enum\01_Enum\obj\Debug\01_Enum.csprojAssemblyReference.cache

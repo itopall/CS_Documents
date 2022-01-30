@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <title>Operatörler</title>
+        
+        <script>
+            //*=, /=, %/ gibi ifadeler c#'da olduğu gibi js'de de kullanılabilir.
+            var deneme01 = 10;
+            document.writeln(deneme01 += 5);  document.write("<br>");
+
+            var deneme02 = 10;
+            document.writeln(deneme02 -= 5);  document.write("<br>");
+
+            var deneme03 = 10 % 3;
+            document.writeln(deneme03);  document.write("<br>");
+
+            var deneme04 = "test1";
+            var deneme05 = "test2";
+            document.write(deneme04 + deneme05); document.write("<br>");
+
+            var deneme06 = 10;
+            document.write(++deneme06); document.write("<br>");
+
+            var deneme07 = 10;
+            document.write(deneme07++); document.write("<br>");
+
+            var deneme08 = 4;
+            var deneme09 = "4";
+            if(deneme08 == deneme09) {
+                document.write("Doğru");
+            }
+            else{
+                document.write("Yanlış");
+            }
+            document.write("<br>");
+
+
+            var deneme10 = "deneme";
+            var deneme11 = "Deneme";
+            if(deneme10 == deneme11) {
+                document.write("Doğru");
+            }
+            else{
+                document.write("Yanlış");
+            }
+            document.write("<br>");
+
+            
+            //=== (Kesin Eşit) Kesin eşit değişken ya da veri tiplerini de dikkate alarak kesin eşitlik sağlar.
+            var deneme08 = 4;
+            var deneme09 = "4";
+            if(deneme08 === deneme09) {
+                document.write("Doğru");
+            }
+            else{
+                document.write("Yanlış");
+            }
+            document.write("<br>");
+
+
+            var deneme14 = 10;
+            var deneme15 = 5;
+            if(deneme14 < 15 && deneme15 >= 5) {
+                document.write("Doğru");
+            }
+            else{
+                document.write("Yanlış");
+            }
+            document.write("<br>");
+        </script>
+    </head>
+
+    <body>
+
+    </body>
+</html>

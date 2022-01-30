@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\02_FolderBrowser\bin\Debug\02_FolderBrowser.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\02_FolderBrowser\bin\Debug\02_FolderBrowser.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\02_FolderBrowser\bin\Debug\02_FolderBrowser.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\02_FolderBrowser\obj\Debug\_02_FolderBrowser.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\02_FolderBrowser\obj\Debug\_02_FolderBrowser.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\02_FolderBrowser\obj\Debug\02_FolderBrowser.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\02_FolderBrowser\obj\Debug\02_FolderBrowser.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\02_FolderBrowser\obj\Debug\02_FolderBrowser.pdb

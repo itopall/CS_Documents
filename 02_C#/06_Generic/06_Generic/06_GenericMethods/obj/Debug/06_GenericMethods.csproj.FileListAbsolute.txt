@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\06_GenericMethods\bin\Debug\06_GenericMethods.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\06_GenericMethods\bin\Debug\06_GenericMethods.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\06_GenericMethods\bin\Debug\06_GenericMethods.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\06_GenericMethods\obj\Debug\06_GenericMethods.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\06_GenericMethods\obj\Debug\06_GenericMethods.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\06_GenericMethods\obj\Debug\06_GenericMethods.pdb

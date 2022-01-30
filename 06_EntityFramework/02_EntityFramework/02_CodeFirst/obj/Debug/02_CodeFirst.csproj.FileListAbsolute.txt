@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\bin\Debug\02_CodeFirst.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\bin\Debug\02_CodeFirst.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\bin\Debug\02_CodeFirst.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\obj\Debug\02_CodeFirst.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\obj\Debug\02_CodeFirst.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\02_CodeFirst\obj\Debug\02_CodeFirst.csprojResolveAssemblyReference.cache

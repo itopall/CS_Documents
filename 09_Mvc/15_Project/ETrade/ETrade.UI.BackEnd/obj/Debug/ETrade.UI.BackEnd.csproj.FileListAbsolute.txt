@@ -1,0 +1,318 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.UI.BackEnd.dll.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.UI.BackEnd.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.UI.BackEnd.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csc.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csc.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csc.rsp
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csi.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csi.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csi.rsp
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.AppContext.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Console.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Net.Http.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\vbc.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\vbc.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\vbc.rsp
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Common.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Dto.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Service.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Helpers.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Mvc.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Optimization.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Razor.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\WebGrease.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Common.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Dto.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Service.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Helpers.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Mvc.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Optimization.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Razor.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.csproj.CopyComplete
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Data.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Data.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Data.dll.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\AutoMapper.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\AutoMapper.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Abstractions.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Container.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Mvc.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\WebActivatorEx.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Abstractions.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Container.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Mvc.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Mvc.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.UI.BackEnd.dll.config
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.UI.BackEnd.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.UI.BackEnd.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Common.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Dto.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Service.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Abstractions.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Container.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Mvc.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\WebActivatorEx.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\WebGrease.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Data.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\AutoMapper.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Common.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Dto.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Service.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Abstractions.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Container.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Mvc.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Mvc.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Data.pdb
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Data.dll.config
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\AutoMapper.xml
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.csproj.CopyComplete
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.dll
+C:\Users\DELL\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.UI.BackEnd.dll.config
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.UI.BackEnd.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.UI.BackEnd.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csc.exe
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csc.exe.config
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csc.rsp
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csi.exe
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csi.exe.config
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\csi.rsp
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.AppContext.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Console.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.Compression.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Net.Http.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.ValueTuple.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\vbc.exe
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\vbc.exe.config
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\vbc.rsp
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Common.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Dto.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Service.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Helpers.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Mvc.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Optimization.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Razor.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Abstractions.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Container.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Mvc.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\WebActivatorEx.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\WebGrease.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Data.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\AutoMapper.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Common.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Dto.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Service.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Helpers.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Mvc.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Optimization.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.Razor.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Abstractions.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Container.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Mvc.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Unity.Mvc.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Data.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\ETrade.Data.dll.config
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\bin\AutoMapper.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.UI.BackEnd\obj\Debug\ETrade.UI.BackEnd.pdb

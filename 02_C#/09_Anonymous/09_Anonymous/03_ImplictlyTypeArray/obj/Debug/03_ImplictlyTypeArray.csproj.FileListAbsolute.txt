@@ -1,0 +1,7 @@
+C:\Users\ilkerr\Desktop\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\03_ImplictlyTypeArray\bin\Debug\03_ImplictlyTypeArray.exe.config
+C:\Users\ilkerr\Desktop\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\03_ImplictlyTypeArray\bin\Debug\03_ImplictlyTypeArray.exe
+C:\Users\ilkerr\Desktop\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\03_ImplictlyTypeArray\bin\Debug\03_ImplictlyTypeArray.pdb
+C:\Users\ilkerr\Desktop\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\03_ImplictlyTypeArray\obj\Debug\03_ImplictlyTypeArray.csprojAssemblyReference.cache
+C:\Users\ilkerr\Desktop\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\03_ImplictlyTypeArray\obj\Debug\03_ImplictlyTypeArray.csproj.CoreCompileInputs.cache
+C:\Users\ilkerr\Desktop\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\03_ImplictlyTypeArray\obj\Debug\03_ImplictlyTypeArray.exe
+C:\Users\ilkerr\Desktop\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\03_ImplictlyTypeArray\obj\Debug\03_ImplictlyTypeArray.pdb

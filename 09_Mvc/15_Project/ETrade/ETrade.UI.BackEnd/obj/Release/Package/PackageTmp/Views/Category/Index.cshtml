@@ -1,0 +1,96 @@
+﻿@model ETrade.Dto.Dto.Category.CategorySearchDto
+@{
+
+}
+
+@section styles{
+    <style>
+    </style>
+}
+
+@section scripts{
+    <script>
+        $(function () {
+            if ('@(TempData["ResultMessage"])' != '')
+            {
+                toastr.success('@(TempData["ResultMessage"])');
+            }
+
+            if ('@(TempData["ErrorMessage"])' != '')
+            {
+                toastr.error('@(TempData["ErrorMessage"])');
+            }
+
+            $("#grdList").DataTable({
+                "responsive": true, "lengthChange": false, "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#grdList_wrapper .col-md-6:eq(0)');
+        });
+
+        function Search() {
+            var frm = $("#frmSearch").serialize();
+
+            AjaxRequest('@Url.Action("Search", "Category")', frm, searchCallback);
+        }
+
+        function searchCallback(result) {
+            var divList = $("#divList");
+            divList.html(result.list);
+        }
+    </script>
+}
+
+
+@using (Html.BeginForm("Search", "Category", FormMethod.Get, new { @id = "frmSearch" }))
+{
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">Arama Kriterleri</h3>
+
+            <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                    <i class="fas fa-minus"></i>
+                </button>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Name, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextBoxFor(p => p.Name, new { @class = "form-control", @placeholder = "Kategori Adı" })
+                </div>
+
+                <div class="col-sm-1"></div>
+            </div>
+        </div>
+        <!-- /.card-body -->
+        <div class="card-footer">
+            <input type="button" class="btn btn-primary" id="btnSearch" value="Ara" onclick="Search();" />
+            <a href="~/Category/AddEdit" class="btn btn-success">Yeni Ekle</a>
+        </div>
+        <!-- /.card-footer-->
+    </div>
+}
+
+<div class="card card-info">
+    <div class="card-header">
+        <h3 class="card-title">Kategori Listesi</h3>
+
+        <div class="card-tools">
+            <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                <i class="fas fa-minus"></i>
+            </button>
+        </div>
+    </div>
+    <div class="card-body">
+        <div id="divList">
+            @*@Html.Partial("_List", Model)*@
+        </div>
+    </div>
+    <!-- /.card-body -->
+    <div class="card-footer">
+        @*<button type="submit" class="btn btn-primary">Submit</button>*@
+    </div>
+    <!-- /.card-footer-->
+</div>
+

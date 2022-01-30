@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\06_dowhileörnek\bin\Debug\06_dowhileörnek.exe.config
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\06_dowhileörnek\bin\Debug\06_dowhileörnek.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\06_dowhileörnek\bin\Debug\06_dowhileörnek.pdb
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\06_dowhileörnek\obj\Debug\06_dowhileörnek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\06_dowhileörnek\obj\Debug\06_dowhileörnek.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\06_dowhileörnek\obj\Debug\06_dowhileörnek.pdb
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\06_dowhileörnek\obj\Debug\06_dowhileörnek.csprojAssemblyReference.cache

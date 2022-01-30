@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\02_SqlDataAdapter\bin\Debug\02_SqlDataAdapter.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\02_SqlDataAdapter\bin\Debug\02_SqlDataAdapter.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\02_SqlDataAdapter\bin\Debug\02_SqlDataAdapter.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\02_SqlDataAdapter\obj\Debug\02_SqlDataAdapter.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\02_SqlDataAdapter\obj\Debug\02_SqlDataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\02_SqlDataAdapter\obj\Debug\02_SqlDataAdapter.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\02_SqlDataAdapter\obj\Debug\02_SqlDataAdapter.pdb

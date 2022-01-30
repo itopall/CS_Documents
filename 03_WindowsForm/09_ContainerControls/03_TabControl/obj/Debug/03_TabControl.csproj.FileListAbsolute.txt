@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\03_TabControl\bin\Debug\03_TabControl.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\03_TabControl\bin\Debug\03_TabControl.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\03_TabControl\bin\Debug\03_TabControl.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\03_TabControl\obj\Debug\_03_TabControl.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\03_TabControl\obj\Debug\_03_TabControl.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\03_TabControl\obj\Debug\03_TabControl.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\03_TabControl\obj\Debug\03_TabControl.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\03_TabControl\obj\Debug\03_TabControl.pdb

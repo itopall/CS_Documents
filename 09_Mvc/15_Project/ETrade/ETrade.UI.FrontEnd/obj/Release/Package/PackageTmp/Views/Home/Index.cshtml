@@ -1,0 +1,172 @@
+﻿@model ETrade.Dto.Dto.FrontEndHome.FrontEndHomeDto
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<section class="slice bg-white bb">
+    <div class="wp-section">
+        <div class="container">
+            <div class="section-title-wr">
+                <h3 class="section-title left"><span>Ürünler</span></h3>
+            </div>
+            <div class="row">
+                @foreach (var product in Model.ProductList)
+                {
+                    <div class="col-md-3">
+                        <div class="wp-block product">
+                            <figure>
+
+                                @if (product.ProductImage != null && product.ProductImage.Count > 0)
+                                {
+                                    <img alt="" src="@product.ProductImage.First().ImageUrl" class="img-responsive img-center">
+                                }
+                                else
+                                {
+                                    <img alt="" src="~/Content/images/prv/product-1.jpg" class="img-responsive img-center">
+                                }
+
+
+                                @if (product.DiscountPrice != null)
+                                {
+                                    <span class="ribbon base-alt">İndirimde</span>
+                                }
+                            </figure>
+
+                            <h2 class="product-title"><a href="~/Product/Detail/@product.Id">@product.Name</a></h2>
+
+                            <p>
+                                @product.Description
+                            </p>
+
+                            <div class="wp-block-footer">
+                                @if (product.DiscountPrice != null)
+                                {
+                                    <span class="price discount pull-left">@product.OutPrice</span>
+                                    <span class="price pull-left">@product.DiscountPrice</span>
+                                }
+                                else
+                                {
+                                    <span class="price pull-left">@product.OutPrice</span>
+                                }
+                                <a href="~/Basket/Index?productId=@product.Id" class="btn btn-sm btn-base btn-icon btn-cart pull-right">
+                                    <span>Sepete Ekle</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="slice light-gray bb">
+    <div class="wp-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="aside-feature square">
+                        <div class="row">
+                            <h3 class="outer-title">Free shipping</h3>
+                            <div class="col-md-3">
+                                <div class="icon-feature">
+                                    <i class="fa fa-plane"></i>
+                                </div>
+                            </div>
+                            <div class="col-md-9">
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="aside-feature square">
+                        <div class="row">
+                            <h3 class="outer-title">Online support</h3>
+                            <div class="col-md-3">
+                                <div class="icon-feature">
+                                    <i class="fa fa-headphones"></i>
+                                </div>
+                            </div>
+                            <div class="col-md-9">
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="aside-feature square">
+                        <div class="row">
+                            <h3 class="outer-title">Money back guarantee</h3>
+                            <div class="col-md-3">
+                                <div class="icon-feature">
+                                    <i class="fa fa-euro"></i>
+                                </div>
+                            </div>
+                            <div class="col-md-9">
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CLIENTS -->
+<section class="slice bg-white">
+    <div class="wp-section">
+        <div class="container">
+            <div class="section-title-wr">
+                <h3 class="section-title left"><span>Our partners</span></h3>
+            </div>
+            <div class="row">
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="client">
+                        <a href="#">
+                            <img src="~/Content/images/clients/client-1.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="client">
+                        <a href="#">
+                            <img src="~/Content/images/clients/client-2.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="client">
+                        <a href="#">
+                            <img src="~/Content/images/clients/client-3.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="client">
+                        <a href="#">
+                            <img src="~/Content/images/clients/client-4.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="client">
+                        <a href="#">
+                            <img src="~/Content/images/clients/client-7.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6">
+                    <div class="client">
+                        <a href="#">
+                            <img src="~/Content/images/clients/client-6.png" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

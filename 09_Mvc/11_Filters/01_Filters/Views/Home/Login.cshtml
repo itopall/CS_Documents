@@ -1,0 +1,34 @@
+﻿@model _01_Filters.Models.PersonelModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Login", "Home"))
+        {
+            <table>
+                <tr>
+                    <td>Kullanıcı Adı:</td>
+                    <td>@Html.TextBoxFor(p => p.Username)</td>
+                </tr>
+                <tr>
+                    <td>Şifre:</td>
+                    <td>@Html.PasswordFor(p => p.Password)</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="submit" value="Giriş"/></td>
+                </tr>
+            </table>
+        }
+    </div>
+</body>
+</html>

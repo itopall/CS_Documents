@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\01_Constructor_Destructor\bin\Debug\01_Constructor_Destructor.exe.config
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\01_Constructor_Destructor\bin\Debug\01_Constructor_Destructor.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\01_Constructor_Destructor\bin\Debug\01_Constructor_Destructor.pdb
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\01_Constructor_Destructor\obj\Debug\01_Constructor_Destructor.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\01_Constructor_Destructor\obj\Debug\01_Constructor_Destructor.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\01_Constructor_Destructor\obj\Debug\01_Constructor_Destructor.pdb
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\01_Constructor_Destructor\obj\Debug\01_Constructor_Destructor.csprojAssemblyReference.cache

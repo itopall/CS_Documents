@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\08_ObjectInitializer\01_ObjectInitializer\01_ObjectInitializer\bin\Debug\01_ObjectInitializer.exe.config
+E:\MCSD_280919\02_C#\08_ObjectInitializer\01_ObjectInitializer\01_ObjectInitializer\bin\Debug\01_ObjectInitializer.exe
+E:\MCSD_280919\02_C#\08_ObjectInitializer\01_ObjectInitializer\01_ObjectInitializer\bin\Debug\01_ObjectInitializer.pdb
+E:\MCSD_280919\02_C#\08_ObjectInitializer\01_ObjectInitializer\01_ObjectInitializer\obj\Debug\01_ObjectInitializer.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\08_ObjectInitializer\01_ObjectInitializer\01_ObjectInitializer\obj\Debug\01_ObjectInitializer.exe
+E:\MCSD_280919\02_C#\08_ObjectInitializer\01_ObjectInitializer\01_ObjectInitializer\obj\Debug\01_ObjectInitializer.pdb

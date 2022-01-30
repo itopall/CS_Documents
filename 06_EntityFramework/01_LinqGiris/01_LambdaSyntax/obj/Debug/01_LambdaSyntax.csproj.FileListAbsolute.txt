@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\01_LambdaSyntax\bin\Debug\01_LambdaSyntax.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\01_LambdaSyntax\bin\Debug\01_LambdaSyntax.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\01_LambdaSyntax\bin\Debug\01_LambdaSyntax.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\01_LambdaSyntax\obj\Debug\01_LambdaSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\01_LambdaSyntax\obj\Debug\01_LambdaSyntax.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\01_LambdaSyntax\obj\Debug\01_LambdaSyntax.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\01_LambdaSyntax\obj\Debug\01_LambdaSyntax.csprojAssemblyReference.cache

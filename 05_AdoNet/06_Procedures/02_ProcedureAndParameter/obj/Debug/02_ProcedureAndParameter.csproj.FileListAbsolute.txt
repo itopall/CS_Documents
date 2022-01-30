@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\02_ProcedureAndParameter\bin\Debug\02_ProcedureAndParameter.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\02_ProcedureAndParameter\bin\Debug\02_ProcedureAndParameter.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\02_ProcedureAndParameter\bin\Debug\02_ProcedureAndParameter.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\02_ProcedureAndParameter\obj\Debug\02_ProcedureAndParameter.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\02_ProcedureAndParameter\obj\Debug\02_ProcedureAndParameter.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\02_ProcedureAndParameter\obj\Debug\02_ProcedureAndParameter.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\02_ProcedureAndParameter\obj\Debug\02_ProcedureAndParameter.csprojAssemblyReference.cache

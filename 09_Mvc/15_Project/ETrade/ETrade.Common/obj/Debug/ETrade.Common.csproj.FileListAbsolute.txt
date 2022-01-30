@@ -1,0 +1,12 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\bin\Debug\ETrade.Common.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\bin\Debug\ETrade.Common.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\obj\Debug\ETrade.Common.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\obj\Debug\ETrade.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\obj\Debug\ETrade.Common.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\obj\Debug\ETrade.Common.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\bin\Debug\ETrade.Common.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\bin\Debug\ETrade.Common.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\obj\Debug\ETrade.Common.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\obj\Debug\ETrade.Common.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\obj\Debug\ETrade.Common.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Common\obj\Debug\ETrade.Common.pdb

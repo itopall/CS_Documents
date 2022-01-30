@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\01_FileDialog\bin\Debug\01_FileDialog.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\01_FileDialog\bin\Debug\01_FileDialog.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\01_FileDialog\bin\Debug\01_FileDialog.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\01_FileDialog\obj\Debug\_01_FileDialog.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\01_FileDialog\obj\Debug\_01_FileDialog.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\01_FileDialog\obj\Debug\01_FileDialog.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\01_FileDialog\obj\Debug\01_FileDialog.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\01_FileDialog\obj\Debug\01_FileDialog.pdb

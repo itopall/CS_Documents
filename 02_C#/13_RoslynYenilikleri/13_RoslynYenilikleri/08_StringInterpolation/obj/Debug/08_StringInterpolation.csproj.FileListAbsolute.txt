@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\08_StringInterpolation\bin\Debug\08_StringInterpolation.exe.config
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\08_StringInterpolation\bin\Debug\08_StringInterpolation.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\08_StringInterpolation\bin\Debug\08_StringInterpolation.pdb
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\08_StringInterpolation\obj\Debug\08_StringInterpolation.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\08_StringInterpolation\obj\Debug\08_StringInterpolation.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\08_StringInterpolation\obj\Debug\08_StringInterpolation.pdb

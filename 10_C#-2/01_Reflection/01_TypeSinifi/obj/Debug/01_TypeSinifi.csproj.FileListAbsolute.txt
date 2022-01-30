@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\01_TypeSinifi\bin\Debug\01_TypeSinifi.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\01_TypeSinifi\bin\Debug\01_TypeSinifi.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\01_TypeSinifi\bin\Debug\01_TypeSinifi.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\01_TypeSinifi\obj\Debug\01_TypeSinifi.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\01_TypeSinifi\obj\Debug\01_TypeSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\01_TypeSinifi\obj\Debug\01_TypeSinifi.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\01_TypeSinifi\obj\Debug\01_TypeSinifi.pdb

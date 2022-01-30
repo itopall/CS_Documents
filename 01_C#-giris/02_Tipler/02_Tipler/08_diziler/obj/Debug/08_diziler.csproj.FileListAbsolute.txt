@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\08_diziler\bin\Debug\08_diziler.exe.config
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\08_diziler\bin\Debug\08_diziler.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\08_diziler\bin\Debug\08_diziler.pdb
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\08_diziler\obj\Debug\08_diziler.csprojAssemblyReference.cache
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\08_diziler\obj\Debug\08_diziler.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\08_diziler\obj\Debug\08_diziler.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\08_diziler\obj\Debug\08_diziler.pdb

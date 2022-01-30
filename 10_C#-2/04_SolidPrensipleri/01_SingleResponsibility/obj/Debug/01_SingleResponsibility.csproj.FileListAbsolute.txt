@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\01_SingleResponsibility\bin\Debug\01_SingleResponsibility.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\01_SingleResponsibility\bin\Debug\01_SingleResponsibility.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\01_SingleResponsibility\bin\Debug\01_SingleResponsibility.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\01_SingleResponsibility\obj\Debug\01_SingleResponsibility.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\01_SingleResponsibility\obj\Debug\01_SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\01_SingleResponsibility\obj\Debug\01_SingleResponsibility.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\01_SingleResponsibility\obj\Debug\01_SingleResponsibility.pdb

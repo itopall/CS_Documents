@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\02_MyPaint\bin\Debug\02_MyPaint.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\02_MyPaint\bin\Debug\02_MyPaint.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\02_MyPaint\bin\Debug\02_MyPaint.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\02_MyPaint\obj\Debug\02_MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\02_MyPaint\obj\Debug\_02_MyPaint.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\02_MyPaint\obj\Debug\_02_MyPaint.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\02_MyPaint\obj\Debug\02_MyPaint.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\02_MyPaint\obj\Debug\02_MyPaint.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\02_MyPaint\obj\Debug\02_MyPaint.pdb

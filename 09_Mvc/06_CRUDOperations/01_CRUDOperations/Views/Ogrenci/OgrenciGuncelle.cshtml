@@ -1,0 +1,33 @@
+﻿@model _01_CRUDOperations.Models.OgrenciModel
+@{
+    ViewBag.Title = "OgrenciGuncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div><b>Ögrenci Güncelleme Sayfası</b></div>
+<p>Varolan bir Öğrenci'nin bilgilerini güncelleme işlemini bu ekranda gerçekleştirebilirsiniz.</p>
+
+@using (Html.BeginForm("OgrenciGuncelle", "Ogrenci"))
+{
+    //Model'den gelen Id değeri hiçbir input'a bağlanmadığı için form post edildiğinde boş olarak gider. Id değerini kaybetmemek için aşağıdaki gibi hiddenfor'a bağlayabiliriz
+    @Html.HiddenFor(p=>p.Id)
+
+    <table>
+        <tr>
+            <td>Öğrenci No: </td>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <td>AdSoyad: </td>
+            <td>@Html.TextBoxFor(p => p.AdSoyad)</td>
+        </tr>
+        <tr>
+            <td>Bolum: </td>
+            <td>@Html.TextBoxFor(p => p.Bolum)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Kaydet" /></td>
+        </tr>
+    </table>
+}

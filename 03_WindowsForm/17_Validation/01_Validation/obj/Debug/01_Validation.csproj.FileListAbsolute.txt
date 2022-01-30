@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\17_Validation\01_Validation\bin\Debug\01_Validation.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\17_Validation\01_Validation\bin\Debug\01_Validation.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\17_Validation\01_Validation\bin\Debug\01_Validation.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\17_Validation\01_Validation\obj\Debug\_01_Validation.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\17_Validation\01_Validation\obj\Debug\_01_Validation.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\17_Validation\01_Validation\obj\Debug\01_Validation.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\17_Validation\01_Validation\obj\Debug\01_Validation.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\17_Validation\01_Validation\obj\Debug\01_Validation.pdb

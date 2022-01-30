@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\05_Polymorphism\bin\Debug\05_Polymorphism.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\05_Polymorphism\bin\Debug\05_Polymorphism.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\05_Polymorphism\bin\Debug\05_Polymorphism.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\05_Polymorphism\obj\Debug\05_Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\05_Polymorphism\obj\Debug\05_Polymorphism.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\05_Polymorphism\obj\Debug\05_Polymorphism.pdb

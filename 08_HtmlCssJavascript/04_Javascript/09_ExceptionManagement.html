@@ -1,0 +1,41 @@
+<html>
+
+<head>
+    <title>Exception Management</title>
+
+    <script>
+        //try-catch bloğu
+        // try {
+        //     var a = 2;
+        //     var b = a * c;
+        //     alert(b);
+        // } catch (e) {
+        //     alert("Hata oluştu! Message: " + e.message);
+        // }
+
+        //try-catch-finally bloğu
+        // try {
+        //     var a = 2;
+        //     var b = a * c;
+        //     alert(b);
+        // } catch (e) {
+        //     alert("Hata oluştu! Message: " + e.message);
+        // }
+        // finally{
+        //     alert("Ben her halükarda çalışırım.")
+        // }
+
+        //throw exception
+        try {
+            throw ({ message: "Manuel Hata"});
+        } catch (e) {
+            alert("Hata oluştu! Message: " + e.message);
+        }
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

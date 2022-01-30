@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\01_CommandManagement\bin\Debug\01_CommandManagement.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\01_CommandManagement\bin\Debug\01_CommandManagement.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\01_CommandManagement\bin\Debug\01_CommandManagement.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\01_CommandManagement\obj\Debug\01_CommandManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\01_CommandManagement\obj\Debug\01_CommandManagement.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\01_CommandManagement\obj\Debug\01_CommandManagement.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\01_CommandManagement\obj\Debug\01_CommandManagement.csprojAssemblyReference.cache

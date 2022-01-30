@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\02_FileIslemleri\bin\Debug\02_FileIslemleri.exe.config
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\02_FileIslemleri\bin\Debug\02_FileIslemleri.exe
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\02_FileIslemleri\bin\Debug\02_FileIslemleri.pdb
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\02_FileIslemleri\obj\Debug\02_FileIslemleri.exe
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\02_FileIslemleri\obj\Debug\02_FileIslemleri.pdb
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\02_FileIslemleri\obj\Debug\02_FileIslemleri.csprojAssemblyReference.cache

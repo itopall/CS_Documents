@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\06_Ornekler\bin\Debug\06_Ornekler.exe.config
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\06_Ornekler\bin\Debug\06_Ornekler.exe
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\06_Ornekler\bin\Debug\06_Ornekler.pdb
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\06_Ornekler\obj\Debug\06_Ornekler.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\06_Ornekler\obj\Debug\06_Ornekler.exe
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\06_Ornekler\obj\Debug\06_Ornekler.pdb
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\06_Ornekler\obj\Debug\06_Ornekler.csprojAssemblyReference.cache

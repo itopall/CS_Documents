@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\bin\Debug\03_FormlarArasiVeriTasima.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\bin\Debug\03_FormlarArasiVeriTasima.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\bin\Debug\03_FormlarArasiVeriTasima.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\obj\Debug\_03_FormlarArasiVeriTasima.ProductList.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\obj\Debug\_03_FormlarArasiVeriTasima.ProductAddEdit.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\obj\Debug\_03_FormlarArasiVeriTasima.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\obj\Debug\03_FormlarArasiVeriTasima.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\obj\Debug\03_FormlarArasiVeriTasima.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\obj\Debug\03_FormlarArasiVeriTasima.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\03_FormlarArasiVeriTasima\obj\Debug\03_FormlarArasiVeriTasima.csprojResolveAssemblyReference.cache

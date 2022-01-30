@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\02_ToolStrip\bin\Debug\02_ToolStrip.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\02_ToolStrip\bin\Debug\02_ToolStrip.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\02_ToolStrip\bin\Debug\02_ToolStrip.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\02_ToolStrip\obj\Debug\02_ToolStrip.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\02_ToolStrip\obj\Debug\_02_ToolStrip.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\02_ToolStrip\obj\Debug\_02_ToolStrip.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\02_ToolStrip\obj\Debug\02_ToolStrip.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\02_ToolStrip\obj\Debug\02_ToolStrip.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\08_Menuler\02_ToolStrip\obj\Debug\02_ToolStrip.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\01_GenericMimari\bin\Debug\01_GenericMimari.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\01_GenericMimari\bin\Debug\01_GenericMimari.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\01_GenericMimari\bin\Debug\01_GenericMimari.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\01_GenericMimari\obj\Debug\01_GenericMimari.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\01_GenericMimari\obj\Debug\01_GenericMimari.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\01_GenericMimari\obj\Debug\01_GenericMimari.pdb

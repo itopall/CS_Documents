@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\02_OpenClosed\bin\Debug\02_OpenClosed.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\02_OpenClosed\bin\Debug\02_OpenClosed.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\02_OpenClosed\bin\Debug\02_OpenClosed.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\02_OpenClosed\obj\Debug\02_OpenClosed.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\02_OpenClosed\obj\Debug\02_OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\02_OpenClosed\obj\Debug\02_OpenClosed.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\02_OpenClosed\obj\Debug\02_OpenClosed.pdb

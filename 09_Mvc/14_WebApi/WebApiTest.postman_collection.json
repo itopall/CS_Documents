@@ -1,0 +1,349 @@
+{
+	"info": {
+		"_postman_id": "446f3cae-42f4-40ae-87d0-79ef947368d9",
+		"name": "WebApiTest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "api/personel/get",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer rZNHJ7vzVFUK9Bf2tvgu28UkYeDyPl58O9cQOAWlQ31ZIBYU-_63Zwb9cZP8tYwOMXiTzECW3Zwx_-HBy9ThOblHNSP3pWBc5s1k09Lw6YdCoSi33XcEgN5ijzFuMgNlaxHvpQYXtj1iY0_8Z-_mXCiIPaLG8na9aOvnQ7e2JCWBLJ252E3Jg318e4vWPCQbVI5hfDsSsIXIuK4cVhtOmkuhimI_HgAlxzflY_6IrVM",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:44361/api/personel",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"personel"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "token",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "grant_type",
+							"value": "password",
+							"type": "text"
+						},
+						{
+							"key": "username",
+							"value": "Mobil",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "123456",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://localhost:44361/token",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/personel/get/id",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer rZNHJ7vzVFUK9Bf2tvgu28UkYeDyPl58O9cQOAWlQ31ZIBYU-_63Zwb9cZP8tYwOMXiTzECW3Zwx_-HBy9ThOblHNSP3pWBc5s1k09Lw6YdCoSi33XcEgN5ijzFuMgNlaxHvpQYXtj1iY0_8Z-_mXCiIPaLG8na9aOvnQ7e2JCWBLJ252E3Jg318e4vWPCQbVI5hfDsSsIXIuK4cVhtOmkuhimI_HgAlxzflY_6IrVM",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:44361/api/personel/3444",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"personel",
+						"3444"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "2",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/personel/get/namesurname",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44361/api/personel?namesurname=Utku",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"personel"
+					],
+					"query": [
+						{
+							"key": "namesurname",
+							"value": "Utku"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/personel/post",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer rZNHJ7vzVFUK9Bf2tvgu28UkYeDyPl58O9cQOAWlQ31ZIBYU-_63Zwb9cZP8tYwOMXiTzECW3Zwx_-HBy9ThOblHNSP3pWBc5s1k09Lw6YdCoSi33XcEgN5ijzFuMgNlaxHvpQYXtj1iY0_8Z-_mXCiIPaLG8na9aOvnQ7e2JCWBLJ252E3Jg318e4vWPCQbVI5hfDsSsIXIuK4cVhtOmkuhimI_HgAlxzflY_6IrVM",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\" : 4,\r\n    \"NameSurname\" : \"Ekrem\",\r\n    \"Title\" : \"Eğitmen\",\r\n    \"Username\" : \"eozturk\",\r\n    \"Password\" : \"1234\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44361/api/personel",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"personel"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/personel/Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Username\" : \"utku.koclar\",\r\n    \"Password\" : \"qqqq\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44361/api/personel/Login",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"personel",
+						"Login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/personel/put",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\" : 2,\r\n    \"NameSurname\" : \"Ekrem\",\r\n    \"Title\" : \"Eğitmen\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44361/api/personel/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"personel",
+						"2"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "2",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/personel/delete/id",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44361/api/personel/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"personel",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/personel/getbytitle/title",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44361/api/personel/getbytitle/Öğrenci",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"personel",
+						"getbytitle",
+						"Öğrenci"
+					],
+					"query": [
+						{
+							"key": "title",
+							"value": "Öğrenci",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/product/post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\" : 40000,\r\n\r\n    \"Price\" : 0,\r\n    \"PersonelId\" : 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44361/api/product",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"product"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "api/product/GetByUsernamePassword",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Username\" : \"bhadir.sogucakli\",\r\n    \"Password\" : \"1234\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44361/api/product/GetByUsernamePassword",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44361",
+					"path": [
+						"api",
+						"product",
+						"GetByUsernamePassword"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

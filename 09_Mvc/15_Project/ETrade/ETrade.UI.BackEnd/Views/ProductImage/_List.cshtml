@@ -1,0 +1,71 @@
+﻿@model ETrade.Dto.Dto.ProductImage.ProductImageSearchDto
+
+@if (Model.ProductImages != null && Model.ProductImages.Count > 0)
+{
+    <table id="grdList" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Foto</th>
+                <th>Id</th>
+                <th>Ürün Adı</th>
+                <th>Url</th>
+                <th>Resim Adı</th>
+                <th>Dosya Tipi</th>
+                <th>Aktif Mi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ProductImages)
+            {
+            <tr>
+                <td>
+                    <a class="btn btn-info btn-sm" href="~/ProductImage/AddEdit/@item.Id">
+                        <i class="fas fa-pencil-alt">
+                        </i>
+                        Güncelle
+                    </a>
+                    <a class="btn btn-danger btn-sm" href="~/ProductImage/Delete/@item.Id">
+                        <i class="fas fa-trash">
+                        </i>
+                        Sil
+                    </a>
+                </td>
+                <td><img src="@Html.Encode(item.ImageUrl)" width="48" height="48" /></td>
+                <td>@item.Id</td>
+                <td>@item.Product.Name</td>
+                <td>@item.ImageUrl</td>
+                <td>@item.FileName</td>
+                <td>@item.FileType</td>
+                <td>@item.IsActive</td>
+            </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <th></th>
+                <th>Foto</th>
+                <th>Id</th>
+                <th>Ürün Adı</th>
+                <th>Url</th>
+                <th>Resim Adı</th>
+                <th>Dosya Tipi</th>
+                <th>Aktif Mi</th>
+            </tr>
+        </tfoot>
+    </table>
+}
+else
+{
+    <div>Hiç kayıt bulunamadı...</div>
+}
+
+
+<script>
+    $(function () {
+        $("#grdList").DataTable({
+            "responsive": true, "lengthChange": false, "autoWidth": false,
+            "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+        }).buttons().container().appendTo('#grdList_wrapper .col-md-6:eq(0)');
+    });
+</script>

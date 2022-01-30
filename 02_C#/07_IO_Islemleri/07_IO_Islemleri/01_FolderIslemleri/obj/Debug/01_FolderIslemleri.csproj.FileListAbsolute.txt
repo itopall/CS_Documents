@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\01_FolderIslemleri\bin\Debug\01_FolderIslemleri.exe.config
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\01_FolderIslemleri\bin\Debug\01_FolderIslemleri.exe
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\01_FolderIslemleri\bin\Debug\01_FolderIslemleri.pdb
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\01_FolderIslemleri\obj\Debug\01_FolderIslemleri.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\01_FolderIslemleri\obj\Debug\01_FolderIslemleri.exe
+E:\MCSD_280919\02_C#\07_IO_Islemleri\07_IO_Islemleri\01_FolderIslemleri\obj\Debug\01_FolderIslemleri.pdb

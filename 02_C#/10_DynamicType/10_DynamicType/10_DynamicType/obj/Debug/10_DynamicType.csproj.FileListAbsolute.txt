@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\10_DynamicType\10_DynamicType\10_DynamicType\bin\Debug\10_DynamicType.exe.config
+E:\MCSD_280919\02_C#\10_DynamicType\10_DynamicType\10_DynamicType\bin\Debug\10_DynamicType.exe
+E:\MCSD_280919\02_C#\10_DynamicType\10_DynamicType\10_DynamicType\bin\Debug\10_DynamicType.pdb
+E:\MCSD_280919\02_C#\10_DynamicType\10_DynamicType\10_DynamicType\obj\Debug\10_DynamicType.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\10_DynamicType\10_DynamicType\10_DynamicType\obj\Debug\10_DynamicType.exe
+E:\MCSD_280919\02_C#\10_DynamicType\10_DynamicType\10_DynamicType\obj\Debug\10_DynamicType.pdb

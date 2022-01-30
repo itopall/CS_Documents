@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\05_StringIslemler\bin\Debug\05_StringIslemler.exe.config
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\05_StringIslemler\bin\Debug\05_StringIslemler.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\05_StringIslemler\bin\Debug\05_StringIslemler.pdb
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\05_StringIslemler\obj\Debug\05_StringIslemler.csprojAssemblyReference.cache
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\05_StringIslemler\obj\Debug\05_StringIslemler.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\05_StringIslemler\obj\Debug\05_StringIslemler.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\05_StringIslemler\obj\Debug\05_StringIslemler.pdb

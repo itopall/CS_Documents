@@ -1,0 +1,442 @@
+﻿@model ETrade.Dto.Dto.Product.ProductDto
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- MAIN CONTENT -->
+<div class="pg-opt">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Ürün Detay</h2>
+            </div>
+            <div class="col-md-6">
+                <ol class="breadcrumb">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Shop</a></li>
+                    <li class="active">Product description</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="slice bg-white">
+    <div class="wp-section shop">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <div class="product-gallery">
+                                @if (Model.ProductImage != null && Model.ProductImage.Count > 0)
+                                {
+                                    var mainImage = Model.ProductImage.First();
+
+                                    <div class="primary-image">
+                                        <a href="@mainImage.ImageUrl" class="theater" rel="group">
+                                            <img src="@mainImage.ImageUrl" class="img-responsive" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="owl-carousel owl-carousel-5 thumbnail-images style-2">
+                                        @foreach (var productImage in Model.ProductImage)
+	                                    {
+                                            <div class="item">
+                                                <a href="@productImage.ImageUrl" class="theater" rel="group">
+                                                    <img src="@productImage.ImageUrl" alt="">
+                                                </a>
+                                            </div>
+	                                    }
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="product-info">
+                                <h3 class="product-title">@Model.Name</h3>
+                                <div class="rating pull-left">
+                                    <span class="star voted" rel="1"></span>
+                                    <span class="star voted" rel="2"></span>
+                                    <span class="star voted" rel="3"></span>
+                                    <span class="star voted" rel="4"></span>
+                                    <span class="star" rel="5"></span>
+                                </div>
+                                <span class="review-rating pull-left" style="margin-left:15px;">
+                                    <a href="">Read all 23 reviews</a> or
+                                    <a href="">Share you oppinion</a>
+
+                                </span>
+                                <span class="clearfix"></span>
+                                <p>
+                                    @Model.Description
+                                </p>
+                                <hr>
+                                <div class="product-price">
+                                    @if (Model.DiscountPrice != null && Model.DiscountPrice > 0)
+                                    {
+                                        <span class="price discount">@Model.OutPrice</span>
+                                        <span class="price">@Model.DiscountPrice</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="price">@Model.OutPrice</span>
+                                    }
+
+                                </div>
+                                <input type="number" name="cant" value="1" style="width:60px; text-align:center; margin-right:5px; margin-bottom:15px; height:34px;">
+                                <a href="~/Basket/Index?productId=@Model.Id">
+                                    <button type="submit" name="submit" class="btn btn-base btn-icon btn-cart">
+                                        <span>Add to cart</span>
+                                    </button>
+                                </a>
+                                <button type="submit" class="btn btn-light btn-icon fa-heart">
+                                    <span>Whishlist</span>
+                                </button>
+
+                                <hr>
+                                <div class="product-short-info">
+                                    <p><i class="fa fa-heart"></i><strong>Shipping</strong>: Free</p>
+                                    <p><i class="fa fa-inbox"></i><strong>Category</strong>: Apple</p>
+                                    <p><i class="fa fa-check"></i><strong>Availability</strong>: In Stock</p>
+                                    <p><i class="fa fa-tag"></i><strong>Tags</strong>: laptop, notebook, asus</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- Tabs -->
+                            <div class="tabs-framed mt-20">
+                                <ul class="tabs clearfix">
+                                    <li class="active"><a href="#tab-1" data-toggle="tab">Product details</a></li>
+                                    <li><a href="#tab-2" data-toggle="tab">Specifications</a></li>
+                                    <li><a href="#tab-3" data-toggle="tab">Reviews</a></li>
+                                </ul>
+
+                                <div class="tab-content">
+
+                                    <!-- Tab 1 -->
+                                    <div class="tab-pane fade in active" id="tab-1">
+                                        <div class="tab-body">
+                                            <div class="section-title-wr">
+                                                <h3 class="section-title left">Ürün Açıklaması</h3>
+                                            </div>
+                                            <p>
+                                                @Model.Description
+                                                <br><br>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <!-- Tab 2 -->
+                                    <div class="tab-pane fade" id="tab-2">
+                                        <div class="tab-body">
+                                            <div class="section-title-wr">
+                                                <h3 class="section-title left">Additional details</h3>
+                                            </div>
+                                            <table class="table table-bordered table-striped table-hover table-responsive">
+                                                <tbody>
+                                                    <tr>
+                                                        <td><strong>Property Size:</strong> 2300 Sq Ft</td>
+                                                        <td><strong>Lot size:</strong> 5000 Sq Ft</td>
+                                                        <td><strong>Price:</strong> RON 23000</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Rooms:</strong> 5</td>
+                                                        <td><strong>Bedrooms:</strong> 4</td>
+                                                        <td><strong>Bathrooms:</strong> 2</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Garages:</strong> 2</td>
+                                                        <td><strong>Roofing:</strong> New</td>
+                                                        <td><strong>Structure Type:</strong> Bricks</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Year built:</strong> 1991</td>
+                                                        <td><strong>Available from:</strong> 1 August 2014</td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+
+                                            <div class="section-title-wr">
+                                                <h3 class="section-title left">Location details</h3>
+                                            </div>
+                                            <table class="table table-bordered table-striped table-hover table-responsive">
+                                                <tbody>
+                                                    <tr>
+                                                        <td><strong><strong>Property Size:</strong> 2300 Sq Ft</strong></td>
+                                                        <td><strong>Lot size:</strong> 5000 Sq Ft</td>
+                                                        <td><strong>Price:</strong> RON 23000</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Rooms:</strong> 5</td>
+                                                        <td><strong>Bedrooms:</strong> 4</td>
+                                                        <td><strong>Bathrooms:</strong> 2</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Garages:</strong> 2</td>
+                                                        <td><strong>Roofing:</strong> New</td>
+                                                        <td><strong>Structure Type:</strong> Bricks</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Year built:</strong> 1991</td>
+                                                        <td><strong>Available from:</strong> 1 August 2014</td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+
+                                    <!-- Tab 3 -->
+                                    <div class="tab-pane fade" id="tab-3">
+                                        <div class="tab-body">
+                                            <div class="comment-list clearfix" id="comments">
+                                                <h2>5 reviews from our buyers</h2>
+                                                <a href="#divAddReview" class="link-add-comment anchor" hidefocus="true">Add a review</a>
+                                                <!-- Comments list -->
+                                                <ol>
+                                                    <li class="comment">
+                                                        <div class="comment-body bb">
+                                                            <div class="comment-avatar">
+                                                                <div class="avatar"><img src="/Content/images/temp/avatar1.png" alt=""></div>
+                                                            </div>
+                                                            <div class="comment-text">
+                                                                <div class="comment-author clearfix">
+                                                                    <a href="#" class="link-author" hidefocus="true">Brad Pit</a>
+                                                                    <span class="comment-meta"><span class="comment-date">June 26, 2013</span> | <a href="#addcomments" class="link-reply anchor" hidefocus="true">Reply</a></span>
+                                                                </div>
+                                                                <div class="comment-entry">
+                                                                    William Bradley "Brad" Pitt is an American actor and film producer. Pitt has received four Academy Award nominations and five Golden Globe.
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+
+                                                    <li class="comment">
+                                                        <div class="comment-body bb">
+                                                            <div class="comment-avatar">
+                                                                <div class="avatar"><img src="/Content/images/temp/avatar2.png" alt=""></div>
+                                                            </div>
+                                                            <div class="comment-text">
+                                                                <div class="comment-author clearfix">
+                                                                    <a href="#" class="link-author" hidefocus="true">Ari Gold</a>
+                                                                    <span class="comment-meta"><span class="comment-date">June 25, 2013</span> | <a href="#addcomments" class="link-reply anchor" hidefocus="true">Reply</a></span>
+                                                                </div>
+                                                                <div class="comment-entry">
+                                                                    Ari Gold is Vincent Chase's neurotic movie agent. He was an undergrad at Harvard University before earning his J.D./M.B.A. at the University of Michigan. In addition to reprising the role for the upcoming prequels of
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <ul class="children">
+                                                            <li class="comment">
+                                                                <div class="comment-body bb">
+                                                                    <div class="comment-avatar">
+                                                                        <div class="avatar"><img src="/Content/images/temp/avatar3.png" alt=""></div>
+                                                                    </div>
+                                                                    <div class="comment-text">
+                                                                        <div class="comment-author clearfix">
+                                                                            <a href="#" class="link-author" hidefocus="true">Elijah Wood</a>
+                                                                            <span class="comment-meta"><span class="comment-date">June 24, 2013</span> | <a href="#addcomments" class="link-reply anchor" hidefocus="true">Reply</a></span>
+                                                                        </div>
+                                                                        <div class="comment-entry">
+                                                                            Elijah Wood is an American actor best known for Frodo.
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+
+                                                    <li class="comment">
+                                                        <div class="comment-body bb">
+                                                            <div class="comment-avatar">
+                                                                <div class="avatar"><img src="/Content/images/temp/avatar4.png" alt=""></div>
+                                                            </div>
+                                                            <div class="comment-text">
+                                                                <div class="comment-author clearfix">
+                                                                    <a href="#" class="link-author" hidefocus="true">Superman</a>
+                                                                    <span class="comment-meta"><span class="comment-date">June 23, 2013</span> | <a href="#addcomments" class="link-reply anchor" hidefocus="true">Reply</a></span>
+                                                                </div>
+                                                                <div class="comment-entry">
+                                                                    Superman is a fictional character, a comic book superhero who appears in comic books published by DC Comics.
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+
+                                                    <li class="comment">
+                                                        <div class="comment-body bb">
+                                                            <div class="comment-avatar">
+                                                                <div class="avatar"><img src="/Content/images/temp/avatar1.png" alt=""></div>
+                                                            </div>
+                                                            <div class="comment-text">
+                                                                <div class="comment-author clearfix">
+                                                                    <a href="#" class="link-author" hidefocus="true">Brad Pit</a>
+                                                                    <span class="comment-meta"><span class="comment-date">June 26, 2013</span> | <a href="#addcomments" class="link-reply anchor" hidefocus="true">Reply</a></span>
+                                                                </div>
+                                                                <div class="comment-entry">
+                                                                    William Bradley "Brad" Pitt is an American actor and film producer. Pitt has received four Academy Award nominations and five Golden Globe.
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+
+                                                </ol>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="sidebar">
+
+                        <div class="panel panel-default panel-sidebar-1">
+                            <div class="panel-heading"><h2>Filter by</h2></div>
+                            <div class="panel-body">
+                                <h4>Category</h4>
+                                <ul class="list-group">
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Laptops</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Tablets</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Phones</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Mice</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Cameras</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Home Cinemas</a>
+                                    </li>
+                                </ul>
+
+                                <h4>Manufacturer</h4>
+                                <ul class="list-group">
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Laptops</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Tablets</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Phones</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Mice</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Cameras</a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge base">14</span>
+                                        <a href="">Home Cinemas</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default panel-sidebar-1">
+                            <div class="panel-heading"><h2>Recently viewed</h2></div>
+                            <div class="panel-body">
+                                <ul class="featured">
+                                    <li>
+                                        <div class="featured-item">
+                                            <div class="featured-item-img">
+                                                <img src="images/prv/product-2.jpg" alt="" class="pull-left">
+                                            </div>
+                                            <div class="feature-item-info">
+                                                <h3 class="title">
+                                                    <a href="#">Samsung Galaxy S4</a>
+                                                </h3>
+                                                <div class="rating">
+                                                    <span class="star voted" rel="1"></span>
+                                                    <span class="star voted" rel="2"></span>
+                                                    <span class="star voted" rel="3"></span>
+                                                    <span class="star" rel="4"></span>
+                                                    <span class="star" rel="5"></span>
+                                                </div>
+                                                <div class="price-wr">
+                                                    <span class="price discount">RON 300.99</span>
+                                                    <span class="price">RON 233.89</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="featured-item">
+                                            <div class="featured-item-img">
+                                                <img src="images/prv/product-3.jpg" alt="" class="pull-left">
+                                            </div>
+                                            <div class="feature-item-info">
+                                                <h3 class="title">
+                                                    <a href="#">Asus Ultra Notebook</a>
+                                                </h3>
+                                                <div class="rating">
+                                                    <span class="star voted" rel="1"></span>
+                                                    <span class="star voted" rel="2"></span>
+                                                    <span class="star voted" rel="3"></span>
+                                                    <span class="star" rel="4"></span>
+                                                    <span class="star" rel="5"></span>
+                                                </div>
+                                                <div class="price-wr">
+                                                    <span class="price discount">RON 300.99</span>
+                                                    <span class="price">RON 233.89</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="featured-item">
+                                            <div class="featured-item-img">
+                                                <img src="images/prv/product-4.jpg" alt="" class="pull-left">
+                                            </div>
+                                            <div class="feature-item-info">
+                                                <h3 class="title">
+                                                    <a href="#">PC Mouse Microsoft</a>
+                                                </h3>
+                                                <div class="rating">
+                                                    <span class="star voted" rel="1"></span>
+                                                    <span class="star voted" rel="2"></span>
+                                                    <span class="star voted" rel="3"></span>
+                                                    <span class="star" rel="4"></span>
+                                                    <span class="star" rel="5"></span>
+                                                </div>
+                                                <div class="price-wr">
+                                                    <span class="price discount">RON 300.99</span>
+                                                    <span class="price">RON 233.89</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

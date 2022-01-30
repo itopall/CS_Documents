@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\07_hataYönetimi\01_HataYönetimi\bin\Debug\01_HataYönetimi.exe.config
+E:\MCSD_280919\01_C#-giris\07_hataYönetimi\01_HataYönetimi\bin\Debug\01_HataYönetimi.exe
+E:\MCSD_280919\01_C#-giris\07_hataYönetimi\01_HataYönetimi\bin\Debug\01_HataYönetimi.pdb
+E:\MCSD_280919\01_C#-giris\07_hataYönetimi\01_HataYönetimi\obj\Debug\01_HataYönetimi.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\07_hataYönetimi\01_HataYönetimi\obj\Debug\01_HataYönetimi.exe
+E:\MCSD_280919\01_C#-giris\07_hataYönetimi\01_HataYönetimi\obj\Debug\01_HataYönetimi.pdb
+E:\MCSD_280919\01_C#-giris\07_hataYönetimi\01_HataYönetimi\obj\Debug\01_HataYönetimi.csprojAssemblyReference.cache

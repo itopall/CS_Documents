@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\05_TimerAndProgressbar\01_Timer\bin\Debug\01_Timer.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\05_TimerAndProgressbar\01_Timer\bin\Debug\01_Timer.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\05_TimerAndProgressbar\01_Timer\bin\Debug\01_Timer.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\05_TimerAndProgressbar\01_Timer\obj\Debug\_01_Timer.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\05_TimerAndProgressbar\01_Timer\obj\Debug\_01_Timer.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\05_TimerAndProgressbar\01_Timer\obj\Debug\01_Timer.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\05_TimerAndProgressbar\01_Timer\obj\Debug\01_Timer.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\05_TimerAndProgressbar\01_Timer\obj\Debug\01_Timer.pdb

@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\08_Methodlar\01_Methodlar\bin\Debug\01_Methodlar.exe.config
+E:\MCSD_280919\01_C#-giris\08_Methodlar\01_Methodlar\bin\Debug\01_Methodlar.exe
+E:\MCSD_280919\01_C#-giris\08_Methodlar\01_Methodlar\bin\Debug\01_Methodlar.pdb
+E:\MCSD_280919\01_C#-giris\08_Methodlar\01_Methodlar\obj\Debug\01_Methodlar.csprojAssemblyReference.cache
+E:\MCSD_280919\01_C#-giris\08_Methodlar\01_Methodlar\obj\Debug\01_Methodlar.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\08_Methodlar\01_Methodlar\obj\Debug\01_Methodlar.exe
+E:\MCSD_280919\01_C#-giris\08_Methodlar\01_Methodlar\obj\Debug\01_Methodlar.pdb

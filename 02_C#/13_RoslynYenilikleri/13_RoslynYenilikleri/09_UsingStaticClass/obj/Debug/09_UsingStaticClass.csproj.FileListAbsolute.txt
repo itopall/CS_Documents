@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\09_UsingStaticClass\bin\Debug\09_UsingStaticClass.exe.config
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\09_UsingStaticClass\bin\Debug\09_UsingStaticClass.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\09_UsingStaticClass\bin\Debug\09_UsingStaticClass.pdb
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\09_UsingStaticClass\obj\Debug\09_UsingStaticClass.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\09_UsingStaticClass\obj\Debug\09_UsingStaticClass.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\09_UsingStaticClass\obj\Debug\09_UsingStaticClass.pdb

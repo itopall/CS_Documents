@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\03_OperatorleriAsiriYuklemek\02_OperatorleriAsiriYuklemek\bin\Debug\02_OperatorleriAsiriYuklemek.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\03_OperatorleriAsiriYuklemek\02_OperatorleriAsiriYuklemek\bin\Debug\02_OperatorleriAsiriYuklemek.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\03_OperatorleriAsiriYuklemek\02_OperatorleriAsiriYuklemek\bin\Debug\02_OperatorleriAsiriYuklemek.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\03_OperatorleriAsiriYuklemek\02_OperatorleriAsiriYuklemek\obj\Debug\02_OperatorleriAsiriYuklemek.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\03_OperatorleriAsiriYuklemek\02_OperatorleriAsiriYuklemek\obj\Debug\02_OperatorleriAsiriYuklemek.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\03_OperatorleriAsiriYuklemek\02_OperatorleriAsiriYuklemek\obj\Debug\02_OperatorleriAsiriYuklemek.pdb

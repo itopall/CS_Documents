@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\03_AccessModifiers\bin\Debug\03_AccessModifiers.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\03_AccessModifiers\bin\Debug\03_AccessModifiers.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\03_AccessModifiers\bin\Debug\03_AccessModifiers.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\03_AccessModifiers\obj\Debug\03_AccessModifiers.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\03_AccessModifiers\obj\Debug\03_AccessModifiers.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\03_AccessModifiers\obj\Debug\03_AccessModifiers.pdb

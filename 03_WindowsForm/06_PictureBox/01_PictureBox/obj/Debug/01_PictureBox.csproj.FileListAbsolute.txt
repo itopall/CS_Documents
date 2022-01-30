@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\06_PictureBox\01_PictureBox\bin\Debug\01_PictureBox.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\06_PictureBox\01_PictureBox\bin\Debug\01_PictureBox.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\06_PictureBox\01_PictureBox\bin\Debug\01_PictureBox.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\06_PictureBox\01_PictureBox\obj\Debug\01_PictureBox.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\06_PictureBox\01_PictureBox\obj\Debug\_01_PictureBox.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\06_PictureBox\01_PictureBox\obj\Debug\_01_PictureBox.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\06_PictureBox\01_PictureBox\obj\Debug\01_PictureBox.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\06_PictureBox\01_PictureBox\obj\Debug\01_PictureBox.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\06_PictureBox\01_PictureBox\obj\Debug\01_PictureBox.pdb

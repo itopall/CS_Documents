@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Yeni Form Özellikleri</title>
+    </head>
+
+    <body>
+
+        <!-- Kullanıldığında, sayfa yüklendiği anda bir input elementine odaklanılmasını sağlar. -->
+        İsim <input type="text" name="txtName"> <br><br>
+        Soy İsim <input type="text" name="txtSurname" autofocus> <br><br>
+
+        01-01-1990'dan önce bir tarih seçiniz:
+        <input type="date" name="inpDate" max="1989-12-31"> <br><br>
+
+        01-01-1990'dan sonraki bir tarih seçiniz:
+        <input type="date" name="inpDate2" min="1989-12-31"> <br><br>
+
+        <!-- Kullanıcının birden fazla dosya seçmesine izin verir. -->
+        Resimleri seçiniz: <input type="file" name="fuImages" multiple> <br><br>
+
+        <!-- PlaceHolder özelliği bir giriş alanının beklenen değerini açıklayan b-kısa bir ipucu belirtir. -->
+        <input type="text" name="inpText" placeholder="İsim"> <br><br>
+
+        <form action="wwww.testapi.com/user/Login">
+            Kullanıcı Adı: <input type="text" name="txtUsername" required>
+            <input type="submit">
+        </form>
+
+        <input type="number" name="inpNumbers" step="5">
+    </body>
+</html>

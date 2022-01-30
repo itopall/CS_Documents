@@ -1,0 +1,24 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\ETrade.Data.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\ETrade.Data.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\ETrade.Data.dll.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\ETrade.Data.dll.config
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\ETrade.Data.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\ETrade.Data.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\EntityFramework.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\EntityFramework.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\MCSD_280919\09_Mvc\15_Project\ETrade\ETrade.Data\obj\Debug\ETrade.Data.pdb

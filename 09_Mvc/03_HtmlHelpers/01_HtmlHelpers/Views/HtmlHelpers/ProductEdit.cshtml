@@ -1,0 +1,59 @@
+﻿@model  _01_HtmlHelpers.Models.ProductModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ProductEdit</title>
+</head>
+<body>
+    <div>
+        Product Edit <br /><br />
+
+        Düz metin olarak yazdırma yöntemi <br />
+        Id: @Model.Id <br />
+        Name: @Model.Name <br />
+        Description: @Model.Description <br />
+        IsActive: @Model.IsActive <br />
+
+        <br /><br />
+
+        Html input'lara basma yöntemi <br />
+        Id: <input type="text" value="@Model.Id" /> <br />
+        Name: <input type="text" value="@Model.Name" id="txtName" /> <br />
+        Description: <input type="text" value="@Model.Description" /> <br />
+        IsActive: <input type="checkbox" value="@Model.IsActive" /> <br />
+
+        <br /><br />
+
+        HtmlHelpers içerisindeki input'lara basma yöntemi<br />
+        Id: @Html.TextBox("Id", Model.Id) <br />
+        Name: @Html.TextBox("Name", Model.Name) <br />
+        Description: @Html.TextArea("Description", Model.Description) <br />
+        IsActive: @Html.CheckBox("IsActive", Model.IsActive) <br />
+
+        <br /><br />
+
+        HtmlHelpers içerisindeki For'lu kullanımlarla binding mekanizmasını kullanarak input'lara basma yöntemi<br />
+        Id: @Html.TextBoxFor(p => p.Id) <br />
+        Name: @Html.TextBoxFor(p => p.Name) <br />
+        Description: @Html.TextAreaFor(p => p.Description) <br />
+        IsActive: @Html.CheckBoxFor(p => p.IsActive) <br />
+
+        <br /><br />
+
+        @using (Html.BeginForm("UpdatePersonel", "htmlHelpers"))
+        {
+            @Html.Label("Id:") @Html.TextBoxFor(p => p.Id) <br />
+            @Html.Label("Name:") @Html.TextBoxFor(p => p.Name) <br />
+            @Html.Label("Description:") @Html.TextAreaFor(p => p.Description) <br />
+            @Html.Label("IsActive:") @Html.CheckBoxFor(p => p.IsActive) <br />
+            <input type="submit" value="Güncelle" />
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\04_GenericKisitlamalar\bin\Debug\04_GenericKisitlamalar.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\04_GenericKisitlamalar\bin\Debug\04_GenericKisitlamalar.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\04_GenericKisitlamalar\bin\Debug\04_GenericKisitlamalar.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\04_GenericKisitlamalar\obj\Debug\04_GenericKisitlamalar.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\04_GenericKisitlamalar\obj\Debug\04_GenericKisitlamalar.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\04_GenericKisitlamalar\obj\Debug\04_GenericKisitlamalar.pdb

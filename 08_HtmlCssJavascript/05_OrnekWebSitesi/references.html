@@ -1,0 +1,90 @@
+<html>
+
+<head>
+    <title>Anasayfa</title>
+
+    <link rel="stylesheet" type="text/css" href="styles/menu.css">
+
+    <script src="scripts/menu.js"></script>
+</head> 
+
+<body>
+    <div style="width: 80%; margin-left: 10%;">
+
+        <!-- Kırmızı Şerit -->
+        <div style="background-color: red; height: 5px;"></div>
+
+        <!-- HEADER -->
+        <div style="height: 84px; background-color: aqua;">
+            <div style="width: 50%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px;">
+                <img src="images/logo.png" width="64" height="64" style="margin-left: 10px;">
+                <b style="vertical-align: top;">MCSD 280919</b>
+            </div>
+
+            <div
+                style="width: 50%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px; text-align: right;">
+                <b style="margin-right: 20px;">Telefon 0530 123 45 67</b>
+            </div>
+        </div>
+
+        <!-- MENU -->
+        <div style="background-color: darkkhaki;">
+            <div class="topnav" id="myTopnav">
+                <a href="index.html">Anasayfa</a>
+                <a href="about.html">Hakkımızda</a>
+                <div class="dropdown">
+                    <button class="dropbtn">Ürünler
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="product-computer.html">Bilgisayar</a>
+                        <a href="product-dress.html">Giyim</a>
+                        <a href="product-home.html">Ev Ürünleri</a>
+                    </div>
+                </div>
+                <a href="references.html" class="active">Referanslar</a>
+                <a href="contact.html">İletişim</a>
+                <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+            </div>
+        </div>
+
+        <!-- CONTENT -->
+        <div style="height: 500px; background-color: gray;">
+            <div style="padding-left:3%; padding-top:30px; width: 97%;">
+                <h3>Referanslar</h3>
+                <img src="images/reference-1.jpg" width="200" height="160">
+                <img src="images/reference-2.jpg" width="200" height="160">
+                <img src="images/reference-3.png" width="200" height="160">
+                <img src="images/reference-4.png" width="200" height="160">
+                <img src="images/reference-5.png" width="200" height="160">
+            </div>
+        </div>
+
+        <!-- Kırmızı Şerit -->
+        <div style="background-color: red; height: 2px;"></div>
+
+        <!-- FOOTER -->
+        <div style="height: 100px; background-color: black; color: white;">
+            <div style="width: 25%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px;">
+                <div style="vertical-align: top; margin-left: 10px;">Copyright 2020 tüm hakları saklıdır.</div>
+            </div>
+
+            <div style="width: 50%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px; text-align: center;">
+                <a href="index.html">Anasayfa</a> | 
+                <a href="about.html">Hakkımızda</a> | 
+                <a href="references.html">Referanslar</a> | 
+                <a href="contact.html">İletişim</a> | 
+            </div>
+
+            <div style="width: 25%; float:left; height: 64px; padding-top: 10px; padding-bottom: 10px; text-align: right;">
+                <address>
+                    <div style="margin-right: 20px;">
+                        Telefon: 0530 123 45 67
+                    </div>
+                </address>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

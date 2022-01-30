@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\11_Ornekler\bin\Debug\11_Ornekler.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\11_Ornekler\bin\Debug\11_Ornekler.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\11_Ornekler\bin\Debug\11_Ornekler.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\11_Ornekler\obj\Debug\11_Ornekler.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\11_Ornekler\obj\Debug\11_Ornekler.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\11_Ornekler\obj\Debug\11_Ornekler.pdb

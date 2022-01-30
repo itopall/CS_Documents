@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\01_AutoPropertyIlkDeger\bin\Debug\01_AutoPropertyIlkDeger.exe.config
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\01_AutoPropertyIlkDeger\bin\Debug\01_AutoPropertyIlkDeger.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\01_AutoPropertyIlkDeger\bin\Debug\01_AutoPropertyIlkDeger.pdb
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\01_AutoPropertyIlkDeger\obj\Debug\01_AutoPropertyIlkDeger.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\01_AutoPropertyIlkDeger\obj\Debug\01_AutoPropertyIlkDeger.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\01_AutoPropertyIlkDeger\obj\Debug\01_AutoPropertyIlkDeger.pdb

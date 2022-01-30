@@ -1,0 +1,46 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @*<title>@ViewBag.Title - Öğrenci Otomasyon Sistemi</title>*@
+    <title>Jquery ve Ajax Kullanımı</title>
+
+    <link href="~/Content/menu.css" rel="stylesheet" />
+    <script src="~/Content/menu.js"></script>
+    <script src="~/Scripts/jquery-3.5.1.js"></script>
+</head>
+<body>
+    <div style="width: 80%; margin-left: 10%;">
+        <!-- Kırmızı Şerit -->
+        <div style="background-color: red; height: 5px;"></div>
+
+        <!-- MENU -->
+        <div style="background-color: darkkhaki;">
+            <div class="topnav" id="myTopnav">
+                @Html.ActionLink("Anasayfa", "Index", "Home")
+                @Html.ActionLink("Jquery Örnekler", "Index", "JQueryOrnek")
+                @Html.ActionLink("Personel Index", "Index", "Personel")
+                @Html.ActionLink("Personel Arama", "PersonelSearch", "Personel")
+
+            </div>
+        </div>
+
+        <!-- CONTENT -->
+        <div style="height: 600px; background-color: gray; padding:20px;">
+            @RenderBody()
+        </div>
+
+        <!-- Kırmızı Şerit -->
+        <div style="background-color: red; height: 2px;"></div>
+
+        <!-- FOOTER -->
+        <div style="height: 30px; background-color: darkgray; padding:20px;">
+        </div>
+    </div>
+
+    @RenderSection("scripts", required: false)
+    @RenderSection("styles", required: false)
+</body>
+</html>

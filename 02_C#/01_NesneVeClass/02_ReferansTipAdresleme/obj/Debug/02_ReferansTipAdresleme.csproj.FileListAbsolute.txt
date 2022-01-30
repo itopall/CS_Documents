@@ -1,0 +1,7 @@
+E:\MCSD-280919\02_C#\01_NesneVeClass\02_ReferansTipAdresleme\bin\Debug\02_ReferansTipAdresleme.exe.config
+E:\MCSD-280919\02_C#\01_NesneVeClass\02_ReferansTipAdresleme\bin\Debug\02_ReferansTipAdresleme.exe
+E:\MCSD-280919\02_C#\01_NesneVeClass\02_ReferansTipAdresleme\bin\Debug\02_ReferansTipAdresleme.pdb
+E:\MCSD-280919\02_C#\01_NesneVeClass\02_ReferansTipAdresleme\obj\Debug\02_ReferansTipAdresleme.csprojAssemblyReference.cache
+E:\MCSD-280919\02_C#\01_NesneVeClass\02_ReferansTipAdresleme\obj\Debug\02_ReferansTipAdresleme.csproj.CoreCompileInputs.cache
+E:\MCSD-280919\02_C#\01_NesneVeClass\02_ReferansTipAdresleme\obj\Debug\02_ReferansTipAdresleme.exe
+E:\MCSD-280919\02_C#\01_NesneVeClass\02_ReferansTipAdresleme\obj\Debug\02_ReferansTipAdresleme.pdb

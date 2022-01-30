@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d74c5b774d724a98860e681b4009ef07" Name="Diagram1">
+        <EntityTypeShape EntityType="ETradeModel.Basket" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.BasketDetail" Width="1.5" PointX="5.25" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.Category" Width="1.5" PointX="0.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.Employee" Width="1.5" PointX="13" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.EmployeeType" Width="1.5" PointX="10.75" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.Member" Width="1.5" PointX="0.75" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.PaymentType" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.Product" Width="1.5" PointX="3" PointY="19.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.PurchaseOrder" Width="1.5" PointX="8.25" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.PurchaseOrderDetail" Width="1.5" PointX="10.5" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.PurchaseOrderHistory" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.PurchaseOrderStatus" Width="1.5" PointX="3" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.Shipper" Width="1.5" PointX="3" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="ETradeModel.Supplier" Width="1.5" PointX="0.75" PointY="22.25" IsExpanded="true" />
+        <AssociationConnector Association="ETradeModel.FK_Basket_Member" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_BasketDetail_Basket" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrder_Basket" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrderHistory_Basket" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_BasketDetail_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_Product_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_Employee_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_Employee_EmployeeType" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrder_Member" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrderHistory_Member" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrder_PaymentType" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrderHistory_PaymentType" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_Product_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrderDetail_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrder_PurchaseOrderStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrder_Shipper" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrderDetail_PurchaseOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrderHistory_PurchaseOrderStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="ETradeModel.FK_PurchaseOrderHistory_Shipper" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ETradeModel.ProductImage" Width="1.5" PointX="5.25" PointY="20.375" />
+        <AssociationConnector Association="ETradeModel.FK_ProductImage_Product" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

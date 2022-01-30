@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>Formlar</title>
+    </head>
+
+    <body>
+        <!-- Form elemanları kullanıcıların bilgi girmesini sağlayan elemanlardır. -->
+
+        <form>
+            <input />
+            <input />
+        </form>
+
+        <br><br>
+
+        <form>
+            Adınız:
+            <input type="text" name="txtName"> <br>
+
+            Soyadınız: 
+            <input type="text" name="txtSurname"> <br>
+        </form>
+
+        <form>
+            Gidiş:
+            <input type="checkbox" name="chkYol" value="Gidiş"> <br>
+
+            Dönüş:
+            <input type="checkbox" name="chkYol" value="Dönüş"> <br>
+
+            Gidiş/Dönüş:
+            <input type="checkbox" name="chkYol" value="Gidiş/Dönüş"> <br>
+        </form>
+
+        <form>
+            <input type="radio" name="rdCinsiyet" value="Erkek">Erkek <br>
+            <input type="radio" name="rdCinsiyet" value="Kadın">Kadın <br>
+        </form>
+
+        <form id="frmUser" name="frmUser" action="www.otomasyonsitemi.com/api/personol/login" method="GET" target="_blank">
+            Kullanıcı Adı:
+            <input type="text" name="txtUsername">
+            
+            <!-- Formun içerisindeki verilerin sunucuya gönderilmesi için submit tipinde bir buton oluşturmalıyız.-->
+            <input type="submit" name="btnSubmit" value="Gönder">
+
+            <!-- button tipinde bir nesne tanımlarsak tıklandığında form tetiklenmez! -->
+            <!-- <input type="button" name="btnGonder" value="Gönder"> --> 
+        </form>
+
+        Get, Post, Put, Delete
+    </body>
+</html>

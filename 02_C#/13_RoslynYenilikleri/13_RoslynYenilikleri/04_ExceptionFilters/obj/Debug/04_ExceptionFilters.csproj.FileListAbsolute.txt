@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\04_ExceptionFilters\bin\Debug\04_ExceptionFilters.exe.config
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\04_ExceptionFilters\bin\Debug\04_ExceptionFilters.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\04_ExceptionFilters\bin\Debug\04_ExceptionFilters.pdb
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\04_ExceptionFilters\obj\Debug\04_ExceptionFilters.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\04_ExceptionFilters\obj\Debug\04_ExceptionFilters.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\04_ExceptionFilters\obj\Debug\04_ExceptionFilters.pdb

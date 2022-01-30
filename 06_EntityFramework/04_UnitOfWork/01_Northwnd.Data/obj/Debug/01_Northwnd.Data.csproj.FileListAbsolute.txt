@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\bin\Debug\01_Northwnd.Data.dll.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\bin\Debug\01_Northwnd.Data.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\bin\Debug\01_Northwnd.Data.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\obj\Debug\01_Northwnd.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\obj\Debug\01_Northwnd.Data.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\01_Northwnd.Data\obj\Debug\01_Northwnd.Data.pdb

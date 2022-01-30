@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\04_InterfaceSegration\bin\Debug\04_InterfaceSegration.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\04_InterfaceSegration\bin\Debug\04_InterfaceSegration.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\04_InterfaceSegration\bin\Debug\04_InterfaceSegration.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\04_InterfaceSegration\obj\Debug\04_InterfaceSegration.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\04_InterfaceSegration\obj\Debug\04_InterfaceSegration.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\04_InterfaceSegration\obj\Debug\04_InterfaceSegration.pdb

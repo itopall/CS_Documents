@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_ListBox", "01_ListBox\01_ListBox.csproj", "{3DF71227-7287-4C4E-934C-E431675EE4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Combobox", "02_Combobox\02_Combobox.csproj", "{9C412B47-D72B-4995-BCE9-378ED532C0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Ornek", "03_Ornek\03_Ornek.csproj", "{0F9CEE3E-28FE-478E-A23D-DA55FFE36357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF71227-7287-4C4E-934C-E431675EE4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF71227-7287-4C4E-934C-E431675EE4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF71227-7287-4C4E-934C-E431675EE4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF71227-7287-4C4E-934C-E431675EE4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C412B47-D72B-4995-BCE9-378ED532C0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C412B47-D72B-4995-BCE9-378ED532C0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C412B47-D72B-4995-BCE9-378ED532C0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C412B47-D72B-4995-BCE9-378ED532C0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9CEE3E-28FE-478E-A23D-DA55FFE36357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9CEE3E-28FE-478E-A23D-DA55FFE36357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9CEE3E-28FE-478E-A23D-DA55FFE36357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9CEE3E-28FE-478E-A23D-DA55FFE36357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

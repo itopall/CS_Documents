@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\06_NameOfOperator\bin\Debug\06_NameOfOperator.exe.config
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\06_NameOfOperator\bin\Debug\06_NameOfOperator.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\06_NameOfOperator\bin\Debug\06_NameOfOperator.pdb
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\06_NameOfOperator\obj\Debug\06_NameOfOperator.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\06_NameOfOperator\obj\Debug\06_NameOfOperator.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\06_NameOfOperator\obj\Debug\06_NameOfOperator.pdb

@@ -1,0 +1,15 @@
+﻿@model _01_PartialView.Models.BasketModel
+@{
+    ViewBag.Title = "BasketList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<b>BasketList</b>
+<br />
+<br />
+
+Merhaba @Model.NameSurname sepetinizdeki ürünleri aşağıda görebilirsiniz.
+<br />
+<br />
+
+@Html.Partial("_ProductList", Model.SepettekiUrunler)

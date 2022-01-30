@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\01_Panel\bin\Debug\01_Panel.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\01_Panel\bin\Debug\01_Panel.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\01_Panel\bin\Debug\01_Panel.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\01_Panel\obj\Debug\01_Panel.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\01_Panel\obj\Debug\_01_Panel.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\01_Panel\obj\Debug\_01_Panel.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\01_Panel\obj\Debug\01_Panel.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\01_Panel\obj\Debug\01_Panel.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\01_Panel\obj\Debug\01_Panel.pdb

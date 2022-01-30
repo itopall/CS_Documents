@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\04_DateTimePicker\01_DatetimePicker\bin\Debug\01_DatetimePicker.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\04_DateTimePicker\01_DatetimePicker\bin\Debug\01_DatetimePicker.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\04_DateTimePicker\01_DatetimePicker\bin\Debug\01_DatetimePicker.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\04_DateTimePicker\01_DatetimePicker\obj\Debug\01_DatetimePicker.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\04_DateTimePicker\01_DatetimePicker\obj\Debug\_01_DatetimePicker.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\04_DateTimePicker\01_DatetimePicker\obj\Debug\_01_DatetimePicker.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\04_DateTimePicker\01_DatetimePicker\obj\Debug\01_DatetimePicker.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\04_DateTimePicker\01_DatetimePicker\obj\Debug\01_DatetimePicker.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\04_DateTimePicker\01_DatetimePicker\obj\Debug\01_DatetimePicker.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\01_DataTable\bin\Debug\01_DataTable.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\01_DataTable\bin\Debug\01_DataTable.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\01_DataTable\bin\Debug\01_DataTable.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\01_DataTable\obj\Debug\01_DataTable.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\01_DataTable\obj\Debug\01_DataTable.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\01_DataTable\obj\Debug\01_DataTable.pdb

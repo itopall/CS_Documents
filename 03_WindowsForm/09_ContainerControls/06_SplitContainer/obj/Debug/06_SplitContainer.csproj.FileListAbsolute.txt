@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\06_SplitContainer\bin\Debug\06_SplitContainer.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\06_SplitContainer\bin\Debug\06_SplitContainer.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\06_SplitContainer\bin\Debug\06_SplitContainer.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\06_SplitContainer\obj\Debug\_06_SplitContainer.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\06_SplitContainer\obj\Debug\_06_SplitContainer.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\06_SplitContainer\obj\Debug\06_SplitContainer.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\06_SplitContainer\obj\Debug\06_SplitContainer.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\06_SplitContainer\obj\Debug\06_SplitContainer.pdb

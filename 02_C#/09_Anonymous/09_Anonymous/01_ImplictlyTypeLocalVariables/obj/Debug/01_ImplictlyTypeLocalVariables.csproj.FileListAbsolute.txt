@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\01_ImplictlyTypeLocalVariables\bin\Debug\01_ImplictlyTypeLocalVariables.exe.config
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\01_ImplictlyTypeLocalVariables\bin\Debug\01_ImplictlyTypeLocalVariables.exe
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\01_ImplictlyTypeLocalVariables\bin\Debug\01_ImplictlyTypeLocalVariables.pdb
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\01_ImplictlyTypeLocalVariables\obj\Debug\01_ImplictlyTypeLocalVariables.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\01_ImplictlyTypeLocalVariables\obj\Debug\01_ImplictlyTypeLocalVariables.exe
+E:\MCSD_280919\02_C#\09_Anonymous\09_Anonymous\01_ImplictlyTypeLocalVariables\obj\Debug\01_ImplictlyTypeLocalVariables.pdb

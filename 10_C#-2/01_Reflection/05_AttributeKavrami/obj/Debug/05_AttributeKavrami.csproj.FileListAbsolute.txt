@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\05_AttributeKavrami\obj\Debug\05_AttributeKavrami.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\05_AttributeKavrami\obj\Debug\05_AttributeKavrami.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\05_AttributeKavrami\bin\Debug\05_AttributeKavrami.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\05_AttributeKavrami\bin\Debug\05_AttributeKavrami.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\05_AttributeKavrami\bin\Debug\05_AttributeKavrami.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\05_AttributeKavrami\obj\Debug\05_AttributeKavrami.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\05_AttributeKavrami\obj\Debug\05_AttributeKavrami.pdb

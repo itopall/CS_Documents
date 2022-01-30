@@ -1,0 +1,5 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Dto\bin\Debug\Northwnd.Dto.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Dto\bin\Debug\Northwnd.Dto.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Dto\obj\Debug\Northwnd.Dto.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Dto\obj\Debug\Northwnd.Dto.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Dto\obj\Debug\Northwnd.Dto.csprojResolveAssemblyReference.cache

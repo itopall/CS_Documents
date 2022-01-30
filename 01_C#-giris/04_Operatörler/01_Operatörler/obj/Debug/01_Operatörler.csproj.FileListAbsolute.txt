@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\04_Operatörler\01_Operatörler\bin\Debug\01_Operatörler.exe.config
+E:\MCSD_280919\01_C#-giris\04_Operatörler\01_Operatörler\bin\Debug\01_Operatörler.exe
+E:\MCSD_280919\01_C#-giris\04_Operatörler\01_Operatörler\bin\Debug\01_Operatörler.pdb
+E:\MCSD_280919\01_C#-giris\04_Operatörler\01_Operatörler\obj\Debug\01_Operatörler.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\04_Operatörler\01_Operatörler\obj\Debug\01_Operatörler.exe
+E:\MCSD_280919\01_C#-giris\04_Operatörler\01_Operatörler\obj\Debug\01_Operatörler.pdb
+E:\MCSD_280919\01_C#-giris\04_Operatörler\01_Operatörler\obj\Debug\01_Operatörler.csprojAssemblyReference.cache

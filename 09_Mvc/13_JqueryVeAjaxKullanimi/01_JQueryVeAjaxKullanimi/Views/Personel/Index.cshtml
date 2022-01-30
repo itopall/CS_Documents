@@ -1,0 +1,97 @@
+﻿@model _01_JQueryVeAjaxKullanimi.Models.PersonelModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .request-overlay {
+        z-index: 9999;
+        position: fixed; /*Important to cover the screen in case of scolling content*/
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        text-align: center;
+        background: rgba(200,200,200,0.5) url('/Content/loader.gif') no-repeat center; /*.gif file or just div with message etc. however you like*/
+    }
+</style>
+
+<h2>Index</h2>
+
+<div>
+    @*<form id="frmPersonel">
+            Id: @Html.TextBoxFor(p => p.Id) <br />
+            NameSurname: @Html.TextBoxFor(p => p.NameSurname) <br />
+
+            <input type="button" id="btnSave" value="Kaydet" />
+        </form>*@
+
+    @using (Html.BeginForm("PersonelAdd", "Personel", FormMethod.Post, new { @id = "frmPersonel" }))
+    {
+        <label>Id:</label> @Html.TextBoxFor(p => p.Id)<br />
+        <label>NameSurname: </label> @Html.TextBoxFor(p => p.NameSurname)<br />
+
+        <div style="float:left"><input type="button" id="btnSave" value="Kaydet" onclick="Send();" /></div>
+        <div id="divLoader" style="float:left"><img src="~/Content/loader.gif" /></div> @*Ajax işlemi esnasında kullanılacak loader gifi*@
+    }
+
+    <br /><br />
+    <label id="lblMessage"></label>
+</div>
+
+<script>
+    $("#divLoader").hide();
+
+    function Send() {
+        //var frm = document.getElementById("#frmPersonel").serialize();
+        var frm = $("#frmPersonel").serialize();
+
+        //Ajax call işlemi için gereken minimum parametreler
+        @*$.ajax({
+            type: 'post',
+            url: '@Url.Action("PersonelAdd", "Personel")',
+            data: frm
+        });*@
+
+        $.ajax({
+            type: 'post',
+            url: '@Url.Action("PersonelAdd", "Personel")',
+            data: frm,
+            beforeSend: function () {
+                //Request gönderilmeden önce yapılmasını istediğimiz işlemleri burada yapabiliriz.
+
+                //Bütün arkaplanı karartıp loader.gif'i açma css'i uyguladık.
+                $("body").append('<div id="requestOverlay" class="request-overlay"></div>');
+
+                //Bölgesel olarak loader uygulamak
+                //$("#divLoader").show();
+            },
+            complete: function () {
+                $("#requestOverlay").remove();
+
+                //$("#divLoader").hide();
+            },
+            success: function (result) {
+                var lblMessage = $("#lblMessage");
+
+                if (result.status === true) {
+                    //alert(result.message);
+
+                    lblMessage.html(result.message);
+                    lblMessage.show();
+                } else {
+                    //alert(result.message);
+
+                    lblMessage.html("Hata Oluştu! Hata Detayı: " + result.message);
+                    lblMessage.show();
+                }
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                //Ajax request'i esnasında bir hata olursa bu kısıma düşecek,
+                //kullanıcıya hata mesajını burada gösterebiliriz.
+            }
+        });
+    }
+</script>

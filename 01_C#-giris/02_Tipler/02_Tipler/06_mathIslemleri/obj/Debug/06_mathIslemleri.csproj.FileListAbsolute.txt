@@ -1,0 +1,6 @@
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\06_mathIslemleri\bin\Debug\06_mathIslemleri.exe.config
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\06_mathIslemleri\bin\Debug\06_mathIslemleri.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\06_mathIslemleri\bin\Debug\06_mathIslemleri.pdb
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\06_mathIslemleri\obj\Debug\06_mathIslemleri.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\06_mathIslemleri\obj\Debug\06_mathIslemleri.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\06_mathIslemleri\obj\Debug\06_mathIslemleri.pdb

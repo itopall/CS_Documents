@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\07_ForeachDongusu\bin\Debug\07_ForeachDongusu.exe.config
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\07_ForeachDongusu\bin\Debug\07_ForeachDongusu.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\07_ForeachDongusu\bin\Debug\07_ForeachDongusu.pdb
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\07_ForeachDongusu\obj\Debug\07_ForeachDongusu.csprojAssemblyReference.cache
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\07_ForeachDongusu\obj\Debug\07_ForeachDongusu.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\07_ForeachDongusu\obj\Debug\07_ForeachDongusu.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\07_ForeachDongusu\obj\Debug\07_ForeachDongusu.pdb

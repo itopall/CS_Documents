@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\08_LambdaOperatoru\bin\Debug\08_LambdaOperatoru.exe.config
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\08_LambdaOperatoru\bin\Debug\08_LambdaOperatoru.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\08_LambdaOperatoru\bin\Debug\08_LambdaOperatoru.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\08_LambdaOperatoru\obj\Debug\08_LambdaOperatoru.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\08_LambdaOperatoru\obj\Debug\08_LambdaOperatoru.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\08_LambdaOperatoru\obj\Debug\08_LambdaOperatoru.pdb

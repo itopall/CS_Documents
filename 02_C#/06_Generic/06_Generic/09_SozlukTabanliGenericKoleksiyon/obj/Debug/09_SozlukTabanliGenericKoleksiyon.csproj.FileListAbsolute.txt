@@ -1,0 +1,5 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\09_SozlukTabanliGenericKoleksiyon\bin\Debug\09_SozlukTabanliGenericKoleksiyon.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\09_SozlukTabanliGenericKoleksiyon\bin\Debug\09_SozlukTabanliGenericKoleksiyon.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\09_SozlukTabanliGenericKoleksiyon\bin\Debug\09_SozlukTabanliGenericKoleksiyon.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\09_SozlukTabanliGenericKoleksiyon\obj\Debug\09_SozlukTabanliGenericKoleksiyon.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\09_SozlukTabanliGenericKoleksiyon\obj\Debug\09_SozlukTabanliGenericKoleksiyon.pdb

@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\ConsoleApp1\obj\Debug\03_BoxinUnboxing.csprojAssemblyReference.cache
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\ConsoleApp1\obj\Debug\03_BoxinUnboxing.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

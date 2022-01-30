@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\02_Ornek\obj\Debug\02_Ornek.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\02_Ornek\bin\Debug\02_Ornek.exe.config
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\02_Ornek\bin\Debug\02_Ornek.exe
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\02_Ornek\bin\Debug\02_Ornek.pdb
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\02_Ornek\obj\Debug\02_Ornek.exe
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\02_Ornek\obj\Debug\02_Ornek.pdb

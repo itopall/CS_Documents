@@ -1,0 +1,66 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        Index Sayfası <br /><br />
+
+        @*Aynı sayfa içinde başka bir sayfayı yükleme yöntemi*@
+        @*@Html.Action("ProductEdit", "HtmlHelpers")*@
+
+        @* Html link verme yöntemi *@
+        <a href="ProductEdit">Product Edit Sayfasına Git</a>
+        <br /><br />
+
+        @* a href'in HtmlHelpers içerisindeki kullanım şekli *@
+        @* Aynı controller içindeki başka bir sayfaya yönlendirme *@
+        @Html.ActionLink("Product Edit Sayfasına Git", "ProductEdit")
+        <br /><br />
+
+        @* Farklı controller içindeki bir sayfaya yönlendirme *@
+        @Html.ActionLink("Product Edit Sayfasına Git", "ProductEdit", "HtmlHelpers")
+        <br /><br />
+
+        @Html.CheckBox("chkAktifMi", true) <br /><br />
+
+        @Html.DropDownList("ddlSehirler",
+            new[]
+            {
+                new SelectListItem { Text = "Ankara", Value = "6" },
+                new SelectListItem { Text = "İstanbul", Value = "34" },
+                new SelectListItem { Text = "Rize", Value = "53" },
+            }
+        )
+        <br /><br />
+
+        @Html.TextBox("txtName", "Test") <br /><br />
+
+        @Html.Password("txtPassword", "1234") <br /><br />
+
+        @Html.Hidden("hdnId", "10") <br /><br />
+
+        @Html.RadioButton("rbCinsiyet", "Erkek", true, new { text = "Erkek" }) Kadın <br />
+        @Html.RadioButton("rbCinsiyet", "Kadın", false, new { text = "Erkek" }) Kadın <br /><br />
+
+        @Html.TextArea("txtArea", "Uzun bir metin", new { cols = 50, rows = 5 }) <br /><br />
+
+        @using (Html.BeginForm("UrunEkle", "HtmlHelpers"))
+        {
+            @*<label>İsim Soyisim: </label>*@
+            @Html.Label("İsim Soyisim: ")
+            @Html.TextBox("txtNameSurname")
+
+            <input type="submit" value="gönder" />
+        }
+    </div>
+</body>
+</html>

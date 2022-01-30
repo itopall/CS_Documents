@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\bin\Debug\04_DataSet.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\bin\Debug\04_DataSet.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\bin\Debug\04_DataSet.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\obj\Debug\04_DataSet.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\obj\Debug\_04_DataSet.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\obj\Debug\_04_DataSet.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\obj\Debug\04_DataSet.csproj.GenerateResource.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\obj\Debug\04_DataSet.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\obj\Debug\04_DataSet.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\04_DataSet\obj\Debug\04_DataSet.pdb

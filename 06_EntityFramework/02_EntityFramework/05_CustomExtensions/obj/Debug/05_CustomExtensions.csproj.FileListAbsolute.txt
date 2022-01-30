@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\05_CustomExtensions\bin\Debug\05_CustomExtensions.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\05_CustomExtensions\bin\Debug\05_CustomExtensions.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\05_CustomExtensions\bin\Debug\05_CustomExtensions.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\05_CustomExtensions\obj\Debug\05_CustomExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\05_CustomExtensions\obj\Debug\05_CustomExtensions.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\02_EntityFramework\05_CustomExtensions\obj\Debug\05_CustomExtensions.pdb

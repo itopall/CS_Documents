@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\03_Static_Ornek\bin\Debug\03_Static_Ornek.exe.config
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\03_Static_Ornek\bin\Debug\03_Static_Ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\03_Static_Ornek\bin\Debug\03_Static_Ornek.pdb
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\03_Static_Ornek\obj\Debug\03_Static_Ornek.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\03_Static_Ornek\obj\Debug\03_Static_Ornek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\03_Static_Ornek\obj\Debug\03_Static_Ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\03_Static_Ornek\obj\Debug\03_Static_Ornek.pdb

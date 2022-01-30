@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\bin\Debug\01_ResxFile.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\bin\Debug\01_ResxFile.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\bin\Debug\01_ResxFile.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\obj\Debug\01_ResxFile.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\obj\Debug\_01_ResxFile.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\obj\Debug\_01_ResxFile.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\obj\Debug\01_ResxFile.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\obj\Debug\01_ResxFile.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\obj\Debug\01_ResxFile.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\15_ResourceManagement\01_ResxFile\obj\Debug\_01_ResxFile.Mesajlar.resources

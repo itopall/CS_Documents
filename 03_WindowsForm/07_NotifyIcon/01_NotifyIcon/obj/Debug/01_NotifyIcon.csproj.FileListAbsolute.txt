@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\07_NotifyIcon\01_NotifyIcon\bin\Debug\01_NotifyIcon.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\07_NotifyIcon\01_NotifyIcon\bin\Debug\01_NotifyIcon.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\07_NotifyIcon\01_NotifyIcon\bin\Debug\01_NotifyIcon.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\07_NotifyIcon\01_NotifyIcon\obj\Debug\_01_NotifyIcon.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\07_NotifyIcon\01_NotifyIcon\obj\Debug\_01_NotifyIcon.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\07_NotifyIcon\01_NotifyIcon\obj\Debug\01_NotifyIcon.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\07_NotifyIcon\01_NotifyIcon\obj\Debug\01_NotifyIcon.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\07_NotifyIcon\01_NotifyIcon\obj\Debug\01_NotifyIcon.pdb

@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\02_Parametreli_Constructor\bin\Debug\02_Parametreli_Constructor.exe.config
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\02_Parametreli_Constructor\bin\Debug\02_Parametreli_Constructor.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\02_Parametreli_Constructor\bin\Debug\02_Parametreli_Constructor.pdb
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\02_Parametreli_Constructor\obj\Debug\02_Parametreli_Constructor.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\02_Parametreli_Constructor\obj\Debug\02_Parametreli_Constructor.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\02_Parametreli_Constructor\obj\Debug\02_Parametreli_Constructor.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\02_Parametreli_Constructor\obj\Debug\02_Parametreli_Constructor.pdb

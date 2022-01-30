@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\02_LockMonitorSemaphore\bin\Debug\02_LockMonitorSemaphore.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\02_LockMonitorSemaphore\bin\Debug\02_LockMonitorSemaphore.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\02_LockMonitorSemaphore\bin\Debug\02_LockMonitorSemaphore.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\02_LockMonitorSemaphore\obj\Debug\02_LockMonitorSemaphore.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\02_LockMonitorSemaphore\obj\Debug\02_LockMonitorSemaphore.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\02_LockMonitorSemaphore\obj\Debug\02_LockMonitorSemaphore.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\02_Thread\02_LockMonitorSemaphore\obj\Debug\02_LockMonitorSemaphore.csprojAssemblyReference.cache

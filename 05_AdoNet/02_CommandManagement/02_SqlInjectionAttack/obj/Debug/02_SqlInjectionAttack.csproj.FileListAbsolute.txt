@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\02_SqlInjectionAttack\obj\Debug\02_SqlInjectionAttack.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\02_SqlInjectionAttack\obj\Debug\02_SqlInjectionAttack.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\02_SqlInjectionAttack\bin\Debug\02_SqlInjectionAttack.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\02_SqlInjectionAttack\bin\Debug\02_SqlInjectionAttack.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\02_SqlInjectionAttack\bin\Debug\02_SqlInjectionAttack.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\02_SqlInjectionAttack\obj\Debug\02_SqlInjectionAttack.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\02_CommandManagement\02_SqlInjectionAttack\obj\Debug\02_SqlInjectionAttack.pdb

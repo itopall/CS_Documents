@@ -1,0 +1,38 @@
+﻿@model _01_CRUDOperations.Models.OgrenciListModel
+@{
+    ViewBag.Title = "OgrenciListe";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div><b>Ögrenci Listeleme Sayfası</b></div>
+<p>Sistemde kayıtlı olan öğrenci listesini bu ekranda görebilirsiniz.</p>
+
+@if (Model.OgrenciListesi.Count > 0)
+{
+    <table border="1">
+        <tr>
+            <th>Öğrenci No</th>
+            <th>Ad Soyad</th>
+            <th>Bölüm</th>
+            <th>Actions</th>
+        </tr>
+
+        @foreach (var ogrenci in Model.OgrenciListesi)
+        {
+            <tr>
+                <td>@ogrenci.Id</td>
+                <td>@ogrenci.AdSoyad</td>
+                <td>@ogrenci.Bolum</td>
+                <td>
+                    @Html.ActionLink("Detay", "OgrenciDetay", "Ogrenci", new { id = ogrenci.Id }, htmlAttributes: null) |
+                    @Html.ActionLink("Güncelle", "OgrenciGuncelle", "Ogrenci", new { id = ogrenci.Id }, htmlAttributes: null) |
+                    @Html.ActionLink("Sil", "OgrenciSil", "Ogrenci", new { id = ogrenci.Id }, htmlAttributes: null)
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <div>Hiç öğrenci kaydı bulunamadı...</div>
+}

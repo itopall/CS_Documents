@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\14_Interface_Ornek\bin\Debug\14_Interface_Ornek.exe.config
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\14_Interface_Ornek\bin\Debug\14_Interface_Ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\14_Interface_Ornek\bin\Debug\14_Interface_Ornek.pdb
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\14_Interface_Ornek\obj\Debug\14_Interface_Ornek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\14_Interface_Ornek\obj\Debug\14_Interface_Ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\14_Interface_Ornek\obj\Debug\14_Interface_Ornek.pdb
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\14_Interface_Ornek\obj\Debug\14_Interface_Ornek.csprojAssemblyReference.cache

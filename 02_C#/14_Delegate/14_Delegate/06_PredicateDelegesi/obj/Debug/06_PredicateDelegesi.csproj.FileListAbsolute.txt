@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\06_PredicateDelegesi\bin\Debug\06_PredicateDelegesi.exe.config
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\06_PredicateDelegesi\bin\Debug\06_PredicateDelegesi.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\06_PredicateDelegesi\bin\Debug\06_PredicateDelegesi.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\06_PredicateDelegesi\obj\Debug\06_PredicateDelegesi.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\06_PredicateDelegesi\obj\Debug\06_PredicateDelegesi.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\06_PredicateDelegesi\obj\Debug\06_PredicateDelegesi.pdb

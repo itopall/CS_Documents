@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Service\bin\Debug\Northwnd.Service.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Service\bin\Debug\Northwnd.Service.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Service\bin\Debug\Northwnd.Dto.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Service\bin\Debug\Northwnd.Dto.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Service\obj\Debug\Northwnd.Service.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Service\obj\Debug\Northwnd.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Service\obj\Debug\Northwnd.Service.csproj.CopyComplete
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Service\obj\Debug\Northwnd.Service.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\09_Mvc\12_DependencyInjectionIOC\Northwnd.Service\obj\Debug\Northwnd.Service.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\bin\Debug\01_WindowsFormSablonu.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\bin\Debug\01_WindowsFormSablonu.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\bin\Debug\01_WindowsFormSablonu.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\obj\Debug\01_WindowsFormSablonu.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\obj\Debug\_01_WindowsFormSablonu.Form1111.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\obj\Debug\_01_WindowsFormSablonu.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\obj\Debug\01_WindowsFormSablonu.csproj.GenerateResource.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\obj\Debug\01_WindowsFormSablonu.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\obj\Debug\01_WindowsFormSablonu.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\01_WindowsFormSablonu\01_WindowsFormSablonu\obj\Debug\01_WindowsFormSablonu.pdb

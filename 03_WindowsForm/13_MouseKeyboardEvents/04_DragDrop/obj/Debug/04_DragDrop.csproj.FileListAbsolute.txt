@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\04_DragDrop\bin\Debug\04_DragDrop.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\04_DragDrop\bin\Debug\04_DragDrop.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\04_DragDrop\bin\Debug\04_DragDrop.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\04_DragDrop\obj\Debug\_04_DragDrop.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\04_DragDrop\obj\Debug\_04_DragDrop.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\04_DragDrop\obj\Debug\04_DragDrop.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\04_DragDrop\obj\Debug\04_DragDrop.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\04_DragDrop\obj\Debug\04_DragDrop.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\04_DragDrop\obj\Debug\04_DragDrop.csprojResolveAssemblyReference.cache

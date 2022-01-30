@@ -1,0 +1,66 @@
+﻿@model ETrade.Dto.Dto.Category.CategoryDto
+@{
+    ViewBag.Title = "AddEdit";
+}
+
+@section styles{
+    <style></style>
+}
+
+@section scripts{
+    <script>
+    </script>
+}
+
+
+
+@using (Html.BeginForm("AddEdit", "Category", FormMethod.Post, new { @id = "frmSave" }))
+{
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">Ekleme/Güncelleme Formu</h3>
+
+            <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                    <i class="fas fa-minus"></i>
+                </button>
+            </div>
+        </div>
+        <div class="card-body">
+
+            @* 1. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Name, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextBoxFor(p => p.Name, new { @class = "form-control", @placeholder = "Kategori Adı" })
+                    @Html.ValidationMessageFor(p => p.Name)
+                </div>
+
+                <div class="col-sm-1"></div>
+
+                @Html.LabelFor(p => p.IsActive, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.CheckBoxFor(p => p.IsActive, new { @placeholder = "Aktif Mi" })
+                </div>
+            </div>
+
+            @* 2. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Description, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextAreaFor(p => p.Description, new { @class = "form-control", @placeholder = "Açıklama" })
+                </div>
+
+                <div class="col-sm-1"></div>
+
+            </div>
+        </div>
+        <!-- /.card-body -->
+        <div class="card-footer">
+            <a href="~/Category/Index" class="btn btn-primary">Listeye Dön</a>
+            <input type="submit" class="btn btn-success" id="btnSave" value="Kaydet" />
+        </div>
+        <!-- /.card-footer-->
+    </div>
+}
+

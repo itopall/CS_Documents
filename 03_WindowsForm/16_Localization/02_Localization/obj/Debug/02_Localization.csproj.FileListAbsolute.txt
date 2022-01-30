@@ -1,0 +1,16 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\bin\Debug\02_Localization.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\bin\Debug\02_Localization.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\bin\Debug\02_Localization.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\02_Localization.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\_02_Localization.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\_02_Localization.Kelimeler.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\_02_Localization.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\02_Localization.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\02_Localization.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\02_Localization.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\bin\Debug\tr-TR\02_Localization.resources.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\_02_Localization.Kelimeler.tr-TR.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\tr-TR\02_Localization.resources.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\bin\Debug\en-US\02_Localization.resources.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\_02_Localization.Kelimeler.en-US.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\16_Localization\02_Localization\obj\Debug\en-US\02_Localization.resources.dll

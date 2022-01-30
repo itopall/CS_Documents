@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\06_Static\bin\Debug\06_Static.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\06_Static\bin\Debug\06_Static.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\06_Static\bin\Debug\06_Static.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\06_Static\obj\Debug\06_Static.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\06_Static\obj\Debug\06_Static.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\PandemiTekrar\01_PandemiTekrar\06_Static\obj\Debug\06_Static.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\02_EnumerableSinifi\bin\Debug\02_EnumerableSinifi.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\02_EnumerableSinifi\bin\Debug\02_EnumerableSinifi.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\02_EnumerableSinifi\bin\Debug\02_EnumerableSinifi.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\02_EnumerableSinifi\obj\Debug\02_EnumerableSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\02_EnumerableSinifi\obj\Debug\02_EnumerableSinifi.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\01_LinqGiris\02_EnumerableSinifi\obj\Debug\02_EnumerableSinifi.pdb

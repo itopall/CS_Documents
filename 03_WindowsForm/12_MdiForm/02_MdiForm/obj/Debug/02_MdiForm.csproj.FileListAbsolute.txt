@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\02_MdiForm\bin\Debug\02_MdiForm.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\02_MdiForm\bin\Debug\02_MdiForm.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\02_MdiForm\bin\Debug\02_MdiForm.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\02_MdiForm\obj\Debug\_02_MdiForm.MDIParent1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\02_MdiForm\obj\Debug\_02_MdiForm.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\02_MdiForm\obj\Debug\02_MdiForm.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\02_MdiForm\obj\Debug\02_MdiForm.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\02_MdiForm\obj\Debug\02_MdiForm.pdb

@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\02_SinifİcerisndeStructBildirimi\bin\Debug\02_SinifİcerisndeStructBildirimi.exe.config
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\02_SinifİcerisndeStructBildirimi\bin\Debug\02_SinifİcerisndeStructBildirimi.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\02_SinifİcerisndeStructBildirimi\bin\Debug\02_SinifİcerisndeStructBildirimi.pdb
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\02_SinifİcerisndeStructBildirimi\obj\Debug\02_SinifİcerisndeStructBildirimi.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\02_SinifİcerisndeStructBildirimi\obj\Debug\02_SinifİcerisndeStructBildirimi.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\02_SinifİcerisndeStructBildirimi\obj\Debug\02_SinifİcerisndeStructBildirimi.pdb

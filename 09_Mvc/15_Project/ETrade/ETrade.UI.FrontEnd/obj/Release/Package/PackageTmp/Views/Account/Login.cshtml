@@ -1,0 +1,88 @@
+﻿@model ETrade.Dto.Dto.Account.LoginDto
+    @{
+        ViewBag.Title = "Login";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <!-- MAIN CONTENT -->
+    <div class="pg-opt">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>Sign in</h2>
+                </div>
+                <div class="col-md-6">
+                    <ol class="breadcrumb">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Pages</a></li>
+                        <li class="active">Sign in</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="slice bg-white">
+        <div class="wp-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3">
+                        <div class="wp-block default user-form">
+                            <div class="form-header">
+                                <h2>Sign in to your account</h2>
+                            </div>
+                            <div class="form-body">
+                                @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { @id = "frmLogin" }))
+                                {
+                                <fieldset>
+                                    <section>
+                                        <div class="form-group">
+                                            <label class="label">Kullanıcı Adı/Email</label>
+                                            <label class="input">
+                                                <i class="icon-append fa fa-user"></i>
+                                                @Html.TextBoxFor(p => p.UsernameOrEmail, new { @class = "form-control", @placeholder = "Kullanıcı Adı/Email" })
+                                                @*<input type="email" name="email">*@
+                                            </label>
+                                        </div>
+                                    </section>
+                                    <section>
+                                        <div class="form-group">
+                                            <label class="label">Password</label>
+                                            <label class="input">
+                                                <i class="icon-append fa fa-lock"></i>
+                                                @Html.PasswordFor(p => p.Password, new { @class = "form-control", @placeholder = "Şifre" })
+                                                @*<input type="email" name="email">*@
+                                            </label>
+                                        </div>
+                                    </section>
+                                    <section>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <label class="checkbox"><input type="checkbox" name="remember" checked><i></i>Beni Hatırla</label>
+                                            </div>
+                                        </div>
+                                    </section>
+
+                                    <section>
+                                        @if (Model.ErrorMessage != null)
+                                        {
+                                            <div style="color:red;">@Model.ErrorMessage</div>
+                                        }
+
+                                        <button class="btn btn-base btn-icon btn-icon-right btn-sign-in pull-right" type="submit">
+                                            <span>Giriş</span>
+                                        </button>
+                                    </section>
+                                </fieldset>
+                                }
+                                </div>
+                            <div class="form-footer">
+                                <p>Şifrenizi mi Unuttunuz? <a href="#">Buraya tıklayarak kurtarabilirsiniz.</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+

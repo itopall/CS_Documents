@@ -1,0 +1,46 @@
+﻿@model _01_Validation.Models.OgrenciModel
+@{
+    ViewBag.Title = "OgrenciEkle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<b>OgrenciEkle</b>
+
+@*@using (Html.BeginForm("OgrenciEkle", "Ogrenci"))*@
+@using (Html.BeginForm()) //Eğer Get methodu ile Post methodunun isimleri aynı ise yukarıdaki gibi controller ve methodun adını yazmasak da olur.
+{
+    <table>
+        <tr>
+            <td>No: </td>
+            <td>
+                @Html.TextBoxFor(p => p.No, new { @placeholder = "No giriniz...", @title = "No Alanı" })
+                @Html.ValidationMessageFor(p => p.No)
+            </td>
+        </tr>
+        <tr>
+            <td>AdSoyad: </td>
+            <td>
+                @Html.TextBoxFor(p => p.AdSoyad, new { @placeholder = "AdSoyad giriniz...", @title = "AdSoyad Alanı" })
+                @Html.ValidationMessageFor(p => p.AdSoyad)
+            </td>
+        </tr>
+        <tr>
+            <td>DogumTarihi: </td>
+            <td>
+                @Html.EditorFor(p => p.DogumTarihi, new { @placeholder = "DogumTarihi giriniz...", @title = "DogumTarihi Alanı" })
+                @Html.ValidationMessageFor(p => p.DogumTarihi)
+            </td>
+        </tr>
+        <tr>
+            <td>EMail: </td>
+            <td>
+                @Html.TextBoxFor(p => p.EMail, new { @placeholder = "EMail giriniz...", @title = "EMail Alanı" })
+                @Html.ValidationMessageFor(p => p.EMail)
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" id="btnSubmit" value="Öğrenci Ekle" title="Kaydetme İşlemi İçin Tıklayınız" /></td>
+        </tr>
+    </table>
+}

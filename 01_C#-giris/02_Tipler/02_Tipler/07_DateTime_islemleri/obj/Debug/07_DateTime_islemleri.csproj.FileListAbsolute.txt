@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\07_DateTime_islemleri\bin\Debug\07_DateTime_islemleri.exe.config
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\07_DateTime_islemleri\bin\Debug\07_DateTime_islemleri.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\07_DateTime_islemleri\bin\Debug\07_DateTime_islemleri.pdb
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\07_DateTime_islemleri\obj\Debug\07_DateTime_islemleri.csprojAssemblyReference.cache
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\07_DateTime_islemleri\obj\Debug\07_DateTime_islemleri.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\07_DateTime_islemleri\obj\Debug\07_DateTime_islemleri.exe
+E:\MCSD_280919\01_C#-giris\02_Tipler\02_Tipler\07_DateTime_islemleri\obj\Debug\07_DateTime_islemleri.pdb

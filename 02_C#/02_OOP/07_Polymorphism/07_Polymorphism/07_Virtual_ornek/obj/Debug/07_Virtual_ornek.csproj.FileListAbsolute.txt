@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\07_Virtual_ornek\obj\Debug\07_Virtual_ornek.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\07_Virtual_ornek\obj\Debug\07_Virtual_ornek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\07_Virtual_ornek\bin\Debug\07_Virtual_ornek.exe.config
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\07_Virtual_ornek\bin\Debug\07_Virtual_ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\07_Virtual_ornek\bin\Debug\07_Virtual_ornek.pdb
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\07_Virtual_ornek\obj\Debug\07_Virtual_ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\07_Virtual_ornek\obj\Debug\07_Virtual_ornek.pdb

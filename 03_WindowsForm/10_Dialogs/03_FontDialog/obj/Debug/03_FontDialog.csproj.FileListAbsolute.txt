@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\03_FontDialog\bin\Debug\03_FontDialog.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\03_FontDialog\bin\Debug\03_FontDialog.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\03_FontDialog\bin\Debug\03_FontDialog.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\03_FontDialog\obj\Debug\_03_FontDialog.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\03_FontDialog\obj\Debug\_03_FontDialog.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\03_FontDialog\obj\Debug\03_FontDialog.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\03_FontDialog\obj\Debug\03_FontDialog.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\03_FontDialog\obj\Debug\03_FontDialog.pdb

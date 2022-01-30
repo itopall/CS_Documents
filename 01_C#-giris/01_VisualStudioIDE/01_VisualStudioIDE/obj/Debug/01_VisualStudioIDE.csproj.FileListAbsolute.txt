@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\01_VisualStudioIDE\01_VisualStudioIDE\bin\Debug\01_VisualStudioIDE.exe.config
+E:\MCSD_280919\01_C#-giris\01_VisualStudioIDE\01_VisualStudioIDE\bin\Debug\01_VisualStudioIDE.exe
+E:\MCSD_280919\01_C#-giris\01_VisualStudioIDE\01_VisualStudioIDE\bin\Debug\01_VisualStudioIDE.pdb
+E:\MCSD_280919\01_C#-giris\01_VisualStudioIDE\01_VisualStudioIDE\obj\Debug\01_VisualStudioIDE.csprojAssemblyReference.cache
+E:\MCSD_280919\01_C#-giris\01_VisualStudioIDE\01_VisualStudioIDE\obj\Debug\01_VisualStudioIDE.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\01_VisualStudioIDE\01_VisualStudioIDE\obj\Debug\01_VisualStudioIDE.exe
+E:\MCSD_280919\01_C#-giris\01_VisualStudioIDE\01_VisualStudioIDE\obj\Debug\01_VisualStudioIDE.pdb

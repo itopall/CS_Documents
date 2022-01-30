@@ -1,0 +1,11 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\bin\Debug\01_MetroUI.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\bin\Debug\01_MetroUI.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\bin\Debug\01_MetroUI.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\bin\Debug\MetroFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\obj\Debug\_01_MetroUI.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\obj\Debug\_01_MetroUI.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\obj\Debug\01_MetroUI.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\obj\Debug\01_MetroUI.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\obj\Debug\01_MetroUI.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\21_MetroUI\01_MetroUI\obj\Debug\01_MetroUI.csprojResolveAssemblyReference.cache

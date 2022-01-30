@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\03_Struct_IlkDegerAtama\bin\Debug\03_Struct_IlkDegerAtama.exe.config
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\03_Struct_IlkDegerAtama\bin\Debug\03_Struct_IlkDegerAtama.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\03_Struct_IlkDegerAtama\bin\Debug\03_Struct_IlkDegerAtama.pdb
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\03_Struct_IlkDegerAtama\obj\Debug\03_Struct_IlkDegerAtama.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\03_Struct_IlkDegerAtama\obj\Debug\03_Struct_IlkDegerAtama.exe
+E:\MCSD_280919\02_C#\02_OOP\08_Struct\08_Struct\03_Struct_IlkDegerAtama\obj\Debug\03_Struct_IlkDegerAtama.pdb

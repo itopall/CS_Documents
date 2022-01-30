@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\bin\Debug\Northwnd.Common.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\bin\Debug\Northwnd.Common.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\obj\Debug\Northwnd.Common.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\obj\Debug\Northwnd.Common.pdb
+C:\Users\DELL\Desktop\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\bin\Debug\Northwnd.Common.dll
+C:\Users\DELL\Desktop\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\bin\Debug\Northwnd.Common.pdb
+C:\Users\DELL\Desktop\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\obj\Debug\Northwnd.Common.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\obj\Debug\Northwnd.Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\obj\Debug\Northwnd.Common.dll
+C:\Users\DELL\Desktop\MCSD_280919\06_EntityFramework\05_KatmanliMimari\Northwnd.Common\obj\Debug\Northwnd.Common.pdb

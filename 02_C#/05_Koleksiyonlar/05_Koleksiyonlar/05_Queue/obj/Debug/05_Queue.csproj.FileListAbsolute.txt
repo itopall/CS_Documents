@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\05_Queue\bin\Debug\05_Queue.exe.config
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\05_Queue\bin\Debug\05_Queue.exe
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\05_Queue\bin\Debug\05_Queue.pdb
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\05_Queue\obj\Debug\05_Queue.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\05_Queue\obj\Debug\05_Queue.exe
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\05_Queue\obj\Debug\05_Queue.pdb
+E:\MCSD_280919\02_C#\05_Koleksiyonlar\05_Koleksiyonlar\05_Queue\obj\Debug\05_Queue.csprojAssemblyReference.cache

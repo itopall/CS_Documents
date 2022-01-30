@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @*<title>@ViewBag.Title - Öğrenci Otomasyon Sistemi</title>*@
+    <title>Öğrenci Otomasyon Sistemi</title>
+
+    <link href="~/Content/menu.css" rel="stylesheet" />
+    <script src="~/Content/menu.js"></script>
+</head>
+<body>
+    <div style="width: 80%; margin-left: 10%;">
+        <!-- Kırmızı Şerit -->
+        <div style="background-color: red; height: 5px;"></div>
+
+        <!-- MENU -->
+        <div style="background-color: darkkhaki;">
+            <div class="topnav" id="myTopnav">
+                @Html.ActionLink("Anasayfa", "Index", "Ogrenci")
+                @Html.ActionLink("Öğrenci Listesi", "OgrenciListe", "Ogrenci")
+                @Html.ActionLink("Öğrenci Ekle", "OgrenciEkle", "Ogrenci")
+            </div>
+        </div>
+
+        <!-- CONTENT -->
+        <div style="height: 600px; background-color: gray; padding:20px;">
+            @RenderBody()
+        </div>
+
+        <!-- Kırmızı Şerit -->
+        <div style="background-color: red; height: 2px;"></div>
+    </div>
+
+    @RenderSection("scripts", required: false)
+    @RenderSection("styles", required: false)
+</body>
+</html>

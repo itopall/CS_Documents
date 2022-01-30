@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\07_GenericKoleksiyon\bin\Debug\07_GenericKoleksiyon.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\07_GenericKoleksiyon\bin\Debug\07_GenericKoleksiyon.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\07_GenericKoleksiyon\bin\Debug\07_GenericKoleksiyon.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\07_GenericKoleksiyon\obj\Debug\07_GenericKoleksiyon.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\07_GenericKoleksiyon\obj\Debug\07_GenericKoleksiyon.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\07_GenericKoleksiyon\obj\Debug\07_GenericKoleksiyon.csprojResolveAssemblyReference.cache

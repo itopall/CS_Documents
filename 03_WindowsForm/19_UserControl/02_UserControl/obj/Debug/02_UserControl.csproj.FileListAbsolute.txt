@@ -1,0 +1,12 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\bin\Debug\02_UserControl.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\bin\Debug\02_UserControl.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\bin\Debug\02_UserControl.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\bin\Debug\01_MyUserControl.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\bin\Debug\01_MyUserControl.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\obj\Debug\02_UserControl.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\obj\Debug\_02_UserControl.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\obj\Debug\_02_UserControl.Form2.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\obj\Debug\_02_UserControl.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\obj\Debug\02_UserControl.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\obj\Debug\02_UserControl.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\02_UserControl\obj\Debug\02_UserControl.pdb

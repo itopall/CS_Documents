@@ -1,0 +1,13 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\03_UnitOfWorkveGenericRepository.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\03_UnitOfWorkveGenericRepository.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\03_UnitOfWorkveGenericRepository.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\01_Northwnd.Data.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\EntityFramework.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\01_Northwnd.Data.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\01_Northwnd.Data.dll.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\EntityFramework.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\obj\Debug\03_UnitOfWorkveGenericRepository.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\obj\Debug\03_UnitOfWorkveGenericRepository.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\06_EntityFramework\04_UnitOfWork\03_UnitOfWorkveGenericRepository\obj\Debug\03_UnitOfWorkveGenericRepository.pdb

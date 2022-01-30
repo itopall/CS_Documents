@@ -1,0 +1,7 @@
+E:\MCSD-280919\02_C#\01_NesneVeClass\01_Class\bin\Debug\01_Class.exe.config
+E:\MCSD-280919\02_C#\01_NesneVeClass\01_Class\bin\Debug\01_Class.exe
+E:\MCSD-280919\02_C#\01_NesneVeClass\01_Class\bin\Debug\01_Class.pdb
+E:\MCSD-280919\02_C#\01_NesneVeClass\01_Class\obj\Debug\01_Class.csprojAssemblyReference.cache
+E:\MCSD-280919\02_C#\01_NesneVeClass\01_Class\obj\Debug\01_Class.csproj.CoreCompileInputs.cache
+E:\MCSD-280919\02_C#\01_NesneVeClass\01_Class\obj\Debug\01_Class.exe
+E:\MCSD-280919\02_C#\01_NesneVeClass\01_Class\obj\Debug\01_Class.pdb

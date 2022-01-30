@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\02_SwitchCase\bin\Debug\02_SwitchCase.exe.config
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\02_SwitchCase\bin\Debug\02_SwitchCase.exe
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\02_SwitchCase\bin\Debug\02_SwitchCase.pdb
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\02_SwitchCase\obj\Debug\02_SwitchCase.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\02_SwitchCase\obj\Debug\02_SwitchCase.exe
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\02_SwitchCase\obj\Debug\02_SwitchCase.pdb
+E:\MCSD_280919\01_C#-giris\03_Karar_yapilari\02_SwitchCase\obj\Debug\02_SwitchCase.csprojAssemblyReference.cache

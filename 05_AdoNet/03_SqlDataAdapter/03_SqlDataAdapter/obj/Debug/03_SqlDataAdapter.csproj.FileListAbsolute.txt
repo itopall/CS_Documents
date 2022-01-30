@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\03_SqlDataAdapter\bin\Debug\03_SqlDataAdapter.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\03_SqlDataAdapter\bin\Debug\03_SqlDataAdapter.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\03_SqlDataAdapter\obj\Debug\03_SqlDataAdapter.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\03_SqlDataAdapter\obj\Debug\_03_SqlDataAdapter.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\03_SqlDataAdapter\obj\Debug\_03_SqlDataAdapter.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\03_SqlDataAdapter\obj\Debug\03_SqlDataAdapter.csproj.GenerateResource.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\03_SqlDataAdapter\obj\Debug\03_SqlDataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\03_SqlDataAdapter\obj\Debug\03_SqlDataAdapter.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\03_SqlDataAdapter\03_SqlDataAdapter\obj\Debug\03_SqlDataAdapter.pdb

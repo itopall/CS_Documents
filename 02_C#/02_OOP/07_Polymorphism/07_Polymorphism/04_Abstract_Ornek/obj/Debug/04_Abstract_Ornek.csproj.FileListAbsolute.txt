@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\04_Abstract_Ornek\bin\Debug\04_Abstract_Ornek.exe.config
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\04_Abstract_Ornek\bin\Debug\04_Abstract_Ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\04_Abstract_Ornek\bin\Debug\04_Abstract_Ornek.pdb
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\04_Abstract_Ornek\obj\Debug\04_Abstract_Ornek.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\04_Abstract_Ornek\obj\Debug\04_Abstract_Ornek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\04_Abstract_Ornek\obj\Debug\04_Abstract_Ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\07_Polymorphism\07_Polymorphism\04_Abstract_Ornek\obj\Debug\04_Abstract_Ornek.pdb

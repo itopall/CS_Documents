@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\01_Inheritance\bin\Debug\01_Inheritance.exe.config
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\01_Inheritance\bin\Debug\01_Inheritance.exe
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\01_Inheritance\bin\Debug\01_Inheritance.pdb
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\01_Inheritance\obj\Debug\01_Inheritance.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\01_Inheritance\obj\Debug\01_Inheritance.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\01_Inheritance\obj\Debug\01_Inheritance.exe
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\01_Inheritance\obj\Debug\01_Inheritance.pdb

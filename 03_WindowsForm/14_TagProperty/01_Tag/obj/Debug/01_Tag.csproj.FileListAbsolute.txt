@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\01_Tag\bin\Debug\01_Tag.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\01_Tag\bin\Debug\01_Tag.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\01_Tag\bin\Debug\01_Tag.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\01_Tag\obj\Debug\_01_Tag.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\01_Tag\obj\Debug\_01_Tag.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\01_Tag\obj\Debug\01_Tag.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\01_Tag\obj\Debug\01_Tag.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\14_TagProperty\01_Tag\obj\Debug\01_Tag.pdb

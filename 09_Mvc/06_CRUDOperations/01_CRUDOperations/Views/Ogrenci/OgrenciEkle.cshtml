@@ -1,0 +1,34 @@
+﻿@model _01_CRUDOperations.Models.OgrenciModel
+@{
+    ViewBag.Title = "OgrenciEkle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div><b>Ögrenci Ekleme Sayfası</b></div>
+<p>Yeni bir Öğrenci ekleme işlemini bu ekranda gerçekleştirebilirsiniz.</p>
+
+@*Bu şekilde html form tag'ini kullanabiliriz*@
+@*<form action="/Ogrenci/Ogrenciekle" method="post"></form>*@
+
+@*using (Html.BeginForm()) Sayfanın ismi ile Post action methodunun ismi aynı ise formda isimleri belirtmeye gerek kalmaz! *@
+@using (Html.BeginForm("OgrenciEkle", "Ogrenci"))
+{
+    <table>
+        <tr>
+            <td>Öğrenci No: </td>
+            <td>@Html.TextBoxFor(p => p.Id)</td>
+        </tr>
+        <tr>
+            <td>AdSoyad: </td>
+            <td>@Html.TextBoxFor(p => p.AdSoyad)</td>
+        </tr>
+        <tr>
+            <td>Bolum: </td>
+            <td>@Html.TextBoxFor(p => p.Bolum)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Kaydet" /></td>
+        </tr>
+    </table>
+}

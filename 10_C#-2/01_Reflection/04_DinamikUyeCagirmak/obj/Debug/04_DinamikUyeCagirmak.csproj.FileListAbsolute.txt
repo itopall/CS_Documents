@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\04_DinamikUyeCagirmak\bin\Debug\04_DinamikUyeCagirmak.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\04_DinamikUyeCagirmak\bin\Debug\04_DinamikUyeCagirmak.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\04_DinamikUyeCagirmak\bin\Debug\04_DinamikUyeCagirmak.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\04_DinamikUyeCagirmak\obj\Debug\04_DinamikUyeCagirmak.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\04_DinamikUyeCagirmak\obj\Debug\04_DinamikUyeCagirmak.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\04_DinamikUyeCagirmak\obj\Debug\04_DinamikUyeCagirmak.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\01_Reflection\04_DinamikUyeCagirmak\obj\Debug\04_DinamikUyeCagirmak.pdb

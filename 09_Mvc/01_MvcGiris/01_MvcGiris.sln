@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_BosSablon", "01_BosSablon\01_BosSablon.csproj", "{73B57174-C226-4D74-9D05-AF55B29A27D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_HazirSablon", "02_HazirSablon\02_HazirSablon.csproj", "{89A3B6EF-7AEB-44EC-884D-05404D0716B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B57174-C226-4D74-9D05-AF55B29A27D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B57174-C226-4D74-9D05-AF55B29A27D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B57174-C226-4D74-9D05-AF55B29A27D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B57174-C226-4D74-9D05-AF55B29A27D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A3B6EF-7AEB-44EC-884D-05404D0716B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A3B6EF-7AEB-44EC-884D-05404D0716B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A3B6EF-7AEB-44EC-884D-05404D0716B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A3B6EF-7AEB-44EC-884D-05404D0716B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E071249F-7569-470B-9255-C7B973586A45}
+	EndGlobalSection
+EndGlobal

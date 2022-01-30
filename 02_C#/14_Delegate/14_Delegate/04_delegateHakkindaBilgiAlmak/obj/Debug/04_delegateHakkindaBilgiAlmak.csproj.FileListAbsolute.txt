@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\04_delegateHakkindaBilgiAlmak\bin\Debug\04_delegateHakkindaBilgiAlmak.exe.config
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\04_delegateHakkindaBilgiAlmak\bin\Debug\04_delegateHakkindaBilgiAlmak.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\04_delegateHakkindaBilgiAlmak\bin\Debug\04_delegateHakkindaBilgiAlmak.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\04_delegateHakkindaBilgiAlmak\obj\Debug\04_delegateHakkindaBilgiAlmak.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\04_delegateHakkindaBilgiAlmak\obj\Debug\04_delegateHakkindaBilgiAlmak.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\04_delegateHakkindaBilgiAlmak\obj\Debug\04_delegateHakkindaBilgiAlmak.pdb

@@ -1,0 +1,138 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+
+    @*MESAJ GÖRÜNTÜLEME*@
+    <label id="lblMesaj">Mesaj:</label>
+    <input type="text" id="txtMessage" placeholder="Mesajı Giriniz" />
+    <input type="button" id="btnShowMessage" value="Mesajı Görüntüle" />
+
+    <div id="divResultMessage">Default Message</div>
+
+    <br /><br />
+
+    @*RENK DEĞİŞTİRME*@
+    <div id="divRenkResult">Renk Değiştirme Sonuç Div'i</div>
+    <select id="cbColor">
+        <option value="black">Seçiniz</option>
+        <option value="red">Kırmızı</option>
+        <option value="blue">Mavi</option>
+        <option value="green">Yeşil</option>
+        <option value="purple">Mor</option>
+        <option value="pink">Pembe</option>
+    </select>
+
+    <br /><br />
+
+    @*ELEMENT GİZLE/GÖSTER*@
+    <button id="btnHide">Gizle</button>
+    <button id="btnShow">Göster</button>
+    <p id="p1">Paragraf Test - 1</p>
+    <p id="p2">Paragraf Test - 2</p>
+
+    <br /><br />
+
+    @*DİZİ KULLANIMI*@
+    <input type="text" id="txtWord" />
+    <input type="button" id="btnAdd" value="Ekle" />
+    <input type="button" id="btnShowList" value="Listeyi Görüntüle" />
+
+    <div id="lstSonuc"></div>
+    <br /><br />
+
+    @*SAYAC KULLANIMI*@
+    <div id="resultSayac"></div>
+    <input type="button" id="btnSayacArttir" value="Arttır" />
+    <input type="button" id="btnSayacAzalt" value="Azalt" />
+    <br /><br />
+
+    @*ANİMATE*@
+    <input type="button" id="btnAnimation1" value="Show" />
+    <input type="button" id="btnAnimation2" value="Hide" />
+    <input type="button" id="btnAnimation3" value="Toggle" />
+
+    <div id="divAnimationBox" style="background-color:blue;">Kutu 1</div>
+</div>
+
+<script>
+    //Sayfa yüklendikten sonra içerisindeki scriptlerin çalışmaya hazır hale geleceğini belirtir.
+    $(function () {
+
+        //Click Event'i Kullanımı
+        //$("#btnShowMessage").on('click', function () {
+        //    //window.alert("merhaba dünya");
+        //    alert("merhaba dünya");
+        //});
+
+        //btnShowMessage için click event'i oluşturduk
+        $("#btnShowMessage").click(function () {
+            //alert("merhaba dünya");
+
+            //Textbox'ın içindeki veriyi okumak için val() function'u kullanılır.
+            var message = $("#txtMessage").val();
+            alert(message);
+
+            //Html tag'lerinin içine değer girmek için html function'u kullanılır.
+            $("#divResultMessage").html(message);
+        });
+
+        //CHANGE EVENT
+        $("#cbColor").change(function () {
+            var value = $("#cbColor").val();
+            $("#divRenkResult").css({ "color": value })
+        });
+
+        //SHOW / HİDE
+        $("#btnHide").click(function () {
+            $("p").hide();
+            //$("#p1").hide();
+        })
+
+        $("#btnShow").click(function () {
+            $("p").show();
+            //$("#p1").show();
+        })
+
+        //DİZİ KULLANIMI
+        var kelimeler = [];
+        $("#btnAdd").click(function () {
+            kelimeler.push($("#txtWord").val());
+        })
+
+        $("#btnShowList").click(function () {
+            for (var i = 0; i < kelimeler.length; i++) {
+                $("#lstSonuc").append(kelimeler[i] + " <br />");
+            }
+        })
+
+        //SAYAC KULLANIMI
+        var sayac = 0;
+        $("#btnSayacArttir").click(function () {
+            sayac++;
+            $("#resultSayac").html(sayac);
+        })
+
+        $("#btnSayacAzalt").click(function () {
+            sayac--;
+            $("#resultSayac").html(sayac);
+        })
+
+        //ANİMATE
+        $("#btnAnimation1").click(function () {
+            $("#divAnimationBox").animate({ width: 'show' }, "slow")
+        })
+
+        $("#btnAnimation2").click(function () {
+            $("#divAnimationBox").animate({ width: 'hide' }, "slow")
+        })
+
+        $("#btnAnimation3").click(function () {
+            $("#divAnimationBox").animate({ width: 'toggle' }, "slow")
+        })
+    })
+
+</script>

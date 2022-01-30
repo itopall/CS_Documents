@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\bin\Debug\02_CokluFormKullanimi.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\bin\Debug\02_CokluFormKullanimi.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\bin\Debug\02_CokluFormKullanimi.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\obj\Debug\02_CokluFormKullanimi.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\obj\Debug\_02_CokluFormKullanimi.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\obj\Debug\_02_CokluFormKullanimi.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\obj\Debug\02_CokluFormKullanimi.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\obj\Debug\02_CokluFormKullanimi.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\obj\Debug\02_CokluFormKullanimi.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\02_CokluFormKullanimi\obj\Debug\_02_CokluFormKullanimi.Product.resources

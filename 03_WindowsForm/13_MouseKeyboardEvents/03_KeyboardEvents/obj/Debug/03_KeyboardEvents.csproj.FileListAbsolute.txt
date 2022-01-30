@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\03_KeyboardEvents\bin\Debug\03_KeyboardEvents.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\03_KeyboardEvents\bin\Debug\03_KeyboardEvents.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\03_KeyboardEvents\bin\Debug\03_KeyboardEvents.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\03_KeyboardEvents\obj\Debug\_03_KeyboardEvents.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\03_KeyboardEvents\obj\Debug\_03_KeyboardEvents.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\03_KeyboardEvents\obj\Debug\03_KeyboardEvents.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\03_KeyboardEvents\obj\Debug\03_KeyboardEvents.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\03_KeyboardEvents\obj\Debug\03_KeyboardEvents.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\13_MouseKeyboardEvents\03_KeyboardEvents\obj\Debug\03_KeyboardEvents.csprojResolveAssemblyReference.cache

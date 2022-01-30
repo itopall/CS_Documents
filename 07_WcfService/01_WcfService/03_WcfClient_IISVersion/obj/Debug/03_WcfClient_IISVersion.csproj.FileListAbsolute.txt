@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\03_WcfClient_IISVersion\bin\Debug\03_WcfClient_IISVersion.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\03_WcfClient_IISVersion\bin\Debug\03_WcfClient_IISVersion.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\03_WcfClient_IISVersion\bin\Debug\03_WcfClient_IISVersion.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\03_WcfClient_IISVersion\obj\Debug\03_WcfClient_IISVersion.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\03_WcfClient_IISVersion\obj\Debug\03_WcfClient_IISVersion.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\07_WcfService\01_WcfService\03_WcfClient_IISVersion\obj\Debug\03_WcfClient_IISVersion.csprojResolveAssemblyReference.cache

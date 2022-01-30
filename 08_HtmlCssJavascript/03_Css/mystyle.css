@@ -1,0 +1,25 @@
+p {
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+div {
+    background-color: blue; 
+    float:left;
+    color: white;
+}
+
+.stilim{
+    font: 18pt Tahoma, Verdana;
+    background-color: red;
+    color:white;
+}
+
+#btnOk{
+    text-align: center;
+    background-color: turquoise;
+    color:white;
+    width: 150px;
+}

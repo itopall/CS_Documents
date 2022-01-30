@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\05_PrintDocument\bin\Debug\05_PrintDocument.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\05_PrintDocument\bin\Debug\05_PrintDocument.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\05_PrintDocument\bin\Debug\05_PrintDocument.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\05_PrintDocument\obj\Debug\_05_PrintDocument.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\05_PrintDocument\obj\Debug\_05_PrintDocument.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\05_PrintDocument\obj\Debug\05_PrintDocument.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\05_PrintDocument\obj\Debug\05_PrintDocument.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\05_PrintDocument\obj\Debug\05_PrintDocument.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\10_Dialogs\05_PrintDocument\obj\Debug\_05_PrintDocument.Form2.resources

@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\01_AppConfig\bin\Debug\01_AppConfig.exe.config
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\01_AppConfig\bin\Debug\01_AppConfig.exe
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\01_AppConfig\bin\Debug\01_AppConfig.pdb
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\01_AppConfig\obj\Debug\01_AppConfig.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\01_AppConfig\obj\Debug\01_AppConfig.exe
+E:\MCSD_280919\02_C#\12_AppConfig\12_AppConfig\01_AppConfig\obj\Debug\01_AppConfig.pdb

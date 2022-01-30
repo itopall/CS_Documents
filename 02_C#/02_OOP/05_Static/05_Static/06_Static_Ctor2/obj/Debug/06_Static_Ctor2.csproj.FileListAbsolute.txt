@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\06_Static_Ctor2\bin\Debug\06_Static_Ctor2.exe.config
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\06_Static_Ctor2\bin\Debug\06_Static_Ctor2.exe
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\06_Static_Ctor2\bin\Debug\06_Static_Ctor2.pdb
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\06_Static_Ctor2\obj\Debug\06_Static_Ctor2.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\06_Static_Ctor2\obj\Debug\06_Static_Ctor2.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\06_Static_Ctor2\obj\Debug\06_Static_Ctor2.exe
+E:\MCSD_280919\02_C#\02_OOP\05_Static\05_Static\06_Static_Ctor2\obj\Debug\06_Static_Ctor2.pdb

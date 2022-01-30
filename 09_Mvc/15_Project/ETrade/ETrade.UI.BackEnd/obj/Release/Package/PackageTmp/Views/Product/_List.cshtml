@@ -1,0 +1,80 @@
+﻿@model ETrade.Dto.Dto.Product.ProductSearchDto
+
+@if (Model.Products != null && Model.Products.Count > 0)
+{
+    <table id="grdList" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Id</th>
+                <th>Ürün Adı</th>
+                <th>Kategori</th>
+                <th>Tedarikçi</th>
+                <th>Geliş Fiyatı</th>
+                <th>Satış Fiyatı</th>
+                <th>İndirimli Fiyat</th>
+                <th>Stok Adedi</th>
+                <th>Tıklanma Sayısı</th>
+                <th>Aktif Mi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Products)
+            {
+                <tr>
+                    <td>
+                        <a class="btn btn-info btn-sm" href="~/Product/AddEdit/@item.Id">
+                            <i class="fas fa-pencil-alt">
+                            </i>
+                            Güncelle
+                        </a>
+                        <a class="btn btn-danger btn-sm" href="~/Product/Delete/@item.Id">
+                            <i class="fas fa-trash">
+                            </i>
+                            Sil
+                        </a>
+                    </td>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Category.Name</td>
+                    <td>@item.Supplier.Name</td>
+                    <td>@item.InPrice</td>
+                    <td>@item.OutPrice</td>
+                    <td>@item.DiscountPrice</td>
+                    <td>@item.StockCount</td>
+                    <td>@item.ClickedCount</td>
+                    <td>@item.IsActive</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <th></th>
+                <th>Id</th>
+                <th>Ürün Adı</th>
+                <th>Kategori</th>
+                <th>Tedarikçi</th>
+                <th>Geliş Fiyatı</th>
+                <th>Satış Fiyatı</th>
+                <th>İndirimli Fiyat</th>
+                <th>Stok Adedi</th>
+                <th>Tıklanma Sayısı</th>
+                <th>Aktif Mi</th>
+            </tr>
+        </tfoot>
+    </table>
+}
+else
+{
+    <div>Hiç kayıt bulunamadı...</div>
+}
+
+
+<script>
+    $(function () {
+        $("#grdList").DataTable({
+            "responsive": true, "lengthChange": false, "autoWidth": false,
+            "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+        }).buttons().container().appendTo('#grdList_wrapper .col-md-6:eq(0)');
+    });
+</script>

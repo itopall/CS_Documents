@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\04_ConstructorOverloadOrnek\bin\Debug\04_ConstructorOverloadOrnek.exe.config
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\04_ConstructorOverloadOrnek\bin\Debug\04_ConstructorOverloadOrnek.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\04_ConstructorOverloadOrnek\bin\Debug\04_ConstructorOverloadOrnek.pdb
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\04_ConstructorOverloadOrnek\obj\Debug\04_ConstructorOverloadOrnek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\04_ConstructorOverloadOrnek\obj\Debug\04_ConstructorOverloadOrnek.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\04_ConstructorOverloadOrnek\obj\Debug\04_ConstructorOverloadOrnek.pdb
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\04_ConstructorOverloadOrnek\obj\Debug\04_ConstructorOverloadOrnek.csprojAssemblyReference.cache

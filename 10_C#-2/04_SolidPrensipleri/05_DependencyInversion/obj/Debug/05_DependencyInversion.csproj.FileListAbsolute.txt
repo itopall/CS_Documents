@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\05_DependencyInversion\bin\Debug\05_DependencyInversion.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\05_DependencyInversion\bin\Debug\05_DependencyInversion.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\05_DependencyInversion\bin\Debug\05_DependencyInversion.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\05_DependencyInversion\obj\Debug\05_DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\05_DependencyInversion\obj\Debug\05_DependencyInversion.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\05_DependencyInversion\obj\Debug\05_DependencyInversion.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\10_C#-2\04_SolidPrensipleri\05_DependencyInversion\obj\Debug\05_DependencyInversion.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\03_AsVeTypeOfKeyword\03_AsVeTypeOfKeyword\02_DefaultKeyword\bin\Debug\02_DefaultKeyword.exe.config
+E:\MCSD_280919\02_C#\03_AsVeTypeOfKeyword\03_AsVeTypeOfKeyword\02_DefaultKeyword\bin\Debug\02_DefaultKeyword.exe
+E:\MCSD_280919\02_C#\03_AsVeTypeOfKeyword\03_AsVeTypeOfKeyword\02_DefaultKeyword\bin\Debug\02_DefaultKeyword.pdb
+E:\MCSD_280919\02_C#\03_AsVeTypeOfKeyword\03_AsVeTypeOfKeyword\02_DefaultKeyword\obj\Debug\02_DefaultKeyword.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\03_AsVeTypeOfKeyword\03_AsVeTypeOfKeyword\02_DefaultKeyword\obj\Debug\02_DefaultKeyword.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\03_AsVeTypeOfKeyword\03_AsVeTypeOfKeyword\02_DefaultKeyword\obj\Debug\02_DefaultKeyword.exe
+E:\MCSD_280919\02_C#\03_AsVeTypeOfKeyword\03_AsVeTypeOfKeyword\02_DefaultKeyword\obj\Debug\02_DefaultKeyword.pdb

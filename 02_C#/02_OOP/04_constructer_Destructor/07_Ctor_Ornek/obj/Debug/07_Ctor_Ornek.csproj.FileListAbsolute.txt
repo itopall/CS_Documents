@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\07_Ctor_Ornek\bin\Debug\07_Ctor_Ornek.exe.config
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\07_Ctor_Ornek\bin\Debug\07_Ctor_Ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\07_Ctor_Ornek\bin\Debug\07_Ctor_Ornek.pdb
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\07_Ctor_Ornek\obj\Debug\07_Ctor_Ornek.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\07_Ctor_Ornek\obj\Debug\07_Ctor_Ornek.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\07_Ctor_Ornek\obj\Debug\07_Ctor_Ornek.exe
+E:\MCSD_280919\02_C#\02_OOP\04_constructer_Destructor\07_Ctor_Ornek\obj\Debug\07_Ctor_Ornek.pdb

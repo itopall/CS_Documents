@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\10_NullableTypes\bin\Debug\10_NullableTypes.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\10_NullableTypes\bin\Debug\10_NullableTypes.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\10_NullableTypes\bin\Debug\10_NullableTypes.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\10_NullableTypes\obj\Debug\10_NullableTypes.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\10_NullableTypes\obj\Debug\10_NullableTypes.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\02_C#\06_Generic\10_NullableTypes\obj\Debug\10_NullableTypes.pdb

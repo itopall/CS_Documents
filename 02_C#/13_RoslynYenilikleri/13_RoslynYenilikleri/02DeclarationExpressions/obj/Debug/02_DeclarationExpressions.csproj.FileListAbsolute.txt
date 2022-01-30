@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\02DeclarationExpressions\bin\Debug\02DeclarationExpressions.exe.config
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\02DeclarationExpressions\bin\Debug\02DeclarationExpressions.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\02DeclarationExpressions\bin\Debug\02DeclarationExpressions.pdb
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\02DeclarationExpressions\obj\Debug\02_DeclarationExpressions.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\02DeclarationExpressions\obj\Debug\02DeclarationExpressions.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\02DeclarationExpressions\obj\Debug\02DeclarationExpressions.pdb

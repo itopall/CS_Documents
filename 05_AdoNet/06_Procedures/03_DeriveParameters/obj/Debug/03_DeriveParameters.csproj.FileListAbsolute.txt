@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\03_DeriveParameters\bin\Debug\03_DeriveParameters.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\03_DeriveParameters\bin\Debug\03_DeriveParameters.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\03_DeriveParameters\bin\Debug\03_DeriveParameters.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\03_DeriveParameters\obj\Debug\03_DeriveParameters.csprojAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\03_DeriveParameters\obj\Debug\03_DeriveParameters.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\03_DeriveParameters\obj\Debug\03_DeriveParameters.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\03_DeriveParameters\obj\Debug\03_DeriveParameters.pdb

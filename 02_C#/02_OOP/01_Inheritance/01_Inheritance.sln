@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Inheritance", "01_Inheritance\01_Inheritance.csproj", "{26B26DD2-6E5D-4048-B1A2-6D18D14F663B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Inheritance_Ornekler", "02_Inheritance_Ornekler\02_Inheritance_Ornekler.csproj", "{887E2DA1-2636-4E81-93C5-8D9B6EBA938C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26B26DD2-6E5D-4048-B1A2-6D18D14F663B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B26DD2-6E5D-4048-B1A2-6D18D14F663B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B26DD2-6E5D-4048-B1A2-6D18D14F663B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B26DD2-6E5D-4048-B1A2-6D18D14F663B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887E2DA1-2636-4E81-93C5-8D9B6EBA938C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887E2DA1-2636-4E81-93C5-8D9B6EBA938C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887E2DA1-2636-4E81-93C5-8D9B6EBA938C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887E2DA1-2636-4E81-93C5-8D9B6EBA938C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245333CD-352E-4E6B-B15A-972BF5D4B38C}
+	EndGlobalSection
+EndGlobal

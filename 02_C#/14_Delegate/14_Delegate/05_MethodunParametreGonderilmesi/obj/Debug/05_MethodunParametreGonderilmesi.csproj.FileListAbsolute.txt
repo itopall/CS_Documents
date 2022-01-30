@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\05_MethodunParametreGonderilmesi\bin\Debug\05_MethodunParametreGonderilmesi.exe.config
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\05_MethodunParametreGonderilmesi\bin\Debug\05_MethodunParametreGonderilmesi.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\05_MethodunParametreGonderilmesi\bin\Debug\05_MethodunParametreGonderilmesi.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\05_MethodunParametreGonderilmesi\obj\Debug\05_MethodunParametreGonderilmesi.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\05_MethodunParametreGonderilmesi\obj\Debug\05_MethodunParametreGonderilmesi.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\05_MethodunParametreGonderilmesi\obj\Debug\05_MethodunParametreGonderilmesi.pdb

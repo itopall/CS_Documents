@@ -1,0 +1,204 @@
+﻿@model ETrade.Dto.Dto.Employee.EmployeeDto
+@{
+    ViewBag.Title = "AddEdit";
+}
+
+@section styles{
+    <style></style>
+}
+
+@section scripts{
+    <script>
+        $(function () {
+            $('#reservationdate').datetimepicker({
+                format: 'L',
+                language: "tr",
+                //format: 'dd/mm/yyyy'
+            });
+        })
+
+        //Datemask dd/mm/yyyy
+        //$('#datemask').inputmask('dd/mm/yyyy', { 'placeholder': 'dd/mm/yyyy' })
+        //Datemask2 mm/dd/yyyy
+        //$('#datemask2').inputmask('mm/dd/yyyy', { 'placeholder': 'mm/dd/yyyy' })
+        //Money Euro
+        //$('[data-mask]').inputmask()
+
+    </script>
+}
+
+@using (Html.BeginForm("AddEdit", "Employee", FormMethod.Post, new { @id = "frmSave", enctype = "multipart/form-data" }))
+{
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">Ekleme/Güncelleme Formu</h3>
+
+            <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                    <i class="fas fa-minus"></i>
+                </button>
+            </div>
+        </div>
+        <div class="card-body">
+
+            @* 1. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.EmployeeTypeId, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.DropDownListFor(p => p.EmployeeTypeId, new SelectList(Model.EmployeeTypeList, "Id", "Name"), "Seçiniz..", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(p => p.EmployeeTypeId)
+                </div>
+
+                <div class="col-sm-1"></div>
+
+                @Html.LabelFor(p => p.ManagerEmployeeId, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.DropDownListFor(p => p.ManagerEmployeeId, new SelectList(Model.EmployeeList, "Id", "NameSurname"), "Seçiniz..", new { @class = "form-control" })
+                </div>
+            </div>
+
+            @* 2. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Username, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextBoxFor(p => p.Username, new { @class = "form-control", @placeholder = "Kullanıcı Adı" })
+                    @Html.ValidationMessageFor(p => p.Username)
+                </div>
+
+                <div class="col-sm-1"></div>
+
+                @Html.LabelFor(p => p.Password, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.PasswordFor(p => p.Password, new { @class = "form-control", @placeholder = "Şifre" })
+                    @Html.ValidationMessageFor(p => p.Password)
+                </div>
+            </div>
+
+            @* 3. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Namesurname, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextBoxFor(p => p.Namesurname, new { @class = "form-control", @placeholder = "İsim Soyisim" })
+                    @Html.ValidationMessageFor(p => p.Namesurname)
+                </div>
+
+                <div class="col-sm-1"></div>
+
+                @Html.LabelFor(p => p.Email, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextBoxFor(p => p.Email, new { @class = "form-control", @placeholder = "Email" })
+                    @Html.ValidationMessageFor(p => p.Email)
+                </div>
+            </div>
+
+            @* 4. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Phone, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextBoxFor(p => p.Phone, new { @class = "form-control", @placeholder = "Telefon" })
+                    @Html.ValidationMessageFor(p => p.Phone)
+                </div>
+
+                <div class="col-sm-1"></div>
+
+                @Html.LabelFor(p => p.RelatedPhone, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextBoxFor(p => p.RelatedPhone, new { @class = "form-control", @placeholder = "Tanıdık Telefon" })
+                </div>
+            </div>
+
+            @* 5. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Title, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextBoxFor(p => p.Title, new { @class = "form-control", @placeholder = "Ünvan" })
+                </div>
+
+                <div class="col-sm-1"></div>
+
+                @Html.LabelFor(p => p.BirthDate, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @*<div class="input-group-prepend">
+                            <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                        </div>*@
+                    @*<input type="text" class="form-control" value="@Model.BirthDate" data-inputmask-alias="datetime" data-inputmask-inputformat="dd/mm/yyyy" data-mask>*@
+
+                    <div class="input-group date" id="reservationdate" data-target-input="nearest">
+
+                        @*<input type="text" class="form-control datetimepicker-input" data-target="#reservationdate" />*@
+                        @Html.TextBoxFor(p => p.BirthDate, new { @class = "form-control datetimepicker-input", @placeholder = "Doğum Tarihi" })
+
+                        <div class="input-group-append" data-target="#reservationdate" data-toggle="datetimepicker">
+                            <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                        </div>
+                    </div>
+
+                    @*@Html.TextBoxFor(p => p.BirthDate, new { @class = "form-control", @placeholder = "Doğum Tarihi", @id = "dpBirthDate" })*@
+                    @Html.ValidationMessageFor(p => p.BirthDate)
+
+                    @*<div class="input-group date" id="reservationdate" data-target-input="nearest">
+                            <input type="text" class="form-control datetimepicker-input" data-target="#reservationdate">
+                            <div class="input-group-append" data-target="#reservationdate" data-toggle="datetimepicker">
+                                <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                            </div>
+                        </div>*@
+                </div>
+            </div>
+
+            @* 6. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Gender, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.CheckBoxFor(p => p.Gender, new { @placeholder = "Aktif Mi" })
+                </div>
+
+                <div class="col-sm-1"></div>
+
+                @Html.LabelFor(p => p.IsActive, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.CheckBoxFor(p => p.IsActive, new { @placeholder = "Aktif Mi" })
+                </div>
+            </div>
+
+            @* 7. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Address, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextAreaFor(p => p.Address, new { @class = "form-control", @placeholder = "Adres" })
+                    @Html.ValidationMessageFor(p => p.Address)
+                </div>
+
+                <div class="col-sm-1"></div>
+
+                @Html.LabelFor(p => p.Address2, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextAreaFor(p => p.Address2, new { @class = "form-control", @placeholder = "Adres-2" })
+                </div>
+            </div>
+
+            @* 8. Satır *@
+            <div class="form-group row">
+                @Html.LabelFor(p => p.Description, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @Html.TextAreaFor(p => p.Description, new { @class = "form-control", @placeholder = "Açıklama" })
+                </div>
+
+                <div class="col-sm-1"></div>
+
+                @Html.LabelFor(p => p.ImageUrl, new { @class = "col-sm-2 col-form-label" })
+                <div class="col-sm-3">
+                    @*<input type="file" name="uploadFiles" multiple /> Birden fazla resim seçtirebilmek için multiple property'si eklenebilir. *@
+                    <input type="file" name="uploadFiles" />
+                </div>
+            </div>
+
+        </div>
+        <!-- /.card-body -->
+        <div class="card-footer">
+            <a href="~/Employee/Index" class="btn btn-primary">Listeye Dön</a>
+            <input type="submit" class="btn btn-success" id="btnSave" value="Kaydet" />
+        </div>
+        <!-- /.card-footer-->
+    </div>
+}
+

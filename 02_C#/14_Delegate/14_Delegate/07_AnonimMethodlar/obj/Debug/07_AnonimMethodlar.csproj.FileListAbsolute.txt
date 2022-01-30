@@ -1,0 +1,6 @@
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\07_AnonimMethodlar\bin\Debug\07_AnonimMethodlar.exe.config
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\07_AnonimMethodlar\bin\Debug\07_AnonimMethodlar.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\07_AnonimMethodlar\bin\Debug\07_AnonimMethodlar.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\07_AnonimMethodlar\obj\Debug\07_AnonimMethodlar.exe
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\07_AnonimMethodlar\obj\Debug\07_AnonimMethodlar.pdb
+E:\MCSD_280919\02_C#\14_Delegate\14_Delegate\07_AnonimMethodlar\obj\Debug\07_AnonimMethodlar.csprojAssemblyReference.cache

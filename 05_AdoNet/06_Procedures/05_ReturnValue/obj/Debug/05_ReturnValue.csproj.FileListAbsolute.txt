@@ -1,0 +1,6 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\05_ReturnValue\bin\Debug\05_ReturnValue.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\05_ReturnValue\bin\Debug\05_ReturnValue.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\05_ReturnValue\bin\Debug\05_ReturnValue.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\05_ReturnValue\obj\Debug\05_ReturnValue.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\05_ReturnValue\obj\Debug\05_ReturnValue.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\05_AdoNet\06_Procedures\05_ReturnValue\obj\Debug\05_ReturnValue.pdb

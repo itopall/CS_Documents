@@ -1,0 +1,7 @@
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\02_Inheritance_Ornekler\bin\Debug\02_Inheritance_Ornekler.exe.config
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\02_Inheritance_Ornekler\bin\Debug\02_Inheritance_Ornekler.exe
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\02_Inheritance_Ornekler\bin\Debug\02_Inheritance_Ornekler.pdb
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\02_Inheritance_Ornekler\obj\Debug\02_Inheritance_Ornekler.csprojAssemblyReference.cache
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\02_Inheritance_Ornekler\obj\Debug\02_Inheritance_Ornekler.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\02_Inheritance_Ornekler\obj\Debug\02_Inheritance_Ornekler.exe
+E:\MCSD_280919\02_C#\02_OOP\01_Inheritance\02_Inheritance_Ornekler\obj\Debug\02_Inheritance_Ornekler.pdb

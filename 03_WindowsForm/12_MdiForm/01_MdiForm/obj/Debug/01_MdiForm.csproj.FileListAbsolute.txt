@@ -1,0 +1,11 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\bin\Debug\01_MdiForm.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\bin\Debug\01_MdiForm.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\bin\Debug\01_MdiForm.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\obj\Debug\01_MdiForm.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\obj\Debug\_01_MdiForm.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\obj\Debug\_01_MdiForm.Form2.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\obj\Debug\_01_MdiForm.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\obj\Debug\_01_MdiForm.Urunler.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\obj\Debug\01_MdiForm.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\obj\Debug\01_MdiForm.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\12_MdiForm\01_MdiForm\obj\Debug\01_MdiForm.pdb

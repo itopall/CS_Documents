@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\02_ForDongusu_ornekleri\bin\Debug\02_ForDongusu_ornekleri.exe.config
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\02_ForDongusu_ornekleri\bin\Debug\02_ForDongusu_ornekleri.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\02_ForDongusu_ornekleri\bin\Debug\02_ForDongusu_ornekleri.pdb
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\02_ForDongusu_ornekleri\obj\Debug\02_ForDongusu_ornekleri.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\02_ForDongusu_ornekleri\obj\Debug\02_ForDongusu_ornekleri.exe
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\02_ForDongusu_ornekleri\obj\Debug\02_ForDongusu_ornekleri.pdb
+E:\MCSD_280919\01_C#-giris\06_donguler\06_donguler\02_ForDongusu_ornekleri\obj\Debug\02_ForDongusu_ornekleri.csprojAssemblyReference.cache

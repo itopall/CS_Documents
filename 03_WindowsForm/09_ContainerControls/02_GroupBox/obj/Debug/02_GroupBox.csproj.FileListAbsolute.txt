@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\02_GroupBox\bin\Debug\02_GroupBox.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\02_GroupBox\bin\Debug\02_GroupBox.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\02_GroupBox\bin\Debug\02_GroupBox.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\02_GroupBox\obj\Debug\_02_GroupBox.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\02_GroupBox\obj\Debug\_02_GroupBox.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\02_GroupBox\obj\Debug\02_GroupBox.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\02_GroupBox\obj\Debug\02_GroupBox.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\09_ContainerControls\02_GroupBox\obj\Debug\02_GroupBox.pdb

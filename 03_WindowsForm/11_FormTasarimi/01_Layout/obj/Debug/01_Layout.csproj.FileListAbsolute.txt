@@ -1,0 +1,8 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\01_Layout\bin\Debug\01_Layout.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\01_Layout\bin\Debug\01_Layout.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\01_Layout\bin\Debug\01_Layout.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\01_Layout\obj\Debug\_01_Layout.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\01_Layout\obj\Debug\_01_Layout.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\01_Layout\obj\Debug\01_Layout.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\01_Layout\obj\Debug\01_Layout.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\11_FormTasarimi\01_Layout\obj\Debug\01_Layout.pdb

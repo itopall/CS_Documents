@@ -1,0 +1,9 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\03_ListControls\01_ListBox\bin\Debug\01_ListBox.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\03_ListControls\01_ListBox\bin\Debug\01_ListBox.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\03_ListControls\01_ListBox\bin\Debug\01_ListBox.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\03_ListControls\01_ListBox\obj\Debug\01_ListBox.csprojResolveAssemblyReference.cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\03_ListControls\01_ListBox\obj\Debug\_01_ListBox.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\03_ListControls\01_ListBox\obj\Debug\_01_ListBox.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\03_ListControls\01_ListBox\obj\Debug\01_ListBox.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\03_ListControls\01_ListBox\obj\Debug\01_ListBox.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\03_ListControls\01_ListBox\obj\Debug\01_ListBox.pdb

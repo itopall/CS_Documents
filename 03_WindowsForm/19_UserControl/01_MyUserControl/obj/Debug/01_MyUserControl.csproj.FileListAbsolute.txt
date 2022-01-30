@@ -1,0 +1,7 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\01_MyUserControl\bin\Debug\01_MyUserControl.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\01_MyUserControl\bin\Debug\01_MyUserControl.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\01_MyUserControl\obj\Debug\_01_MyUserControl.HarfButton.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\01_MyUserControl\obj\Debug\_01_MyUserControl.MyCombobox.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\01_MyUserControl\obj\Debug\01_MyUserControl.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\01_MyUserControl\obj\Debug\01_MyUserControl.dll
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\19_UserControl\01_MyUserControl\obj\Debug\01_MyUserControl.pdb

@@ -1,0 +1,7 @@
+E:\MCSD_280919\01_C#-giris\08_Methodlar\03_Method_ornekleri\bin\Debug\03_Method_ornekleri.exe.config
+E:\MCSD_280919\01_C#-giris\08_Methodlar\03_Method_ornekleri\bin\Debug\03_Method_ornekleri.exe
+E:\MCSD_280919\01_C#-giris\08_Methodlar\03_Method_ornekleri\bin\Debug\03_Method_ornekleri.pdb
+E:\MCSD_280919\01_C#-giris\08_Methodlar\03_Method_ornekleri\obj\Debug\03_Method_ornekleri.csprojAssemblyReference.cache
+E:\MCSD_280919\01_C#-giris\08_Methodlar\03_Method_ornekleri\obj\Debug\03_Method_ornekleri.csproj.CoreCompileInputs.cache
+E:\MCSD_280919\01_C#-giris\08_Methodlar\03_Method_ornekleri\obj\Debug\03_Method_ornekleri.exe
+E:\MCSD_280919\01_C#-giris\08_Methodlar\03_Method_ornekleri\obj\Debug\03_Method_ornekleri.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\bin\Debug\04_OwnerForm.exe.config
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\bin\Debug\04_OwnerForm.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\bin\Debug\04_OwnerForm.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\obj\Debug\_04_OwnerForm.Form1.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\obj\Debug\_04_OwnerForm.Form2.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\obj\Debug\_04_OwnerForm.Properties.Resources.resources
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\obj\Debug\04_OwnerForm.csproj.GenerateResource.Cache
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\obj\Debug\04_OwnerForm.exe
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\obj\Debug\04_OwnerForm.pdb
+C:\Users\Ekrem\Desktop\Eğitimler\MCSD_280919\03_WindowsForm\18_FormIslemleri\04_OwnerForm\obj\Debug\04_OwnerForm.csprojResolveAssemblyReference.cache

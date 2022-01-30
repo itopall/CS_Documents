@@ -1,0 +1,5 @@
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\10_TryCatchBloklarındaAsync\bin\Debug\10_TryCatchBloklarındaAsync.exe.config
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\10_TryCatchBloklarındaAsync\bin\Debug\10_TryCatchBloklarındaAsync.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\10_TryCatchBloklarındaAsync\bin\Debug\10_TryCatchBloklarındaAsync.pdb
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\10_TryCatchBloklarındaAsync\obj\Debug\10_TryCatchBloklarındaAsync.exe
+E:\MCSD_280919\02_C#\13_RoslynYenilikleri\13_RoslynYenilikleri\10_TryCatchBloklarındaAsync\obj\Debug\10_TryCatchBloklarındaAsync.pdb
